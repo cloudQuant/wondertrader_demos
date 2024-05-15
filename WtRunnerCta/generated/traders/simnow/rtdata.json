@@ -1,0 +1,32 @@
+{
+    "positions": [
+        {
+            "code": "SHFE.rb.2405",
+            "long": {
+                "newvol": 0.0,
+                "newavail": 0.0,
+                "prevol": 1.0,
+                "preavail": 1.0
+            },
+            "short": {
+                "newvol": 0.0,
+                "newavail": 0.0,
+                "prevol": 0.0,
+                "preavail": 0.0
+            }
+        }
+    ],
+    "funds": {
+        "CNY": {
+            "prebalance": 985908.07,
+            "balance": 985908.07,
+            "closeprofit": 0.0,
+            "dynprofit": -1049.9999999999927,
+            "margin": 5625.6,
+            "fee": 0.0,
+            "available": 979232.47,
+            "deposit": 0.0,
+            "withdraw": 0.0
+        }
+    }
+}

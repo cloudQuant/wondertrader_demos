@@ -1,0 +1,147 @@
+[2024.05.15 15:58:02 - error] No session configured for INE.ec
+[2024.05.15 15:58:02 - error] No session configured for GFEX.lc
+[2024.05.15 15:58:02 - error] No session configured for GFEX.si
+[2024.05.15 15:58:02 - error] No session configured for SHFE.br
+[2024.05.15 15:58:02 - error] No session configured for SHFE.ao
+[2024.05.15 15:58:02 - error] No session configured for CFFEX.IM
+[2024.05.15 15:58:02 - error] No session configured for CFFEX.TL
+[2024.05.15 15:58:02 - error] No session configured for CZCE.PK
+[2024.05.15 15:58:02 - error] No session configured for CZCE.PX
+[2024.05.15 15:58:02 - error] No session configured for CZCE.SH
+[2024.05.15 15:58:02 - info ] Commodities configuration file ../common/commodities.json loaded
+[2024.05.15 15:58:02 - warning] Commodity INE.ec not found, contract ec2408 skipped
+[2024.05.15 15:58:02 - warning] Commodity INE.ec not found, contract ec2504 skipped
+[2024.05.15 15:58:02 - warning] Commodity INE.ec not found, contract ec2410 skipped
+[2024.05.15 15:58:02 - warning] Commodity INE.ec not found, contract ec2412 skipped
+[2024.05.15 15:58:02 - warning] Commodity INE.ec not found, contract ec2406 skipped
+[2024.05.15 15:58:02 - warning] Commodity INE.ec not found, contract ec2502 skipped
+[2024.05.15 15:58:02 - warning] Commodity GFEX.lc not found, contract lc2503 skipped
+[2024.05.15 15:58:02 - warning] Commodity GFEX.si not found, contract si2412 skipped
+[2024.05.15 15:58:02 - warning] Commodity GFEX.si not found, contract si2408 skipped
+[2024.05.15 15:58:02 - warning] Commodity GFEX.si not found, contract si2406 skipped
+[2024.05.15 15:58:02 - warning] Commodity GFEX.lc not found, contract lc2405 skipped
+[2024.05.15 15:58:02 - warning] Commodity GFEX.si not found, contract si2409 skipped
+[2024.05.15 15:58:02 - warning] Commodity GFEX.si not found, contract si2407 skipped
+[2024.05.15 15:58:02 - warning] Commodity GFEX.lc not found, contract lc2410 skipped
+[2024.05.15 15:58:02 - warning] Commodity GFEX.si not found, contract si2411 skipped
+[2024.05.15 15:58:02 - warning] Commodity GFEX.lc not found, contract lc2411 skipped
+[2024.05.15 15:58:02 - warning] Commodity GFEX.lc not found, contract lc2504 skipped
+[2024.05.15 15:58:02 - warning] Commodity GFEX.lc not found, contract lc2501 skipped
+[2024.05.15 15:58:02 - warning] Commodity GFEX.si not found, contract si2410 skipped
+[2024.05.15 15:58:02 - warning] Commodity GFEX.lc not found, contract lc2407 skipped
+[2024.05.15 15:58:02 - warning] Commodity GFEX.lc not found, contract lc2409 skipped
+[2024.05.15 15:58:02 - warning] Commodity GFEX.si not found, contract si2405 skipped
+[2024.05.15 15:58:02 - warning] Commodity GFEX.lc not found, contract lc2502 skipped
+[2024.05.15 15:58:02 - warning] Commodity GFEX.lc not found, contract lc2406 skipped
+[2024.05.15 15:58:02 - warning] Commodity GFEX.lc not found, contract lc2408 skipped
+[2024.05.15 15:58:02 - warning] Commodity GFEX.lc not found, contract lc2412 skipped
+[2024.05.15 15:58:02 - warning] Commodity SHFE.ao not found, contract ao2407 skipped
+[2024.05.15 15:58:02 - warning] Commodity SHFE.br not found, contract br2501 skipped
+[2024.05.15 15:58:02 - warning] Commodity SHFE.br not found, contract br2411 skipped
+[2024.05.15 15:58:02 - warning] Commodity SHFE.br not found, contract br2406 skipped
+[2024.05.15 15:58:02 - warning] Commodity SHFE.ao not found, contract ao2405 skipped
+[2024.05.15 15:58:02 - warning] Commodity SHFE.br not found, contract br2408 skipped
+[2024.05.15 15:58:02 - warning] Commodity SHFE.br not found, contract br2410 skipped
+[2024.05.15 15:58:02 - warning] Commodity SHFE.br not found, contract br2407 skipped
+[2024.05.15 15:58:02 - warning] Commodity SHFE.ao not found, contract ao2411 skipped
+[2024.05.15 15:58:02 - warning] Commodity SHFE.ao not found, contract ao2503 skipped
+[2024.05.15 15:58:02 - warning] Commodity SHFE.br not found, contract br2409 skipped
+[2024.05.15 15:58:02 - warning] Commodity SHFE.ao not found, contract ao2504 skipped
+[2024.05.15 15:58:02 - warning] Commodity SHFE.ao not found, contract ao2410 skipped
+[2024.05.15 15:58:02 - warning] Commodity SHFE.ao not found, contract ao2502 skipped
+[2024.05.15 15:58:02 - warning] Commodity SHFE.br not found, contract br2504 skipped
+[2024.05.15 15:58:02 - warning] Commodity SHFE.br not found, contract br2412 skipped
+[2024.05.15 15:58:02 - warning] Commodity SHFE.br not found, contract br2405 skipped
+[2024.05.15 15:58:02 - warning] Commodity SHFE.ao not found, contract ao2408 skipped
+[2024.05.15 15:58:02 - warning] Commodity SHFE.ao not found, contract ao2501 skipped
+[2024.05.15 15:58:02 - warning] Commodity SHFE.br not found, contract br2503 skipped
+[2024.05.15 15:58:02 - warning] Commodity SHFE.ao not found, contract ao2412 skipped
+[2024.05.15 15:58:02 - warning] Commodity SHFE.ao not found, contract ao2406 skipped
+[2024.05.15 15:58:02 - warning] Commodity SHFE.ao not found, contract ao2409 skipped
+[2024.05.15 15:58:02 - warning] Commodity SHFE.br not found, contract br2502 skipped
+[2024.05.15 15:58:02 - warning] Commodity CFFEX.IM not found, contract IM2412 skipped
+[2024.05.15 15:58:02 - warning] Commodity CFFEX.IM not found, contract IM2409 skipped
+[2024.05.15 15:58:02 - warning] Commodity CFFEX.IM not found, contract IM2405 skipped
+[2024.05.15 15:58:02 - warning] Commodity CFFEX.TL not found, contract TL2409 skipped
+[2024.05.15 15:58:02 - warning] Commodity CFFEX.IM not found, contract IM2406 skipped
+[2024.05.15 15:58:02 - warning] Commodity CFFEX.TL not found, contract TL2412 skipped
+[2024.05.15 15:58:02 - warning] Commodity CFFEX.TL not found, contract TL2406 skipped
+[2024.05.15 15:58:02 - warning] Commodity CZCE.PX not found, contract PX407 skipped
+[2024.05.15 15:58:02 - warning] Commodity CZCE.PX not found, contract PX412 skipped
+[2024.05.15 15:58:02 - warning] Commodity CZCE.PK not found, contract PK410 skipped
+[2024.05.15 15:58:02 - warning] Commodity CZCE.PX not found, contract PX409 skipped
+[2024.05.15 15:58:02 - warning] Commodity CZCE.PK not found, contract PK504 skipped
+[2024.05.15 15:58:02 - warning] Commodity CZCE.SH not found, contract SH501 skipped
+[2024.05.15 15:58:02 - warning] Commodity CZCE.PK not found, contract PK411 skipped
+[2024.05.15 15:58:02 - warning] Commodity CZCE.PX not found, contract PX504 skipped
+[2024.05.15 15:58:02 - warning] Commodity CZCE.SH not found, contract SH410 skipped
+[2024.05.15 15:58:02 - warning] Commodity CZCE.PX not found, contract PX405 skipped
+[2024.05.15 15:58:02 - warning] Commodity CZCE.SH not found, contract SH409 skipped
+[2024.05.15 15:58:02 - warning] Commodity CZCE.SH not found, contract SH502 skipped
+[2024.05.15 15:58:02 - warning] Commodity CZCE.PK not found, contract PK412 skipped
+[2024.05.15 15:58:02 - warning] Commodity CZCE.PX not found, contract PX503 skipped
+[2024.05.15 15:58:02 - warning] Commodity CZCE.SH not found, contract SH411 skipped
+[2024.05.15 15:58:02 - warning] Commodity CZCE.SH not found, contract SH504 skipped
+[2024.05.15 15:58:02 - warning] Commodity CZCE.SH not found, contract SH408 skipped
+[2024.05.15 15:58:02 - warning] Commodity CZCE.SH not found, contract SH503 skipped
+[2024.05.15 15:58:02 - warning] Commodity CZCE.SH not found, contract SH405 skipped
+[2024.05.15 15:58:02 - warning] Commodity CZCE.PX not found, contract PX502 skipped
+[2024.05.15 15:58:02 - warning] Commodity CZCE.PX not found, contract PX411 skipped
+[2024.05.15 15:58:02 - warning] Commodity CZCE.PK not found, contract PK503 skipped
+[2024.05.15 15:58:02 - warning] Commodity CZCE.PX not found, contract PX501 skipped
+[2024.05.15 15:58:02 - warning] Commodity CZCE.PX not found, contract PX410 skipped
+[2024.05.15 15:58:02 - warning] Commodity CZCE.SH not found, contract SH407 skipped
+[2024.05.15 15:58:02 - warning] Commodity CZCE.PX not found, contract PX406 skipped
+[2024.05.15 15:58:02 - warning] Commodity CZCE.PK not found, contract PK501 skipped
+[2024.05.15 15:58:02 - warning] Commodity CZCE.PX not found, contract PX408 skipped
+[2024.05.15 15:58:02 - warning] Commodity CZCE.SH not found, contract SH406 skipped
+[2024.05.15 15:58:02 - warning] Commodity CZCE.SH not found, contract SH412 skipped
+[2024.05.15 15:58:02 - info ] Contracts configuration file ../common/contracts.json loaded, 5 exchanges
+[2024.05.15 15:58:02 - info ] Trading enviroment initialzied with engine: CTA
+[2024.05.15 15:58:02 - info ] Platform running mode: Production
+[2024.05.15 15:58:02 - info ] 36 fee templates loaded
+[2024.05.15 15:58:02 - info ] [RiskControl] Params inited, Checking frequency: 5 s, MaxIDD: ON(20.00%), MaxMDD: OFF(60.00%), Capital: 5000000.0, Profit Boudary: 101.00%, Calc Span: 30 mins, Risk Scale: 0.30
+[2024.05.15 15:58:02 - debug] Storage initialized @ ../FUT_Data/
+[2024.05.15 15:58:02 - info ] No adjusting factor file configured, loading skipped
+[2024.05.15 15:58:02 - info ] Data manager initialized
+[2024.05.15 15:58:02 - info ] Reading parser config from tdparsers.yaml...
+[2024.05.15 15:58:02 - info ] [parser1] Parser module D:/source_code/wondertrader_demos/WtRunnerCta/parsers/ParserUDP.dll loaded
+[2024.05.15 15:58:02 - info ] 1 parsers loaded
+[2024.05.15 15:58:02 - info ] Reading trader config from tdtraders.yaml...
+[2024.05.15 15:58:02 - info ] [simnow] Risk control rule default of trading channel loaded
+[2024.05.15 15:58:02 - info ] [simnow] Trader module D:/source_code/wondertrader_demos/WtRunnerCta/traders/TraderCTP.dll loaded
+[2024.05.15 15:58:02 - info ] 1 traders loaded
+[2024.05.15 15:58:02 - info ] Reading executer config from executers.yaml...
+[2024.05.15 15:58:02 - info ] Executer factory WtExeFact loaded
+[2024.05.15 15:58:02 - info ] 0 executers loaded
+[2024.05.15 15:58:02 - info ] CTA strategy factory[WtCtaStraFact] loaded
+[2024.05.15 15:58:02 - info ] 1 CTA strategy factories in directory[D:/source_code/wondertrader_demos/WtRunnerCta/cta/] loaded
+[2024.05.15 15:58:02 - info ] [ParserUDP] Ticks subscribing sent
+[2024.05.15 15:58:02 - error] [ParserUDP] Error occured while receiving: 由于目标计算机积极拒绝，无法连接。(10061)
+[2024.05.15 15:58:02 - info ] 1 parsers started
+[2024.05.15 15:58:02 - info ] 1 trading channels started
+[2024.05.15 15:58:02 - info ] CtaTicker will drive engine with session TRADING
+[2024.05.15 15:58:02 - debug] Main KBars confirmed：CFFEX.rb.HOT#m1
+[2024.05.15 15:58:02 - info ] Trading day 20240515 begun
+[2024.05.15 15:58:04 - info ] [ParserUDP] Ticks subscribing sent
+[2024.05.15 15:58:04 - error] [ParserUDP] Error occured while receiving: 由于线程退出或应用程序请求，已中止 I/O 操作。(995)
+[2024.05.15 15:58:05 - info ] [TraderCTP][9999-089763] Login succeed, AppID: simnow_client_test, Sessionid: 1796788113, login time: 15:58:06...
+[2024.05.15 15:58:05 - info ] [TraderCTP][9999-089763] Login succeed, trading date: 20240515...
+[2024.05.15 15:58:05 - info ] [TraderCTP][9999-089763] Querying confirming state of settlement data...
+[2024.05.15 15:58:06 - info ] [TraderCTP][9999-089763] Trading channel initialized...
+[2024.05.15 15:58:06 - info ] [simnow] Trader login succeed, trading date: 20240515
+[2024.05.15 15:58:06 - info ] [ParserUDP] Ticks subscribing sent
+[2024.05.15 15:58:06 - error] [ParserUDP] Error occured while receiving: 由于目标计算机积极拒绝，无法连接。(10061)
+[2024.05.15 15:58:06 - info ] [simnow] SHFE.rb.2405 position updated, long:1[1]|0[0], short:0[0]|0[0]
+[2024.05.15 15:58:06 - info ] [simnow] Position data updated
+[2024.05.15 15:58:08 - info ] [ParserUDP] Ticks subscribing sent
+[2024.05.15 15:58:08 - error] [ParserUDP] Error occured while receiving: 由于线程退出或应用程序请求，已中止 I/O 操作。(995)
+[2024.05.15 15:58:10 - info ] [simnow] Trading channel ready
+[2024.05.15 15:58:10 - info ] [ParserUDP] Ticks subscribing sent
+[2024.05.15 15:58:10 - error] [ParserUDP] Error occured while receiving: 由于目标计算机积极拒绝，无法连接。(10061)
+[2024.05.15 15:58:12 - info ] [ParserUDP] Ticks subscribing sent
+[2024.05.15 15:58:12 - error] [ParserUDP] Error occured while receiving: 由于线程退出或应用程序请求，已中止 I/O 操作。(995)
+[2024.05.15 15:58:14 - info ] [ParserUDP] Ticks subscribing sent
+[2024.05.15 15:58:14 - error] [ParserUDP] Error occured while receiving: 由于目标计算机积极拒绝，无法连接。(10061)
+[2024.05.15 15:58:16 - info ] [ParserUDP] Ticks subscribing sent
+[2024.05.15 15:58:16 - error] [ParserUDP] Error occured while receiving: 由于线程退出或应用程序请求，已中止 I/O 操作。(995)

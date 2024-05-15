@@ -1,0 +1,17 @@
+[2024.05.15 15:58:02 - info ] [parser1] Parser module D:/source_code/wondertrader_demos/WtRunnerCta/parsers/ParserUDP.dll loaded
+[2024.05.15 15:58:02 - info ] [ParserUDP] Ticks subscribing sent
+[2024.05.15 15:58:02 - error] [ParserUDP] Error occured while receiving: 由于目标计算机积极拒绝，无法连接。(10061)
+[2024.05.15 15:58:04 - info ] [ParserUDP] Ticks subscribing sent
+[2024.05.15 15:58:04 - error] [ParserUDP] Error occured while receiving: 由于线程退出或应用程序请求，已中止 I/O 操作。(995)
+[2024.05.15 15:58:06 - info ] [ParserUDP] Ticks subscribing sent
+[2024.05.15 15:58:06 - error] [ParserUDP] Error occured while receiving: 由于目标计算机积极拒绝，无法连接。(10061)
+[2024.05.15 15:58:08 - info ] [ParserUDP] Ticks subscribing sent
+[2024.05.15 15:58:08 - error] [ParserUDP] Error occured while receiving: 由于线程退出或应用程序请求，已中止 I/O 操作。(995)
+[2024.05.15 15:58:10 - info ] [ParserUDP] Ticks subscribing sent
+[2024.05.15 15:58:10 - error] [ParserUDP] Error occured while receiving: 由于目标计算机积极拒绝，无法连接。(10061)
+[2024.05.15 15:58:12 - info ] [ParserUDP] Ticks subscribing sent
+[2024.05.15 15:58:12 - error] [ParserUDP] Error occured while receiving: 由于线程退出或应用程序请求，已中止 I/O 操作。(995)
+[2024.05.15 15:58:14 - info ] [ParserUDP] Ticks subscribing sent
+[2024.05.15 15:58:14 - error] [ParserUDP] Error occured while receiving: 由于目标计算机积极拒绝，无法连接。(10061)
+[2024.05.15 15:58:16 - info ] [ParserUDP] Ticks subscribing sent
+[2024.05.15 15:58:16 - error] [ParserUDP] Error occured while receiving: 由于线程退出或应用程序请求，已中止 I/O 操作。(995)
