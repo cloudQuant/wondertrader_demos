@@ -86,7 +86,7 @@
             "precision": 2,
             "pricetick": 0.01,
             "volscale": 10000,
-            "name": "TL",
+            "name": "30年期国债期货",
             "exchg": "CFFEX",
             "session": "",
             "holiday": "CHINA"
@@ -270,7 +270,7 @@
             "precision": 0,
             "pricetick": 2.0,
             "volscale": 5,
-            "name": "PX",
+            "name": "对二甲苯7月",
             "exchg": "CZCE",
             "session": "",
             "holiday": "CHINA"
@@ -348,7 +348,7 @@
             "precision": 0,
             "pricetick": 1.0,
             "volscale": 30,
-            "name": "烧碱12月",
+            "name": "烧碱6月",
             "exchg": "CZCE",
             "session": "",
             "holiday": "CHINA"
@@ -716,7 +716,7 @@
             "precision": 0,
             "pricetick": 50.0,
             "volscale": 1,
-            "name": "lc",
+            "name": "碳酸锂",
             "exchg": "GFEX",
             "session": "",
             "holiday": "CHINA"
