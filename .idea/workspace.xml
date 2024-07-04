@@ -10,189 +10,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="24fc4485-eb6a-48ac-baab-4c5a35115b2d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/001_run_bt_dual_truast_strategy_0/BtLogs/Runner.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/001_run_bt_dual_truast_strategy_0/BtLogs/Strategy_dt_if.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/001_run_bt_dual_truast_strategy_0/WtBtRunner.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/001_run_bt_dual_truast_strategy_0/WtCtaStraFact.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/001_run_bt_dual_truast_strategy_0/common/commodities.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/001_run_bt_dual_truast_strategy_0/common/contracts.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/001_run_bt_dual_truast_strategy_0/common/fees.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/001_run_bt_dual_truast_strategy_0/common/fees_stk.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/001_run_bt_dual_truast_strategy_0/common/holidays.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/001_run_bt_dual_truast_strategy_0/common/hots.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/001_run_bt_dual_truast_strategy_0/common/sessions.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/001_run_bt_dual_truast_strategy_0/common/stk_comms.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/001_run_bt_dual_truast_strategy_0/common/stocks.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/001_run_bt_dual_truast_strategy_0/configbt.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/001_run_bt_dual_truast_strategy_0/logcfgbt.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/001_run_bt_dual_truast_strategy_0/outputs_bt/dt_if/closes.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/001_run_bt_dual_truast_strategy_0/outputs_bt/dt_if/funds.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/001_run_bt_dual_truast_strategy_0/outputs_bt/dt_if/signals.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/001_run_bt_dual_truast_strategy_0/outputs_bt/dt_if/trades.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/001_run_bt_dual_truast_strategy_0/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/001_run_bt_dual_truast_strategy_0/storage/bin/ticks/CFFEX.IF.HOT_tick_20210104.dsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/001_run_bt_dual_truast_strategy_0/storage/bin/ticks/CFFEX.IF.HOT_tick_20210105.dsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/001_run_bt_dual_truast_strategy_0/storage/bin/ticks/CFFEX.IF.HOT_tick_20210106.dsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/001_run_bt_dual_truast_strategy_0/storage/csv/CFFEX.IF.HOT_m5.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/001_run_bt_dual_truast_strategy_0/storage/his/min5/CFFEX/CFFEX.IF_HOT.dsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/001_run_bt_dual_truast_strategy_1/BtLogs/Runner.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/001_run_bt_dual_truast_strategy_1/BtLogs/Strategy_dt_if.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/001_run_bt_dual_truast_strategy_1/WtBtRunner.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/001_run_bt_dual_truast_strategy_1/WtCtaStraFact.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/001_run_bt_dual_truast_strategy_1/common/commodities.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/001_run_bt_dual_truast_strategy_1/common/contracts.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/001_run_bt_dual_truast_strategy_1/common/fees.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/001_run_bt_dual_truast_strategy_1/common/fees_stk.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/001_run_bt_dual_truast_strategy_1/common/holidays.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/001_run_bt_dual_truast_strategy_1/common/hots.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/001_run_bt_dual_truast_strategy_1/common/sessions.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/001_run_bt_dual_truast_strategy_1/common/stk_comms.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/001_run_bt_dual_truast_strategy_1/common/stocks.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/001_run_bt_dual_truast_strategy_1/configbt.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/001_run_bt_dual_truast_strategy_1/logcfgbt.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/001_run_bt_dual_truast_strategy_1/outputs_bt/dt_if/closes.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/001_run_bt_dual_truast_strategy_1/outputs_bt/dt_if/funds.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/001_run_bt_dual_truast_strategy_1/outputs_bt/dt_if/signals.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/001_run_bt_dual_truast_strategy_1/outputs_bt/dt_if/trades.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/001_run_bt_dual_truast_strategy_1/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/001_run_bt_dual_truast_strategy_1/storage/bin/ticks/CFFEX.IF.HOT_tick_20210104.dsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/001_run_bt_dual_truast_strategy_1/storage/bin/ticks/CFFEX.IF.HOT_tick_20210105.dsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/001_run_bt_dual_truast_strategy_1/storage/bin/ticks/CFFEX.IF.HOT_tick_20210106.dsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/001_run_bt_dual_truast_strategy_1/storage/csv/CFFEX.IF.HOT_m5.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/001_run_bt_dual_truast_strategy_1/storage/his/min5/CFFEX/CFFEX.IF_HOT.dsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002_run_bt_ma_strategy/BtLogs/Runner.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002_run_bt_ma_strategy/BtLogs/Strategy_dt_if.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002_run_bt_ma_strategy/WtBtRunner-exe20240617094658.dmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002_run_bt_ma_strategy/WtBtRunner-exe20240617094929.dmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002_run_bt_ma_strategy/WtBtRunner.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002_run_bt_ma_strategy/common/commodities.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002_run_bt_ma_strategy/common/contracts.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002_run_bt_ma_strategy/common/fees.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002_run_bt_ma_strategy/common/fees_stk.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002_run_bt_ma_strategy/common/holidays.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002_run_bt_ma_strategy/common/hots.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002_run_bt_ma_strategy/common/sessions.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002_run_bt_ma_strategy/common/stk_comms.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002_run_bt_ma_strategy/common/stocks.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002_run_bt_ma_strategy/configbt.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002_run_bt_ma_strategy/logcfgbt.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002_run_bt_ma_strategy/outputs_bt/dt_if/closes.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002_run_bt_ma_strategy/outputs_bt/dt_if/funds.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002_run_bt_ma_strategy/outputs_bt/dt_if/signals.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002_run_bt_ma_strategy/outputs_bt/dt_if/trades.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002_run_bt_ma_strategy/storage/bin/ticks/CFFEX.IF.HOT_tick_20210104.dsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002_run_bt_ma_strategy/storage/bin/ticks/CFFEX.IF.HOT_tick_20210105.dsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002_run_bt_ma_strategy/storage/bin/ticks/CFFEX.IF.HOT_tick_20210106.dsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002_run_bt_ma_strategy/storage/csv/CFFEX.IF.HOT_m5.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002_run_bt_ma_strategy_code/WtCtaStraFact/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002_run_bt_ma_strategy_code/WtCtaStraFact/Win32/Debug/WtCtaStraFact.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002_run_bt_ma_strategy_code/WtCtaStraFact/Win32/Debug/WtCtaStraFact.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002_run_bt_ma_strategy_code/WtCtaStraFact/Win32/Debug/WtCtaStraFact.tlog/CL.command.1.tlog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002_run_bt_ma_strategy_code/WtCtaStraFact/Win32/Debug/WtCtaStraFact.tlog/CL.read.1.tlog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002_run_bt_ma_strategy_code/WtCtaStraFact/Win32/Debug/WtCtaStraFact.tlog/CL.write.1.tlog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002_run_bt_ma_strategy_code/WtCtaStraFact/Win32/Debug/WtCtaStraFact.tlog/WtCtaStraFact.lastbuildstate" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002_run_bt_ma_strategy_code/WtCtaStraFact/Win32/Debug/WtCtaStraFact.tlog/WtCtaStraFact.write.1u.tlog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002_run_bt_ma_strategy_code/WtCtaStraFact/Win32/Debug/WtCtaStraFact.tlog/link.command.1.tlog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002_run_bt_ma_strategy_code/WtCtaStraFact/Win32/Debug/WtCtaStraFact.tlog/link.read.1.tlog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002_run_bt_ma_strategy_code/WtCtaStraFact/Win32/Debug/WtCtaStraFact.tlog/link.write.1.tlog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002_run_bt_ma_strategy_code/WtCtaStraFact/Win32/Debug/WtStraDualThrust.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002_run_bt_ma_strategy_code/WtCtaStraFact/Win32/Debug/vc141.idb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002_run_bt_ma_strategy_code/WtCtaStraFact/Win32/Debug/vc141.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002_run_bt_ma_strategy_code/WtCtaStraFact/Win32/Release/WtCtaStraFact.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002_run_bt_ma_strategy_code/WtCtaStraFact/Win32/Release/WtCtaStraFact.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002_run_bt_ma_strategy_code/WtCtaStraFact/Win32/Release/WtCtaStraFact.tlog/CL.command.1.tlog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002_run_bt_ma_strategy_code/WtCtaStraFact/Win32/Release/WtCtaStraFact.tlog/CL.read.1.tlog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002_run_bt_ma_strategy_code/WtCtaStraFact/Win32/Release/WtCtaStraFact.tlog/CL.write.1.tlog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002_run_bt_ma_strategy_code/WtCtaStraFact/Win32/Release/WtCtaStraFact.tlog/WtCtaStraFact.lastbuildstate" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002_run_bt_ma_strategy_code/WtCtaStraFact/Win32/Release/WtCtaStraFact.tlog/WtCtaStraFact.write.1u.tlog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002_run_bt_ma_strategy_code/WtCtaStraFact/Win32/Release/WtCtaStraFact.tlog/link.command.1.tlog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002_run_bt_ma_strategy_code/WtCtaStraFact/Win32/Release/WtCtaStraFact.tlog/link.read.1.tlog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002_run_bt_ma_strategy_code/WtCtaStraFact/Win32/Release/WtCtaStraFact.tlog/link.write.1.tlog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002_run_bt_ma_strategy_code/WtCtaStraFact/Win32/Release/WtStraDualThrust.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002_run_bt_ma_strategy_code/WtCtaStraFact/Win32/Release/WtStraTwoMaStrategy.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002_run_bt_ma_strategy_code/WtCtaStraFact/Win32/Release/vc141.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002_run_bt_ma_strategy_code/WtCtaStraFact/WtCtaStraFact.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002_run_bt_ma_strategy_code/WtCtaStraFact/WtCtaStraFact.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002_run_bt_ma_strategy_code/WtCtaStraFact/WtCtaStraFact.vcxproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002_run_bt_ma_strategy_code/WtCtaStraFact/WtCtaStraFact.vcxproj.filters" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002_run_bt_ma_strategy_code/WtCtaStraFact/WtStraTwoMaStrategy.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002_run_bt_ma_strategy_code/WtCtaStraFact/WtStraTwoMaStrategy.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002_run_bt_ma_strategy_new_name/BtLogs/Runner.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002_run_bt_ma_strategy_new_name/BtLogs/Strategy_dt_if.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002_run_bt_ma_strategy_new_name/WtBtRunner.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002_run_bt_ma_strategy_new_name/WtCtaStraFact.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002_run_bt_ma_strategy_new_name/common/commodities.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002_run_bt_ma_strategy_new_name/common/contracts.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002_run_bt_ma_strategy_new_name/common/fees.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002_run_bt_ma_strategy_new_name/common/fees_stk.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002_run_bt_ma_strategy_new_name/common/holidays.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002_run_bt_ma_strategy_new_name/common/hots_1.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002_run_bt_ma_strategy_new_name/common/sessions.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002_run_bt_ma_strategy_new_name/common/stk_comms.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002_run_bt_ma_strategy_new_name/common/stocks.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002_run_bt_ma_strategy_new_name/configbt.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002_run_bt_ma_strategy_new_name/logcfgbt.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002_run_bt_ma_strategy_new_name/outputs_bt/dt_if/closes.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002_run_bt_ma_strategy_new_name/outputs_bt/dt_if/signals.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002_run_bt_ma_strategy_new_name/outputs_bt/dt_if/trades.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002_run_bt_ma_strategy_new_name/outputs_bt/dt_if/wt_funds.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002_run_bt_ma_strategy_new_name/storage/bin/ticks/CFFEX.IF.HOT_tick_20210104.dsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002_run_bt_ma_strategy_new_name/storage/bin/ticks/CFFEX.IF.HOT_tick_20210105.dsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002_run_bt_ma_strategy_new_name/storage/bin/ticks/CFFEX.IF.HOT_tick_20210106.dsb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002_run_bt_ma_strategy_new_name/storage/csv/CFFEX.IF.HOT_m5.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QuoteFactory/DtLogs/Parser_2024-06-05.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QuoteFactory/DtLogs/Parser_2024-06-06.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QuoteFactory/DtLogs/Parser_2024-06-10.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QuoteFactory/DtLogs/Parser_2024-06-11.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QuoteFactory/DtLogs/Parser_2024-06-20.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QuoteFactory/DtLogs/Parser_2024-06-21.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QuoteFactory/DtLogs/Parser_2024-06-22.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QuoteFactory/DtLogs/Parser_2024-06-24.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QuoteFactory/DtLogs/Parser_2024-06-25.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QuoteFactory/DtLogs/QuoteFact_2024-06-05.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QuoteFactory/DtLogs/QuoteFact_2024-06-06.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QuoteFactory/DtLogs/QuoteFact_2024-06-07.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QuoteFactory/DtLogs/QuoteFact_2024-06-10.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QuoteFactory/DtLogs/QuoteFact_2024-06-11.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QuoteFactory/DtLogs/QuoteFact_2024-06-13.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QuoteFactory/DtLogs/QuoteFact_2024-06-20.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QuoteFactory/DtLogs/QuoteFact_2024-06-21.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QuoteFactory/DtLogs/QuoteFact_2024-06-22.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QuoteFactory/DtLogs/QuoteFact_2024-06-24.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QuoteFactory/DtLogs/QuoteFact_2024-06-25.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/002_编写一个双均线策略并跑通.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/注意事项.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/003_add_dual_thrust_cta_strategy_in_wt/WtCtaStraDualThrustFact.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/003_original_cta_strategy_in_wt/BtLogs/Strategy_cta.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/003_如何添加新的策略.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FUT_Data/cache.dmb" beforeDir="false" afterPath="$PROJECT_DIR$/FUT_Data/cache.dmb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QuoteFactory/CTPMDFlow/9999/yunjinqi2024!/TradingDay.con" beforeDir="false" afterPath="$PROJECT_DIR$/QuoteFactory/CTPMDFlow/9999/yunjinqi2024!/TradingDay.con" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QuoteFactory/DtLogs/QuoteFact_2024-06-04.log" beforeDir="false" afterPath="$PROJECT_DIR$/QuoteFactory/DtLogs/QuoteFact_2024-06-04.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/000_目标.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/000_目标.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/001_跑通一个CTA策略的回测.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/001_跑通一个CTA策略的回测.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run_bt_dual_truast_strategy/BtLogs/Runner.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run_bt_dual_truast_strategy/BtLogs/Strategy_dt_if.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run_bt_dual_truast_strategy/WtBtRunner.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run_bt_dual_truast_strategy/WtCtaStraFact.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run_bt_dual_truast_strategy/common/commodities.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run_bt_dual_truast_strategy/common/contracts.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run_bt_dual_truast_strategy/common/fees.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run_bt_dual_truast_strategy/common/fees_stk.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run_bt_dual_truast_strategy/common/holidays.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run_bt_dual_truast_strategy/common/hots.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run_bt_dual_truast_strategy/common/sessions.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run_bt_dual_truast_strategy/common/stk_comms.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run_bt_dual_truast_strategy/common/stocks.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run_bt_dual_truast_strategy/configbt.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run_bt_dual_truast_strategy/logcfgbt.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run_bt_dual_truast_strategy/outputs_bt/dt_if/closes.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run_bt_dual_truast_strategy/outputs_bt/dt_if/funds.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run_bt_dual_truast_strategy/outputs_bt/dt_if/signals.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run_bt_dual_truast_strategy/outputs_bt/dt_if/trades.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run_bt_dual_truast_strategy/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run_bt_dual_truast_strategy/storage/bin/ticks/CFFEX.IF.HOT_tick_20210104.dsb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run_bt_dual_truast_strategy/storage/bin/ticks/CFFEX.IF.HOT_tick_20210105.dsb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run_bt_dual_truast_strategy/storage/bin/ticks/CFFEX.IF.HOT_tick_20210106.dsb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run_bt_dual_truast_strategy/storage/csv/CFFEX.IF.HOT_m5.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run_bt_dual_truast_strategy/storage/his/min5/CFFEX/CFFEX.IF_HOT.dsb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/001_run_bt_dual_truast_strategy_1/BtLogs/Runner.log" beforeDir="false" afterPath="$PROJECT_DIR$/001_run_bt_dual_truast_strategy_1/BtLogs/Runner.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/001_run_bt_dual_truast_strategy_1/BtLogs/Strategy_dt_if.log" beforeDir="false" afterPath="$PROJECT_DIR$/001_run_bt_dual_truast_strategy_1/BtLogs/Strategy_dt_if.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/001_run_bt_dual_truast_strategy_1/configbt.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/001_run_bt_dual_truast_strategy_1/configbt.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/001_run_bt_dual_truast_strategy_1/outputs_bt/dt_if/closes.csv" beforeDir="false" afterPath="$PROJECT_DIR$/001_run_bt_dual_truast_strategy_1/outputs_bt/dt_if/closes.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/001_run_bt_dual_truast_strategy_1/outputs_bt/dt_if/funds.csv" beforeDir="false" afterPath="$PROJECT_DIR$/001_run_bt_dual_truast_strategy_1/outputs_bt/dt_if/funds.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/001_run_bt_dual_truast_strategy_1/outputs_bt/dt_if/signals.csv" beforeDir="false" afterPath="$PROJECT_DIR$/001_run_bt_dual_truast_strategy_1/outputs_bt/dt_if/signals.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/001_run_bt_dual_truast_strategy_1/outputs_bt/dt_if/trades.csv" beforeDir="false" afterPath="$PROJECT_DIR$/001_run_bt_dual_truast_strategy_1/outputs_bt/dt_if/trades.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -219,25 +47,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "RunOnceActivity.readMode.enableVisualFormatting": "true",
-    "cf.first.check.clang-format": "false",
-    "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/source_code/backtest_cpp",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.RadMigrateCodeStyle&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/source_code/wondertrader&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -251,6 +81,9 @@
       <workItem from="1717504252125" duration="3110000" />
       <workItem from="1719219226198" duration="15389000" />
       <workItem from="1719828703350" duration="25000" />
+      <workItem from="1720070274772" duration="1326000" />
+      <workItem from="1720072960905" duration="597000" />
+      <workItem from="1720094302165" duration="692000" />
     </task>
     <servers />
   </component>

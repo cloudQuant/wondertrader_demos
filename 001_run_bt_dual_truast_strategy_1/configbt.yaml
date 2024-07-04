@@ -6,7 +6,7 @@ replayer:
         hot: ../common/hots.json
         session: ../common/sessions.json
     fees: ../common/fees.json
-    stime: 201004160920         # CTA回测demo开始时间，测试的时候去掉前缀cta_
+    stime: 201601040930         # CTA回测demo开始时间，测试的时候去掉前缀cta_
     etime: 202203231500         # CTA回测demo结束时间，测试的时候去掉前缀cta_
 #    hft_stime: 202101040900         # HFT回测demo开始时间，测试的时候去掉前缀hft_
 #    hft_etime: 202101061500         # HFT回测demo结束时间，测试的时候去掉前缀hft_
@@ -17,7 +17,7 @@ replayer:
     tick: false                     # 是否开启tick回测，HFT回测时必须开启
 env:
     mocker: cta                     # 回测引擎，cta/hft/sel/uft/exec
-    slippage: 1
+    slippage: 0
 
 # CTA策略配置，当mocker为cta时会读取该配置项
 cta:
