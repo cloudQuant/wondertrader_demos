@@ -1,0 +1,12 @@
+[2024.06.20 15:02:22 - info ] [parser] Parser module D:/source_code/wondertrader_demos/QuoteFactory/parsers/ParserCTP.dll loaded
+[2024.06.20 15:02:23 - info ] [ParserCTP] Market data server connected
+[2024.06.20 15:02:23 - info ] [ParserCTP] Market data of 678 contracts subscribed totally
+[2024.06.20 15:59:34 - error] [ParserCTP] Market data server disconnected: 4097
+[2024.06.20 19:41:00 - info ] [ParserCTP] Market data server connected
+[2024.06.20 19:41:00 - info ] [ParserCTP] Market data of 678 contracts subscribed totally
+[2024.06.20 19:43:31 - error] [ParserCTP] Market data server disconnected: 4097
+[2024.06.20 19:43:31 - info ] [ParserCTP] Market data server connected
+[2024.06.20 19:43:32 - info ] [ParserCTP] Market data of 678 contracts subscribed totally
+[2024.06.20 22:51:21 - error] [ParserCTP] Market data server disconnected: 4097
+[2024.06.20 22:51:22 - info ] [ParserCTP] Market data server connected
+[2024.06.20 22:51:22 - info ] [ParserCTP] Market data of 678 contracts subscribed totally

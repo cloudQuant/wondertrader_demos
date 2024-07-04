@@ -1,0 +1,5 @@
+﻿  WtStraDualThrust.cpp
+d:\source_code\wondertrader\src\wtctastrafact\wtstradualthrust.cpp(43): warning C4244: “=”: 从“double”转换到“uint32_t”，可能丢失数据
+d:\source_code\wondertrader\src\wtctastrafact\wtstradualthrust.cpp(85): warning C4018: “<=”: 有符号/无符号不匹配
+d:\source_code\wondertrader\src\wtctastrafact\wtstradualthrust.cpp(94): warning C4018: “<=”: 有符号/无符号不匹配
+  WtCtaStraFact.vcxproj -> D:\source_code\wondertrader\src\Win32\Debug\WtCtaStraFact.dll

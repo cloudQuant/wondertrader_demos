@@ -1,0 +1,2592 @@
+[2024.06.07 00:00:00 - info ] Trading session ???????0900[FD0900] state reset
+[2024.06.07 00:00:00 - info ] Trading session ???????0915[FD0915] state reset
+[2024.06.07 00:00:00 - info ] Trading session ???????0930[SD0930] state reset
+[2024.06.07 00:00:00 - info ] 3978800 ticks received from exchange SHFE
+[2024.06.07 00:00:02 - info ] 3979000 ticks received from exchange SHFE
+[2024.06.07 00:00:04 - info ] 3979200 ticks received from exchange SHFE
+[2024.06.07 00:00:07 - info ] 3979400 ticks received from exchange SHFE
+[2024.06.07 00:00:10 - info ] 3979600 ticks received from exchange SHFE
+[2024.06.07 00:00:13 - info ] 892800 ticks received from exchange INE
+[2024.06.07 00:00:13 - info ] 3979800 ticks received from exchange SHFE
+[2024.06.07 00:00:16 - info ] 3980000 ticks received from exchange SHFE
+[2024.06.07 00:00:19 - info ] 3980200 ticks received from exchange SHFE
+[2024.06.07 00:00:22 - info ] 3980400 ticks received from exchange SHFE
+[2024.06.07 00:00:26 - info ] 3980600 ticks received from exchange SHFE
+[2024.06.07 00:00:26 - info ] 893000 ticks received from exchange INE
+[2024.06.07 00:00:29 - info ] 3980800 ticks received from exchange SHFE
+[2024.06.07 00:00:32 - info ] 3981000 ticks received from exchange SHFE
+[2024.06.07 00:00:35 - info ] 3981200 ticks received from exchange SHFE
+[2024.06.07 00:00:39 - info ] 3981400 ticks received from exchange SHFE
+[2024.06.07 00:00:42 - info ] 893200 ticks received from exchange INE
+[2024.06.07 00:00:43 - info ] 3981600 ticks received from exchange SHFE
+[2024.06.07 00:00:46 - info ] 3981800 ticks received from exchange SHFE
+[2024.06.07 00:00:49 - info ] 3982000 ticks received from exchange SHFE
+[2024.06.07 00:00:51 - info ] 3982200 ticks received from exchange SHFE
+[2024.06.07 00:00:54 - info ] 893400 ticks received from exchange INE
+[2024.06.07 00:00:54 - info ] 3982400 ticks received from exchange SHFE
+[2024.06.07 00:00:58 - info ] 3982600 ticks received from exchange SHFE
+[2024.06.07 00:01:01 - info ] 3982800 ticks received from exchange SHFE
+[2024.06.07 00:01:05 - info ] 3983000 ticks received from exchange SHFE
+[2024.06.07 00:01:08 - info ] 893600 ticks received from exchange INE
+[2024.06.07 00:01:08 - info ] 3983200 ticks received from exchange SHFE
+[2024.06.07 00:01:11 - info ] 3983400 ticks received from exchange SHFE
+[2024.06.07 00:01:14 - info ] 3983600 ticks received from exchange SHFE
+[2024.06.07 00:01:17 - info ] 3983800 ticks received from exchange SHFE
+[2024.06.07 00:01:20 - info ] 3984000 ticks received from exchange SHFE
+[2024.06.07 00:01:21 - info ] 893800 ticks received from exchange INE
+[2024.06.07 00:01:22 - info ] 3984200 ticks received from exchange SHFE
+[2024.06.07 00:01:24 - info ] 3984400 ticks received from exchange SHFE
+[2024.06.07 00:01:26 - info ] 3984600 ticks received from exchange SHFE
+[2024.06.07 00:01:29 - info ] 3984800 ticks received from exchange SHFE
+[2024.06.07 00:01:32 - info ] 3985000 ticks received from exchange SHFE
+[2024.06.07 00:01:35 - info ] 894000 ticks received from exchange INE
+[2024.06.07 00:01:35 - info ] 3985200 ticks received from exchange SHFE
+[2024.06.07 00:01:38 - info ] 3985400 ticks received from exchange SHFE
+[2024.06.07 00:01:41 - info ] 3985600 ticks received from exchange SHFE
+[2024.06.07 00:01:43 - info ] 3985800 ticks received from exchange SHFE
+[2024.06.07 00:01:45 - info ] 3986000 ticks received from exchange SHFE
+[2024.06.07 00:01:48 - info ] 3986200 ticks received from exchange SHFE
+[2024.06.07 00:01:49 - info ] 894200 ticks received from exchange INE
+[2024.06.07 00:01:51 - info ] 3986400 ticks received from exchange SHFE
+[2024.06.07 00:01:54 - info ] 3986600 ticks received from exchange SHFE
+[2024.06.07 00:01:57 - info ] 3986800 ticks received from exchange SHFE
+[2024.06.07 00:02:00 - debug] RT tick block of SHFE.ni2409 resized to 15000
+[2024.06.07 00:02:01 - info ] 3987000 ticks received from exchange SHFE
+[2024.06.07 00:02:01 - debug] RT tick block of INE.bc2409 resized to 12500
+[2024.06.07 00:02:03 - info ] 894400 ticks received from exchange INE
+[2024.06.07 00:02:04 - info ] 3987200 ticks received from exchange SHFE
+[2024.06.07 00:02:07 - info ] 3987400 ticks received from exchange SHFE
+[2024.06.07 00:02:10 - info ] 3987600 ticks received from exchange SHFE
+[2024.06.07 00:02:13 - info ] 3987800 ticks received from exchange SHFE
+[2024.06.07 00:02:15 - info ] 894600 ticks received from exchange INE
+[2024.06.07 00:02:15 - info ] 3988000 ticks received from exchange SHFE
+[2024.06.07 00:02:18 - info ] 3988200 ticks received from exchange SHFE
+[2024.06.07 00:02:21 - info ] 3988400 ticks received from exchange SHFE
+[2024.06.07 00:02:23 - info ] 3988600 ticks received from exchange SHFE
+[2024.06.07 00:02:24 - debug] RT tick block of SHFE.ag2409 resized to 17500
+[2024.06.07 00:02:25 - info ] 3988800 ticks received from exchange SHFE
+[2024.06.07 00:02:27 - info ] 3989000 ticks received from exchange SHFE
+[2024.06.07 00:02:28 - info ] 894800 ticks received from exchange INE
+[2024.06.07 00:02:29 - info ] 3989200 ticks received from exchange SHFE
+[2024.06.07 00:02:31 - info ] 3989400 ticks received from exchange SHFE
+[2024.06.07 00:02:33 - info ] 3989600 ticks received from exchange SHFE
+[2024.06.07 00:02:34 - info ] 3989800 ticks received from exchange SHFE
+[2024.06.07 00:02:36 - info ] 3990000 ticks received from exchange SHFE
+[2024.06.07 00:02:38 - info ] 895000 ticks received from exchange INE
+[2024.06.07 00:02:39 - info ] 3990200 ticks received from exchange SHFE
+[2024.06.07 00:02:40 - debug] RT tick block of SHFE.cu2502 resized to 12500
+[2024.06.07 00:02:41 - info ] 3990400 ticks received from exchange SHFE
+[2024.06.07 00:02:43 - info ] 3990600 ticks received from exchange SHFE
+[2024.06.07 00:02:46 - info ] 3990800 ticks received from exchange SHFE
+[2024.06.07 00:02:48 - info ] 3991000 ticks received from exchange SHFE
+[2024.06.07 00:02:50 - info ] 3991200 ticks received from exchange SHFE
+[2024.06.07 00:02:51 - info ] 895200 ticks received from exchange INE
+[2024.06.07 00:02:51 - info ] 3991400 ticks received from exchange SHFE
+[2024.06.07 00:02:53 - info ] 3991600 ticks received from exchange SHFE
+[2024.06.07 00:02:54 - info ] 3991800 ticks received from exchange SHFE
+[2024.06.07 00:02:56 - info ] 3992000 ticks received from exchange SHFE
+[2024.06.07 00:02:57 - info ] 3992200 ticks received from exchange SHFE
+[2024.06.07 00:02:59 - info ] 3992400 ticks received from exchange SHFE
+[2024.06.07 00:03:00 - info ] 895400 ticks received from exchange INE
+[2024.06.07 00:03:00 - debug] RT tick block of SHFE.ag2407 resized to 15000
+[2024.06.07 00:03:00 - info ] 3992600 ticks received from exchange SHFE
+[2024.06.07 00:03:02 - info ] 3992800 ticks received from exchange SHFE
+[2024.06.07 00:03:04 - info ] 3993000 ticks received from exchange SHFE
+[2024.06.07 00:03:06 - info ] 3993200 ticks received from exchange SHFE
+[2024.06.07 00:03:07 - info ] 3993400 ticks received from exchange SHFE
+[2024.06.07 00:03:09 - info ] 3993600 ticks received from exchange SHFE
+[2024.06.07 00:03:10 - info ] 895600 ticks received from exchange INE
+[2024.06.07 00:03:11 - info ] 3993800 ticks received from exchange SHFE
+[2024.06.07 00:03:13 - info ] 3994000 ticks received from exchange SHFE
+[2024.06.07 00:03:15 - info ] 3994200 ticks received from exchange SHFE
+[2024.06.07 00:03:16 - info ] 3994400 ticks received from exchange SHFE
+[2024.06.07 00:03:17 - debug] RT tick block of SHFE.ag2505 resized to 15000
+[2024.06.07 00:03:17 - debug] RT tick block of SHFE.cu2504 resized to 10000
+[2024.06.07 00:03:18 - info ] 3994600 ticks received from exchange SHFE
+[2024.06.07 00:03:21 - info ] 3994800 ticks received from exchange SHFE
+[2024.06.07 00:03:21 - info ] 895800 ticks received from exchange INE
+[2024.06.07 00:03:23 - info ] 3995000 ticks received from exchange SHFE
+[2024.06.07 00:03:25 - info ] 3995200 ticks received from exchange SHFE
+[2024.06.07 00:03:27 - info ] 3995400 ticks received from exchange SHFE
+[2024.06.07 00:03:29 - info ] 3995600 ticks received from exchange SHFE
+[2024.06.07 00:03:31 - info ] 3995800 ticks received from exchange SHFE
+[2024.06.07 00:03:33 - info ] 896000 ticks received from exchange INE
+[2024.06.07 00:03:33 - info ] 3996000 ticks received from exchange SHFE
+[2024.06.07 00:03:35 - info ] 3996200 ticks received from exchange SHFE
+[2024.06.07 00:03:35 - debug] RT tick block of SHFE.pb2409 resized to 10000
+[2024.06.07 00:03:37 - info ] 3996400 ticks received from exchange SHFE
+[2024.06.07 00:03:38 - info ] 3996600 ticks received from exchange SHFE
+[2024.06.07 00:03:41 - info ] 3996800 ticks received from exchange SHFE
+[2024.06.07 00:03:44 - info ] 3997000 ticks received from exchange SHFE
+[2024.06.07 00:03:45 - info ] 896200 ticks received from exchange INE
+[2024.06.07 00:03:47 - info ] 3997200 ticks received from exchange SHFE
+[2024.06.07 00:03:50 - info ] 3997400 ticks received from exchange SHFE
+[2024.06.07 00:03:52 - info ] 3997600 ticks received from exchange SHFE
+[2024.06.07 00:03:55 - info ] 3997800 ticks received from exchange SHFE
+[2024.06.07 00:03:57 - info ] 3998000 ticks received from exchange SHFE
+[2024.06.07 00:03:58 - info ] 896400 ticks received from exchange INE
+[2024.06.07 00:03:59 - info ] 3998200 ticks received from exchange SHFE
+[2024.06.07 00:04:01 - info ] 3998400 ticks received from exchange SHFE
+[2024.06.07 00:04:04 - info ] 3998600 ticks received from exchange SHFE
+[2024.06.07 00:04:05 - debug] RT tick block of INE.bc2502 resized to 5000
+[2024.06.07 00:04:06 - info ] 896600 ticks received from exchange INE
+[2024.06.07 00:04:06 - info ] 3998800 ticks received from exchange SHFE
+[2024.06.07 00:04:08 - info ] 3999000 ticks received from exchange SHFE
+[2024.06.07 00:04:11 - info ] 3999200 ticks received from exchange SHFE
+[2024.06.07 00:04:13 - info ] 3999400 ticks received from exchange SHFE
+[2024.06.07 00:04:14 - info ] 896800 ticks received from exchange INE
+[2024.06.07 00:04:15 - info ] 3999600 ticks received from exchange SHFE
+[2024.06.07 00:04:17 - info ] 3999800 ticks received from exchange SHFE
+[2024.06.07 00:04:20 - info ] 4000000 ticks received from exchange SHFE
+[2024.06.07 00:04:21 - info ] 897000 ticks received from exchange INE
+[2024.06.07 00:04:22 - info ] 4000200 ticks received from exchange SHFE
+[2024.06.07 00:04:24 - info ] 4000400 ticks received from exchange SHFE
+[2024.06.07 00:04:27 - info ] 4000600 ticks received from exchange SHFE
+[2024.06.07 00:04:29 - info ] 4000800 ticks received from exchange SHFE
+[2024.06.07 00:04:32 - info ] 4001000 ticks received from exchange SHFE
+[2024.06.07 00:04:32 - info ] 897200 ticks received from exchange INE
+[2024.06.07 00:04:34 - info ] 4001200 ticks received from exchange SHFE
+[2024.06.07 00:04:37 - info ] 4001400 ticks received from exchange SHFE
+[2024.06.07 00:04:39 - info ] 4001600 ticks received from exchange SHFE
+[2024.06.07 00:04:41 - info ] 4001800 ticks received from exchange SHFE
+[2024.06.07 00:04:43 - info ] 897400 ticks received from exchange INE
+[2024.06.07 00:04:44 - info ] 4002000 ticks received from exchange SHFE
+[2024.06.07 00:04:46 - info ] 4002200 ticks received from exchange SHFE
+[2024.06.07 00:04:49 - info ] 4002400 ticks received from exchange SHFE
+[2024.06.07 00:04:51 - info ] 4002600 ticks received from exchange SHFE
+[2024.06.07 00:04:52 - info ] 897600 ticks received from exchange INE
+[2024.06.07 00:04:53 - info ] 4002800 ticks received from exchange SHFE
+[2024.06.07 00:04:56 - info ] 4003000 ticks received from exchange SHFE
+[2024.06.07 00:04:58 - info ] 4003200 ticks received from exchange SHFE
+[2024.06.07 00:05:01 - info ] 4003400 ticks received from exchange SHFE
+[2024.06.07 00:05:01 - info ] 897800 ticks received from exchange INE
+[2024.06.07 00:05:03 - info ] 4003600 ticks received from exchange SHFE
+[2024.06.07 00:05:05 - info ] 4003800 ticks received from exchange SHFE
+[2024.06.07 00:05:07 - info ] 4004000 ticks received from exchange SHFE
+[2024.06.07 00:05:09 - info ] 4004200 ticks received from exchange SHFE
+[2024.06.07 00:05:11 - info ] 898000 ticks received from exchange INE
+[2024.06.07 00:05:11 - info ] 4004400 ticks received from exchange SHFE
+[2024.06.07 00:05:13 - info ] 4004600 ticks received from exchange SHFE
+[2024.06.07 00:05:15 - info ] 4004800 ticks received from exchange SHFE
+[2024.06.07 00:05:17 - info ] 4005000 ticks received from exchange SHFE
+[2024.06.07 00:05:20 - info ] 4005200 ticks received from exchange SHFE
+[2024.06.07 00:05:22 - info ] 898200 ticks received from exchange INE
+[2024.06.07 00:05:22 - info ] 4005400 ticks received from exchange SHFE
+[2024.06.07 00:05:24 - info ] 4005600 ticks received from exchange SHFE
+[2024.06.07 00:05:27 - info ] 4005800 ticks received from exchange SHFE
+[2024.06.07 00:05:30 - info ] 4006000 ticks received from exchange SHFE
+[2024.06.07 00:05:33 - info ] 4006200 ticks received from exchange SHFE
+[2024.06.07 00:05:33 - info ] 898400 ticks received from exchange INE
+[2024.06.07 00:05:34 - info ] 4006400 ticks received from exchange SHFE
+[2024.06.07 00:05:36 - info ] 4006600 ticks received from exchange SHFE
+[2024.06.07 00:05:39 - info ] 4006800 ticks received from exchange SHFE
+[2024.06.07 00:05:41 - info ] 4007000 ticks received from exchange SHFE
+[2024.06.07 00:05:44 - info ] 4007200 ticks received from exchange SHFE
+[2024.06.07 00:05:45 - info ] 898600 ticks received from exchange INE
+[2024.06.07 00:05:46 - info ] 4007400 ticks received from exchange SHFE
+[2024.06.07 00:05:49 - info ] 4007600 ticks received from exchange SHFE
+[2024.06.07 00:05:49 - debug] RT tick block of SHFE.cu2410 resized to 15000
+[2024.06.07 00:05:49 - debug] RT tick block of INE.sc2504 resized to 5000
+[2024.06.07 00:05:51 - info ] 4007800 ticks received from exchange SHFE
+[2024.06.07 00:05:54 - info ] 4008000 ticks received from exchange SHFE
+[2024.06.07 00:05:56 - info ] 898800 ticks received from exchange INE
+[2024.06.07 00:05:57 - info ] 4008200 ticks received from exchange SHFE
+[2024.06.07 00:05:58 - debug] RT tick block of SHFE.pb2412 resized to 5000
+[2024.06.07 00:06:01 - info ] 4008400 ticks received from exchange SHFE
+[2024.06.07 00:06:04 - info ] 4008600 ticks received from exchange SHFE
+[2024.06.07 00:06:06 - info ] 4008800 ticks received from exchange SHFE
+[2024.06.07 00:06:09 - info ] 4009000 ticks received from exchange SHFE
+[2024.06.07 00:06:10 - info ] 899000 ticks received from exchange INE
+[2024.06.07 00:06:12 - info ] 4009200 ticks received from exchange SHFE
+[2024.06.07 00:06:15 - info ] 4009400 ticks received from exchange SHFE
+[2024.06.07 00:06:18 - info ] 4009600 ticks received from exchange SHFE
+[2024.06.07 00:06:21 - info ] 4009800 ticks received from exchange SHFE
+[2024.06.07 00:06:23 - info ] 4010000 ticks received from exchange SHFE
+[2024.06.07 00:06:24 - info ] 899200 ticks received from exchange INE
+[2024.06.07 00:06:26 - info ] 4010200 ticks received from exchange SHFE
+[2024.06.07 00:06:29 - info ] 4010400 ticks received from exchange SHFE
+[2024.06.07 00:06:32 - info ] 4010600 ticks received from exchange SHFE
+[2024.06.07 00:06:35 - info ] 4010800 ticks received from exchange SHFE
+[2024.06.07 00:06:35 - info ] 899400 ticks received from exchange INE
+[2024.06.07 00:06:37 - info ] 4011000 ticks received from exchange SHFE
+[2024.06.07 00:06:40 - info ] 4011200 ticks received from exchange SHFE
+[2024.06.07 00:06:43 - info ] 4011400 ticks received from exchange SHFE
+[2024.06.07 00:06:45 - info ] 4011600 ticks received from exchange SHFE
+[2024.06.07 00:06:48 - info ] 4011800 ticks received from exchange SHFE
+[2024.06.07 00:06:48 - info ] 899600 ticks received from exchange INE
+[2024.06.07 00:06:50 - info ] 4012000 ticks received from exchange SHFE
+[2024.06.07 00:06:53 - info ] 4012200 ticks received from exchange SHFE
+[2024.06.07 00:06:55 - info ] 4012400 ticks received from exchange SHFE
+[2024.06.07 00:06:57 - info ] 899800 ticks received from exchange INE
+[2024.06.07 00:06:58 - info ] 4012600 ticks received from exchange SHFE
+[2024.06.07 00:07:00 - info ] 4012800 ticks received from exchange SHFE
+[2024.06.07 00:07:02 - info ] 4013000 ticks received from exchange SHFE
+[2024.06.07 00:07:04 - info ] 4013200 ticks received from exchange SHFE
+[2024.06.07 00:07:07 - info ] 4013400 ticks received from exchange SHFE
+[2024.06.07 00:07:07 - debug] RT tick block of SHFE.zn2409 resized to 12500
+[2024.06.07 00:07:07 - info ] 900000 ticks received from exchange INE
+[2024.06.07 00:07:09 - info ] 4013600 ticks received from exchange SHFE
+[2024.06.07 00:07:11 - info ] 4013800 ticks received from exchange SHFE
+[2024.06.07 00:07:13 - info ] 4014000 ticks received from exchange SHFE
+[2024.06.07 00:07:16 - info ] 4014200 ticks received from exchange SHFE
+[2024.06.07 00:07:17 - info ] 4014400 ticks received from exchange SHFE
+[2024.06.07 00:07:20 - info ] 4014600 ticks received from exchange SHFE
+[2024.06.07 00:07:21 - info ] 900200 ticks received from exchange INE
+[2024.06.07 00:07:22 - info ] 4014800 ticks received from exchange SHFE
+[2024.06.07 00:07:25 - info ] 4015000 ticks received from exchange SHFE
+[2024.06.07 00:07:27 - info ] 4015200 ticks received from exchange SHFE
+[2024.06.07 00:07:30 - info ] 4015400 ticks received from exchange SHFE
+[2024.06.07 00:07:33 - info ] 4015600 ticks received from exchange SHFE
+[2024.06.07 00:07:33 - debug] RT tick block of SHFE.zn2406 resized to 5000
+[2024.06.07 00:07:34 - info ] 900400 ticks received from exchange INE
+[2024.06.07 00:07:36 - info ] 4015800 ticks received from exchange SHFE
+[2024.06.07 00:07:39 - info ] 4016000 ticks received from exchange SHFE
+[2024.06.07 00:07:41 - info ] 4016200 ticks received from exchange SHFE
+[2024.06.07 00:07:43 - info ] 4016400 ticks received from exchange SHFE
+[2024.06.07 00:07:44 - info ] 900600 ticks received from exchange INE
+[2024.06.07 00:07:46 - info ] 4016600 ticks received from exchange SHFE
+[2024.06.07 00:07:49 - info ] 4016800 ticks received from exchange SHFE
+[2024.06.07 00:07:52 - info ] 4017000 ticks received from exchange SHFE
+[2024.06.07 00:07:55 - info ] 4017200 ticks received from exchange SHFE
+[2024.06.07 00:07:55 - info ] 900800 ticks received from exchange INE
+[2024.06.07 00:07:58 - info ] 4017400 ticks received from exchange SHFE
+[2024.06.07 00:08:01 - info ] 4017600 ticks received from exchange SHFE
+[2024.06.07 00:08:04 - info ] 4017800 ticks received from exchange SHFE
+[2024.06.07 00:08:07 - info ] 901000 ticks received from exchange INE
+[2024.06.07 00:08:07 - info ] 4018000 ticks received from exchange SHFE
+[2024.06.07 00:08:09 - info ] 4018200 ticks received from exchange SHFE
+[2024.06.07 00:08:10 - debug] RT tick block of SHFE.cu2409 resized to 15000
+[2024.06.07 00:08:12 - info ] 4018400 ticks received from exchange SHFE
+[2024.06.07 00:08:14 - info ] 4018600 ticks received from exchange SHFE
+[2024.06.07 00:08:14 - debug] RT tick block of SHFE.zn2501 resized to 7500
+[2024.06.07 00:08:14 - info ] 901200 ticks received from exchange INE
+[2024.06.07 00:08:16 - info ] 4018800 ticks received from exchange SHFE
+[2024.06.07 00:08:18 - info ] 4019000 ticks received from exchange SHFE
+[2024.06.07 00:08:20 - info ] 4019200 ticks received from exchange SHFE
+[2024.06.07 00:08:24 - info ] 4019400 ticks received from exchange SHFE
+[2024.06.07 00:08:26 - info ] 901400 ticks received from exchange INE
+[2024.06.07 00:08:27 - info ] 4019600 ticks received from exchange SHFE
+[2024.06.07 00:08:30 - info ] 4019800 ticks received from exchange SHFE
+[2024.06.07 00:08:34 - info ] 4020000 ticks received from exchange SHFE
+[2024.06.07 00:08:36 - info ] 4020200 ticks received from exchange SHFE
+[2024.06.07 00:08:37 - info ] 901600 ticks received from exchange INE
+[2024.06.07 00:08:38 - info ] 4020400 ticks received from exchange SHFE
+[2024.06.07 00:08:41 - info ] 4020600 ticks received from exchange SHFE
+[2024.06.07 00:08:44 - info ] 4020800 ticks received from exchange SHFE
+[2024.06.07 00:08:48 - info ] 4021000 ticks received from exchange SHFE
+[2024.06.07 00:08:48 - info ] 901800 ticks received from exchange INE
+[2024.06.07 00:08:51 - info ] 4021200 ticks received from exchange SHFE
+[2024.06.07 00:08:54 - info ] 4021400 ticks received from exchange SHFE
+[2024.06.07 00:08:57 - info ] 4021600 ticks received from exchange SHFE
+[2024.06.07 00:08:59 - info ] 4021800 ticks received from exchange SHFE
+[2024.06.07 00:09:00 - info ] 902000 ticks received from exchange INE
+[2024.06.07 00:09:01 - info ] 4022000 ticks received from exchange SHFE
+[2024.06.07 00:09:04 - info ] 4022200 ticks received from exchange SHFE
+[2024.06.07 00:09:07 - info ] 4022400 ticks received from exchange SHFE
+[2024.06.07 00:09:10 - info ] 4022600 ticks received from exchange SHFE
+[2024.06.07 00:09:10 - info ] 902200 ticks received from exchange INE
+[2024.06.07 00:09:12 - info ] 4022800 ticks received from exchange SHFE
+[2024.06.07 00:09:13 - debug] RT tick block of SHFE.al2502 resized to 5000
+[2024.06.07 00:09:14 - info ] 4023000 ticks received from exchange SHFE
+[2024.06.07 00:09:17 - info ] 4023200 ticks received from exchange SHFE
+[2024.06.07 00:09:19 - info ] 4023400 ticks received from exchange SHFE
+[2024.06.07 00:09:21 - info ] 902400 ticks received from exchange INE
+[2024.06.07 00:09:21 - info ] 4023600 ticks received from exchange SHFE
+[2024.06.07 00:09:23 - info ] 4023800 ticks received from exchange SHFE
+[2024.06.07 00:09:26 - info ] 4024000 ticks received from exchange SHFE
+[2024.06.07 00:09:28 - info ] 4024200 ticks received from exchange SHFE
+[2024.06.07 00:09:30 - info ] 902600 ticks received from exchange INE
+[2024.06.07 00:09:32 - info ] 4024400 ticks received from exchange SHFE
+[2024.06.07 00:09:36 - info ] 4024600 ticks received from exchange SHFE
+[2024.06.07 00:09:38 - info ] 4024800 ticks received from exchange SHFE
+[2024.06.07 00:09:40 - debug] RT tick block of INE.sc2407 resized to 17500
+[2024.06.07 00:09:40 - info ] 4025000 ticks received from exchange SHFE
+[2024.06.07 00:09:43 - info ] 4025200 ticks received from exchange SHFE
+[2024.06.07 00:09:43 - info ] 902800 ticks received from exchange INE
+[2024.06.07 00:09:46 - info ] 4025400 ticks received from exchange SHFE
+[2024.06.07 00:09:46 - debug] RT tick block of SHFE.zn2407 resized to 15000
+[2024.06.07 00:09:49 - info ] 4025600 ticks received from exchange SHFE
+[2024.06.07 00:09:52 - info ] 4025800 ticks received from exchange SHFE
+[2024.06.07 00:09:54 - info ] 903000 ticks received from exchange INE
+[2024.06.07 00:09:55 - info ] 4026000 ticks received from exchange SHFE
+[2024.06.07 00:09:58 - info ] 4026200 ticks received from exchange SHFE
+[2024.06.07 00:10:01 - info ] 4026400 ticks received from exchange SHFE
+[2024.06.07 00:10:03 - info ] 4026600 ticks received from exchange SHFE
+[2024.06.07 00:10:05 - info ] 4026800 ticks received from exchange SHFE
+[2024.06.07 00:10:05 - info ] 903200 ticks received from exchange INE
+[2024.06.07 00:10:07 - info ] 4027000 ticks received from exchange SHFE
+[2024.06.07 00:10:09 - info ] 4027200 ticks received from exchange SHFE
+[2024.06.07 00:10:11 - info ] 4027400 ticks received from exchange SHFE
+[2024.06.07 00:10:13 - info ] 4027600 ticks received from exchange SHFE
+[2024.06.07 00:10:15 - info ] 903400 ticks received from exchange INE
+[2024.06.07 00:10:16 - info ] 4027800 ticks received from exchange SHFE
+[2024.06.07 00:10:19 - info ] 4028000 ticks received from exchange SHFE
+[2024.06.07 00:10:22 - info ] 4028200 ticks received from exchange SHFE
+[2024.06.07 00:10:25 - info ] 4028400 ticks received from exchange SHFE
+[2024.06.07 00:10:28 - info ] 903600 ticks received from exchange INE
+[2024.06.07 00:10:29 - info ] 4028600 ticks received from exchange SHFE
+[2024.06.07 00:10:32 - info ] 4028800 ticks received from exchange SHFE
+[2024.06.07 00:10:34 - debug] RT tick block of INE.sc2505 resized to 5000
+[2024.06.07 00:10:36 - info ] 4029000 ticks received from exchange SHFE
+[2024.06.07 00:10:39 - info ] 4029200 ticks received from exchange SHFE
+[2024.06.07 00:10:40 - info ] 903800 ticks received from exchange INE
+[2024.06.07 00:10:42 - info ] 4029400 ticks received from exchange SHFE
+[2024.06.07 00:10:45 - info ] 4029600 ticks received from exchange SHFE
+[2024.06.07 00:10:48 - info ] 4029800 ticks received from exchange SHFE
+[2024.06.07 00:10:51 - info ] 4030000 ticks received from exchange SHFE
+[2024.06.07 00:10:51 - info ] 904000 ticks received from exchange INE
+[2024.06.07 00:10:53 - info ] 4030200 ticks received from exchange SHFE
+[2024.06.07 00:10:55 - info ] 4030400 ticks received from exchange SHFE
+[2024.06.07 00:10:57 - info ] 4030600 ticks received from exchange SHFE
+[2024.06.07 00:11:00 - info ] 4030800 ticks received from exchange SHFE
+[2024.06.07 00:11:01 - info ] 904200 ticks received from exchange INE
+[2024.06.07 00:11:03 - info ] 4031000 ticks received from exchange SHFE
+[2024.06.07 00:11:05 - info ] 4031200 ticks received from exchange SHFE
+[2024.06.07 00:11:08 - info ] 4031400 ticks received from exchange SHFE
+[2024.06.07 00:11:11 - info ] 4031600 ticks received from exchange SHFE
+[2024.06.07 00:11:13 - info ] 4031800 ticks received from exchange SHFE
+[2024.06.07 00:11:14 - info ] 904400 ticks received from exchange INE
+[2024.06.07 00:11:15 - info ] 4032000 ticks received from exchange SHFE
+[2024.06.07 00:11:18 - info ] 4032200 ticks received from exchange SHFE
+[2024.06.07 00:11:21 - info ] 4032400 ticks received from exchange SHFE
+[2024.06.07 00:11:24 - info ] 4032600 ticks received from exchange SHFE
+[2024.06.07 00:11:26 - info ] 4032800 ticks received from exchange SHFE
+[2024.06.07 00:11:26 - info ] 904600 ticks received from exchange INE
+[2024.06.07 00:11:29 - info ] 4033000 ticks received from exchange SHFE
+[2024.06.07 00:11:32 - info ] 4033200 ticks received from exchange SHFE
+[2024.06.07 00:11:35 - info ] 4033400 ticks received from exchange SHFE
+[2024.06.07 00:11:36 - debug] RT tick block of INE.bc2503 resized to 5000
+[2024.06.07 00:11:37 - info ] 904800 ticks received from exchange INE
+[2024.06.07 00:11:38 - info ] 4033600 ticks received from exchange SHFE
+[2024.06.07 00:11:41 - info ] 4033800 ticks received from exchange SHFE
+[2024.06.07 00:11:44 - info ] 4034000 ticks received from exchange SHFE
+[2024.06.07 00:11:47 - info ] 4034200 ticks received from exchange SHFE
+[2024.06.07 00:11:47 - info ] 905000 ticks received from exchange INE
+[2024.06.07 00:11:49 - info ] 4034400 ticks received from exchange SHFE
+[2024.06.07 00:11:53 - info ] 4034600 ticks received from exchange SHFE
+[2024.06.07 00:11:55 - debug] RT tick block of SHFE.sn2407 resized to 17500
+[2024.06.07 00:11:56 - info ] 4034800 ticks received from exchange SHFE
+[2024.06.07 00:12:00 - info ] 4035000 ticks received from exchange SHFE
+[2024.06.07 00:12:02 - info ] 905200 ticks received from exchange INE
+[2024.06.07 00:12:03 - info ] 4035200 ticks received from exchange SHFE
+[2024.06.07 00:12:05 - info ] 4035400 ticks received from exchange SHFE
+[2024.06.07 00:12:07 - info ] 4035600 ticks received from exchange SHFE
+[2024.06.07 00:12:10 - info ] 4035800 ticks received from exchange SHFE
+[2024.06.07 00:12:14 - info ] 4036000 ticks received from exchange SHFE
+[2024.06.07 00:12:15 - info ] 905400 ticks received from exchange INE
+[2024.06.07 00:12:17 - info ] 4036200 ticks received from exchange SHFE
+[2024.06.07 00:12:21 - info ] 4036400 ticks received from exchange SHFE
+[2024.06.07 00:12:25 - info ] 4036600 ticks received from exchange SHFE
+[2024.06.07 00:12:27 - info ] 4036800 ticks received from exchange SHFE
+[2024.06.07 00:12:29 - info ] 905600 ticks received from exchange INE
+[2024.06.07 00:12:30 - info ] 4037000 ticks received from exchange SHFE
+[2024.06.07 00:12:33 - info ] 4037200 ticks received from exchange SHFE
+[2024.06.07 00:12:36 - info ] 4037400 ticks received from exchange SHFE
+[2024.06.07 00:12:39 - info ] 4037600 ticks received from exchange SHFE
+[2024.06.07 00:12:42 - info ] 4037800 ticks received from exchange SHFE
+[2024.06.07 00:12:43 - debug] RT tick block of SHFE.cu2501 resized to 12500
+[2024.06.07 00:12:44 - info ] 905800 ticks received from exchange INE
+[2024.06.07 00:12:45 - info ] 4038000 ticks received from exchange SHFE
+[2024.06.07 00:12:47 - info ] 4038200 ticks received from exchange SHFE
+[2024.06.07 00:12:50 - info ] 4038400 ticks received from exchange SHFE
+[2024.06.07 00:12:53 - info ] 4038600 ticks received from exchange SHFE
+[2024.06.07 00:12:54 - debug] RT tick block of SHFE.pb2407 resized to 12500
+[2024.06.07 00:12:55 - info ] 4038800 ticks received from exchange SHFE
+[2024.06.07 00:12:57 - info ] 906000 ticks received from exchange INE
+[2024.06.07 00:12:57 - info ] 4039000 ticks received from exchange SHFE
+[2024.06.07 00:12:58 - info ] 4039200 ticks received from exchange SHFE
+[2024.06.07 00:12:59 - debug] RT tick block of SHFE.al2410 resized to 10000
+[2024.06.07 00:13:00 - info ] 4039400 ticks received from exchange SHFE
+[2024.06.07 00:13:02 - info ] 4039600 ticks received from exchange SHFE
+[2024.06.07 00:13:04 - debug] RT tick block of INE.bc2504 resized to 5000
+[2024.06.07 00:13:04 - info ] 4039800 ticks received from exchange SHFE
+[2024.06.07 00:13:07 - info ] 4040000 ticks received from exchange SHFE
+[2024.06.07 00:13:09 - info ] 4040200 ticks received from exchange SHFE
+[2024.06.07 00:13:10 - info ] 906200 ticks received from exchange INE
+[2024.06.07 00:13:12 - info ] 4040400 ticks received from exchange SHFE
+[2024.06.07 00:13:15 - info ] 4040600 ticks received from exchange SHFE
+[2024.06.07 00:13:18 - info ] 4040800 ticks received from exchange SHFE
+[2024.06.07 00:13:20 - info ] 4041000 ticks received from exchange SHFE
+[2024.06.07 00:13:22 - info ] 906400 ticks received from exchange INE
+[2024.06.07 00:13:23 - info ] 4041200 ticks received from exchange SHFE
+[2024.06.07 00:13:26 - info ] 4041400 ticks received from exchange SHFE
+[2024.06.07 00:13:26 - debug] RT tick block of SHFE.pb2502 resized to 5000
+[2024.06.07 00:13:28 - info ] 4041600 ticks received from exchange SHFE
+[2024.06.07 00:13:29 - debug] RT tick block of SHFE.cu2411 resized to 15000
+[2024.06.07 00:13:30 - info ] 4041800 ticks received from exchange SHFE
+[2024.06.07 00:13:31 - info ] 906600 ticks received from exchange INE
+[2024.06.07 00:13:31 - info ] 4042000 ticks received from exchange SHFE
+[2024.06.07 00:13:33 - info ] 4042200 ticks received from exchange SHFE
+[2024.06.07 00:13:34 - debug] RT tick block of SHFE.ni2501 resized to 7500
+[2024.06.07 00:13:36 - info ] 4042400 ticks received from exchange SHFE
+[2024.06.07 00:13:38 - info ] 4042600 ticks received from exchange SHFE
+[2024.06.07 00:13:40 - debug] RT tick block of SHFE.cu2505 resized to 10000
+[2024.06.07 00:13:40 - info ] 4042800 ticks received from exchange SHFE
+[2024.06.07 00:13:41 - info ] 906800 ticks received from exchange INE
+[2024.06.07 00:13:43 - info ] 4043000 ticks received from exchange SHFE
+[2024.06.07 00:13:46 - info ] 4043200 ticks received from exchange SHFE
+[2024.06.07 00:13:48 - info ] 4043400 ticks received from exchange SHFE
+[2024.06.07 00:13:51 - info ] 4043600 ticks received from exchange SHFE
+[2024.06.07 00:13:53 - info ] 907000 ticks received from exchange INE
+[2024.06.07 00:13:53 - info ] 4043800 ticks received from exchange SHFE
+[2024.06.07 00:13:54 - info ] 4044000 ticks received from exchange SHFE
+[2024.06.07 00:13:56 - info ] 4044200 ticks received from exchange SHFE
+[2024.06.07 00:13:59 - info ] 4044400 ticks received from exchange SHFE
+[2024.06.07 00:14:01 - info ] 4044600 ticks received from exchange SHFE
+[2024.06.07 00:14:03 - info ] 4044800 ticks received from exchange SHFE
+[2024.06.07 00:14:05 - info ] 4045000 ticks received from exchange SHFE
+[2024.06.07 00:14:05 - info ] 907200 ticks received from exchange INE
+[2024.06.07 00:14:07 - info ] 4045200 ticks received from exchange SHFE
+[2024.06.07 00:14:09 - info ] 4045400 ticks received from exchange SHFE
+[2024.06.07 00:14:12 - info ] 4045600 ticks received from exchange SHFE
+[2024.06.07 00:14:14 - info ] 4045800 ticks received from exchange SHFE
+[2024.06.07 00:14:16 - info ] 907400 ticks received from exchange INE
+[2024.06.07 00:14:16 - info ] 4046000 ticks received from exchange SHFE
+[2024.06.07 00:14:19 - info ] 4046200 ticks received from exchange SHFE
+[2024.06.07 00:14:21 - info ] 4046400 ticks received from exchange SHFE
+[2024.06.07 00:14:23 - info ] 4046600 ticks received from exchange SHFE
+[2024.06.07 00:14:24 - debug] RT tick block of SHFE.sn2412 resized to 10000
+[2024.06.07 00:14:25 - info ] 4046800 ticks received from exchange SHFE
+[2024.06.07 00:14:27 - info ] 907600 ticks received from exchange INE
+[2024.06.07 00:14:27 - info ] 4047000 ticks received from exchange SHFE
+[2024.06.07 00:14:30 - info ] 4047200 ticks received from exchange SHFE
+[2024.06.07 00:14:33 - info ] 4047400 ticks received from exchange SHFE
+[2024.06.07 00:14:37 - info ] 4047600 ticks received from exchange SHFE
+[2024.06.07 00:14:39 - info ] 907800 ticks received from exchange INE
+[2024.06.07 00:14:40 - info ] 4047800 ticks received from exchange SHFE
+[2024.06.07 00:14:44 - info ] 4048000 ticks received from exchange SHFE
+[2024.06.07 00:14:47 - info ] 4048200 ticks received from exchange SHFE
+[2024.06.07 00:14:50 - info ] 4048400 ticks received from exchange SHFE
+[2024.06.07 00:14:52 - info ] 908000 ticks received from exchange INE
+[2024.06.07 00:14:53 - info ] 4048600 ticks received from exchange SHFE
+[2024.06.07 00:14:56 - info ] 4048800 ticks received from exchange SHFE
+[2024.06.07 00:14:59 - info ] 4049000 ticks received from exchange SHFE
+[2024.06.07 00:15:01 - debug] RT tick block of SHFE.ag2502 resized to 17500
+[2024.06.07 00:15:01 - info ] 4049200 ticks received from exchange SHFE
+[2024.06.07 00:15:04 - info ] 4049400 ticks received from exchange SHFE
+[2024.06.07 00:15:04 - info ] 908200 ticks received from exchange INE
+[2024.06.07 00:15:06 - info ] 4049600 ticks received from exchange SHFE
+[2024.06.07 00:15:09 - info ] 4049800 ticks received from exchange SHFE
+[2024.06.07 00:15:10 - debug] RT tick block of SHFE.cu2407 resized to 17500
+[2024.06.07 00:15:12 - info ] 4050000 ticks received from exchange SHFE
+[2024.06.07 00:15:14 - debug] RT tick block of SHFE.ag2408 resized to 20000
+[2024.06.07 00:15:15 - info ] 4050200 ticks received from exchange SHFE
+[2024.06.07 00:15:15 - debug] RT tick block of INE.bc2501 resized to 5000
+[2024.06.07 00:15:16 - info ] 908400 ticks received from exchange INE
+[2024.06.07 00:15:18 - info ] 4050400 ticks received from exchange SHFE
+[2024.06.07 00:15:20 - info ] 4050600 ticks received from exchange SHFE
+[2024.06.07 00:15:24 - info ] 4050800 ticks received from exchange SHFE
+[2024.06.07 00:15:26 - info ] 4051000 ticks received from exchange SHFE
+[2024.06.07 00:15:29 - info ] 4051200 ticks received from exchange SHFE
+[2024.06.07 00:15:29 - info ] 908600 ticks received from exchange INE
+[2024.06.07 00:15:31 - info ] 4051400 ticks received from exchange SHFE
+[2024.06.07 00:15:34 - info ] 4051600 ticks received from exchange SHFE
+[2024.06.07 00:15:37 - info ] 4051800 ticks received from exchange SHFE
+[2024.06.07 00:15:40 - info ] 4052000 ticks received from exchange SHFE
+[2024.06.07 00:15:42 - info ] 4052200 ticks received from exchange SHFE
+[2024.06.07 00:15:43 - info ] 908800 ticks received from exchange INE
+[2024.06.07 00:15:45 - debug] RT tick block of SHFE.ag2410 resized to 20000
+[2024.06.07 00:15:45 - info ] 4052400 ticks received from exchange SHFE
+[2024.06.07 00:15:48 - info ] 4052600 ticks received from exchange SHFE
+[2024.06.07 00:15:50 - debug] RT tick block of SHFE.au2408 resized to 20000
+[2024.06.07 00:15:51 - info ] 4052800 ticks received from exchange SHFE
+[2024.06.07 00:15:53 - info ] 4053000 ticks received from exchange SHFE
+[2024.06.07 00:15:57 - info ] 4053200 ticks received from exchange SHFE
+[2024.06.07 00:15:57 - debug] RT tick block of SHFE.ni2408 resized to 20000
+[2024.06.07 00:15:58 - info ] 909000 ticks received from exchange INE
+[2024.06.07 00:16:00 - info ] 4053400 ticks received from exchange SHFE
+[2024.06.07 00:16:03 - info ] 4053600 ticks received from exchange SHFE
+[2024.06.07 00:16:05 - info ] 4053800 ticks received from exchange SHFE
+[2024.06.07 00:16:06 - debug] RT tick block of SHFE.au2410 resized to 20000
+[2024.06.07 00:16:07 - info ] 4054000 ticks received from exchange SHFE
+[2024.06.07 00:16:07 - info ] 909200 ticks received from exchange INE
+[2024.06.07 00:16:10 - info ] 4054200 ticks received from exchange SHFE
+[2024.06.07 00:16:13 - info ] 4054400 ticks received from exchange SHFE
+[2024.06.07 00:16:16 - info ] 4054600 ticks received from exchange SHFE
+[2024.06.07 00:16:19 - info ] 4054800 ticks received from exchange SHFE
+[2024.06.07 00:16:20 - info ] 909400 ticks received from exchange INE
+[2024.06.07 00:16:22 - info ] 4055000 ticks received from exchange SHFE
+[2024.06.07 00:16:24 - debug] RT tick block of SHFE.ni2407 resized to 20000
+[2024.06.07 00:16:25 - info ] 4055200 ticks received from exchange SHFE
+[2024.06.07 00:16:28 - info ] 4055400 ticks received from exchange SHFE
+[2024.06.07 00:16:31 - info ] 4055600 ticks received from exchange SHFE
+[2024.06.07 00:16:34 - info ] 909600 ticks received from exchange INE
+[2024.06.07 00:16:34 - info ] 4055800 ticks received from exchange SHFE
+[2024.06.07 00:16:36 - info ] 4056000 ticks received from exchange SHFE
+[2024.06.07 00:16:38 - info ] 4056200 ticks received from exchange SHFE
+[2024.06.07 00:16:41 - debug] RT tick block of SHFE.ni2410 resized to 20000
+[2024.06.07 00:16:41 - info ] 4056400 ticks received from exchange SHFE
+[2024.06.07 00:16:44 - info ] 4056600 ticks received from exchange SHFE
+[2024.06.07 00:16:45 - info ] 909800 ticks received from exchange INE
+[2024.06.07 00:16:46 - info ] 4056800 ticks received from exchange SHFE
+[2024.06.07 00:16:47 - debug] RT tick block of SHFE.sn2501 resized to 7500
+[2024.06.07 00:16:48 - info ] 4057000 ticks received from exchange SHFE
+[2024.06.07 00:16:50 - info ] 4057200 ticks received from exchange SHFE
+[2024.06.07 00:16:51 - info ] 4057400 ticks received from exchange SHFE
+[2024.06.07 00:16:54 - info ] 4057600 ticks received from exchange SHFE
+[2024.06.07 00:16:57 - info ] 4057800 ticks received from exchange SHFE
+[2024.06.07 00:16:58 - info ] 910000 ticks received from exchange INE
+[2024.06.07 00:16:59 - info ] 4058000 ticks received from exchange SHFE
+[2024.06.07 00:17:00 - debug] RT tick block of SHFE.ag2411 resized to 17500
+[2024.06.07 00:17:01 - info ] 4058200 ticks received from exchange SHFE
+[2024.06.07 00:17:04 - info ] 4058400 ticks received from exchange SHFE
+[2024.06.07 00:17:06 - info ] 4058600 ticks received from exchange SHFE
+[2024.06.07 00:17:08 - info ] 910200 ticks received from exchange INE
+[2024.06.07 00:17:08 - info ] 4058800 ticks received from exchange SHFE
+[2024.06.07 00:17:10 - info ] 4059000 ticks received from exchange SHFE
+[2024.06.07 00:17:12 - info ] 4059200 ticks received from exchange SHFE
+[2024.06.07 00:17:15 - info ] 4059400 ticks received from exchange SHFE
+[2024.06.07 00:17:18 - info ] 4059600 ticks received from exchange SHFE
+[2024.06.07 00:17:21 - info ] 4059800 ticks received from exchange SHFE
+[2024.06.07 00:17:22 - info ] 910400 ticks received from exchange INE
+[2024.06.07 00:17:24 - info ] 4060000 ticks received from exchange SHFE
+[2024.06.07 00:17:26 - info ] 4060200 ticks received from exchange SHFE
+[2024.06.07 00:17:28 - info ] 4060400 ticks received from exchange SHFE
+[2024.06.07 00:17:30 - info ] 4060600 ticks received from exchange SHFE
+[2024.06.07 00:17:31 - debug] RT tick block of INE.sc2409 resized to 20000
+[2024.06.07 00:17:33 - info ] 4060800 ticks received from exchange SHFE
+[2024.06.07 00:17:36 - info ] 910600 ticks received from exchange INE
+[2024.06.07 00:17:36 - info ] 4061000 ticks received from exchange SHFE
+[2024.06.07 00:17:40 - info ] 4061200 ticks received from exchange SHFE
+[2024.06.07 00:17:43 - info ] 4061400 ticks received from exchange SHFE
+[2024.06.07 00:17:44 - debug] RT tick block of SHFE.ag2412 resized to 20000
+[2024.06.07 00:17:47 - info ] 4061600 ticks received from exchange SHFE
+[2024.06.07 00:17:49 - info ] 910800 ticks received from exchange INE
+[2024.06.07 00:17:50 - info ] 4061800 ticks received from exchange SHFE
+[2024.06.07 00:17:53 - info ] 4062000 ticks received from exchange SHFE
+[2024.06.07 00:17:55 - debug] RT tick block of SHFE.pb2505 resized to 5000
+[2024.06.07 00:17:56 - info ] 4062200 ticks received from exchange SHFE
+[2024.06.07 00:17:57 - debug] RT tick block of INE.sc2408 resized to 20000
+[2024.06.07 00:17:58 - info ] 4062400 ticks received from exchange SHFE
+[2024.06.07 00:18:01 - info ] 4062600 ticks received from exchange SHFE
+[2024.06.07 00:18:01 - info ] 911000 ticks received from exchange INE
+[2024.06.07 00:18:04 - info ] 4062800 ticks received from exchange SHFE
+[2024.06.07 00:18:06 - debug] RT tick block of SHFE.sn2409 resized to 15000
+[2024.06.07 00:18:07 - info ] 4063000 ticks received from exchange SHFE
+[2024.06.07 00:18:09 - info ] 4063200 ticks received from exchange SHFE
+[2024.06.07 00:18:12 - info ] 4063400 ticks received from exchange SHFE
+[2024.06.07 00:18:14 - info ] 911200 ticks received from exchange INE
+[2024.06.07 00:18:15 - info ] 4063600 ticks received from exchange SHFE
+[2024.06.07 00:18:18 - info ] 4063800 ticks received from exchange SHFE
+[2024.06.07 00:18:21 - debug] RT tick block of SHFE.sn2408 resized to 20000
+[2024.06.07 00:18:22 - info ] 4064000 ticks received from exchange SHFE
+[2024.06.07 00:18:25 - info ] 4064200 ticks received from exchange SHFE
+[2024.06.07 00:18:28 - info ] 4064400 ticks received from exchange SHFE
+[2024.06.07 00:18:29 - info ] 911400 ticks received from exchange INE
+[2024.06.07 00:18:31 - info ] 4064600 ticks received from exchange SHFE
+[2024.06.07 00:18:34 - info ] 4064800 ticks received from exchange SHFE
+[2024.06.07 00:18:35 - debug] RT tick block of INE.bc2408 resized to 15000
+[2024.06.07 00:18:37 - info ] 4065000 ticks received from exchange SHFE
+[2024.06.07 00:18:40 - info ] 4065200 ticks received from exchange SHFE
+[2024.06.07 00:18:43 - info ] 4065400 ticks received from exchange SHFE
+[2024.06.07 00:18:44 - info ] 911600 ticks received from exchange INE
+[2024.06.07 00:18:46 - info ] 4065600 ticks received from exchange SHFE
+[2024.06.07 00:18:48 - info ] 4065800 ticks received from exchange SHFE
+[2024.06.07 00:18:51 - info ] 4066000 ticks received from exchange SHFE
+[2024.06.07 00:18:54 - info ] 4066200 ticks received from exchange SHFE
+[2024.06.07 00:18:56 - info ] 4066400 ticks received from exchange SHFE
+[2024.06.07 00:18:57 - info ] 911800 ticks received from exchange INE
+[2024.06.07 00:18:59 - info ] 4066600 ticks received from exchange SHFE
+[2024.06.07 00:18:59 - debug] RT tick block of INE.sc2410 resized to 20000
+[2024.06.07 00:19:02 - info ] 4066800 ticks received from exchange SHFE
+[2024.06.07 00:19:05 - info ] 4067000 ticks received from exchange SHFE
+[2024.06.07 00:19:08 - info ] 4067200 ticks received from exchange SHFE
+[2024.06.07 00:19:11 - info ] 912000 ticks received from exchange INE
+[2024.06.07 00:19:11 - info ] 4067400 ticks received from exchange SHFE
+[2024.06.07 00:19:14 - info ] 4067600 ticks received from exchange SHFE
+[2024.06.07 00:19:16 - info ] 4067800 ticks received from exchange SHFE
+[2024.06.07 00:19:18 - info ] 4068000 ticks received from exchange SHFE
+[2024.06.07 00:19:20 - debug] RT tick block of SHFE.sn2410 resized to 20000
+[2024.06.07 00:19:21 - info ] 4068200 ticks received from exchange SHFE
+[2024.06.07 00:19:23 - info ] 4068400 ticks received from exchange SHFE
+[2024.06.07 00:19:23 - info ] 912200 ticks received from exchange INE
+[2024.06.07 00:19:25 - info ] 4068600 ticks received from exchange SHFE
+[2024.06.07 00:19:27 - info ] 4068800 ticks received from exchange SHFE
+[2024.06.07 00:19:31 - info ] 4069000 ticks received from exchange SHFE
+[2024.06.07 00:19:34 - info ] 4069200 ticks received from exchange SHFE
+[2024.06.07 00:19:37 - info ] 4069400 ticks received from exchange SHFE
+[2024.06.07 00:19:38 - info ] 912400 ticks received from exchange INE
+[2024.06.07 00:19:40 - info ] 4069600 ticks received from exchange SHFE
+[2024.06.07 00:19:40 - debug] RT tick block of SHFE.ag2503 resized to 17500
+[2024.06.07 00:19:42 - info ] 4069800 ticks received from exchange SHFE
+[2024.06.07 00:19:44 - info ] 4070000 ticks received from exchange SHFE
+[2024.06.07 00:19:47 - info ] 4070200 ticks received from exchange SHFE
+[2024.06.07 00:19:50 - info ] 4070400 ticks received from exchange SHFE
+[2024.06.07 00:19:53 - info ] 4070600 ticks received from exchange SHFE
+[2024.06.07 00:19:53 - info ] 912600 ticks received from exchange INE
+[2024.06.07 00:19:56 - info ] 4070800 ticks received from exchange SHFE
+[2024.06.07 00:19:58 - info ] 4071000 ticks received from exchange SHFE
+[2024.06.07 00:20:02 - info ] 4071200 ticks received from exchange SHFE
+[2024.06.07 00:20:03 - info ] 912800 ticks received from exchange INE
+[2024.06.07 00:20:05 - info ] 4071400 ticks received from exchange SHFE
+[2024.06.07 00:20:07 - info ] 4071600 ticks received from exchange SHFE
+[2024.06.07 00:20:10 - info ] 4071800 ticks received from exchange SHFE
+[2024.06.07 00:20:12 - info ] 4072000 ticks received from exchange SHFE
+[2024.06.07 00:20:14 - info ] 4072200 ticks received from exchange SHFE
+[2024.06.07 00:20:15 - info ] 913000 ticks received from exchange INE
+[2024.06.07 00:20:18 - info ] 4072400 ticks received from exchange SHFE
+[2024.06.07 00:20:20 - info ] 4072600 ticks received from exchange SHFE
+[2024.06.07 00:20:24 - info ] 4072800 ticks received from exchange SHFE
+[2024.06.07 00:20:26 - info ] 913200 ticks received from exchange INE
+[2024.06.07 00:20:27 - info ] 4073000 ticks received from exchange SHFE
+[2024.06.07 00:20:29 - info ] 4073200 ticks received from exchange SHFE
+[2024.06.07 00:20:32 - info ] 4073400 ticks received from exchange SHFE
+[2024.06.07 00:20:35 - info ] 4073600 ticks received from exchange SHFE
+[2024.06.07 00:20:39 - info ] 913400 ticks received from exchange INE
+[2024.06.07 00:20:39 - info ] 4073800 ticks received from exchange SHFE
+[2024.06.07 00:20:42 - info ] 4074000 ticks received from exchange SHFE
+[2024.06.07 00:20:45 - info ] 4074200 ticks received from exchange SHFE
+[2024.06.07 00:20:49 - info ] 4074400 ticks received from exchange SHFE
+[2024.06.07 00:20:52 - info ] 4074600 ticks received from exchange SHFE
+[2024.06.07 00:20:54 - info ] 913600 ticks received from exchange INE
+[2024.06.07 00:20:55 - info ] 4074800 ticks received from exchange SHFE
+[2024.06.07 00:20:59 - info ] 4075000 ticks received from exchange SHFE
+[2024.06.07 00:21:02 - info ] 4075200 ticks received from exchange SHFE
+[2024.06.07 00:21:04 - info ] 4075400 ticks received from exchange SHFE
+[2024.06.07 00:21:05 - info ] 913800 ticks received from exchange INE
+[2024.06.07 00:21:06 - info ] 4075600 ticks received from exchange SHFE
+[2024.06.07 00:21:09 - info ] 4075800 ticks received from exchange SHFE
+[2024.06.07 00:21:12 - info ] 4076000 ticks received from exchange SHFE
+[2024.06.07 00:21:15 - info ] 4076200 ticks received from exchange SHFE
+[2024.06.07 00:21:18 - info ] 4076400 ticks received from exchange SHFE
+[2024.06.07 00:21:19 - info ] 914000 ticks received from exchange INE
+[2024.06.07 00:21:21 - info ] 4076600 ticks received from exchange SHFE
+[2024.06.07 00:21:25 - info ] 4076800 ticks received from exchange SHFE
+[2024.06.07 00:21:28 - info ] 4077000 ticks received from exchange SHFE
+[2024.06.07 00:21:31 - info ] 4077200 ticks received from exchange SHFE
+[2024.06.07 00:21:33 - info ] 914200 ticks received from exchange INE
+[2024.06.07 00:21:35 - info ] 4077400 ticks received from exchange SHFE
+[2024.06.07 00:21:37 - info ] 4077600 ticks received from exchange SHFE
+[2024.06.07 00:21:40 - info ] 4077800 ticks received from exchange SHFE
+[2024.06.07 00:21:43 - info ] 4078000 ticks received from exchange SHFE
+[2024.06.07 00:21:46 - info ] 4078200 ticks received from exchange SHFE
+[2024.06.07 00:21:47 - info ] 914400 ticks received from exchange INE
+[2024.06.07 00:21:50 - info ] 4078400 ticks received from exchange SHFE
+[2024.06.07 00:21:54 - info ] 4078600 ticks received from exchange SHFE
+[2024.06.07 00:21:57 - info ] 4078800 ticks received from exchange SHFE
+[2024.06.07 00:22:00 - info ] 4079000 ticks received from exchange SHFE
+[2024.06.07 00:22:01 - info ] 914600 ticks received from exchange INE
+[2024.06.07 00:22:03 - info ] 4079200 ticks received from exchange SHFE
+[2024.06.07 00:22:05 - info ] 4079400 ticks received from exchange SHFE
+[2024.06.07 00:22:07 - info ] 4079600 ticks received from exchange SHFE
+[2024.06.07 00:22:09 - info ] 4079800 ticks received from exchange SHFE
+[2024.06.07 00:22:11 - info ] 914800 ticks received from exchange INE
+[2024.06.07 00:22:13 - info ] 4080000 ticks received from exchange SHFE
+[2024.06.07 00:22:15 - info ] 4080200 ticks received from exchange SHFE
+[2024.06.07 00:22:18 - info ] 4080400 ticks received from exchange SHFE
+[2024.06.07 00:22:22 - info ] 4080600 ticks received from exchange SHFE
+[2024.06.07 00:22:23 - info ] 915000 ticks received from exchange INE
+[2024.06.07 00:22:24 - debug] RT tick block of SHFE.zn2408 resized to 15000
+[2024.06.07 00:22:25 - info ] 4080800 ticks received from exchange SHFE
+[2024.06.07 00:22:28 - info ] 4081000 ticks received from exchange SHFE
+[2024.06.07 00:22:31 - info ] 4081200 ticks received from exchange SHFE
+[2024.06.07 00:22:34 - info ] 4081400 ticks received from exchange SHFE
+[2024.06.07 00:22:36 - info ] 915200 ticks received from exchange INE
+[2024.06.07 00:22:37 - info ] 4081600 ticks received from exchange SHFE
+[2024.06.07 00:22:41 - info ] 4081800 ticks received from exchange SHFE
+[2024.06.07 00:22:44 - debug] RT tick block of INE.bc2410 resized to 15000
+[2024.06.07 00:22:44 - info ] 4082000 ticks received from exchange SHFE
+[2024.06.07 00:22:47 - info ] 4082200 ticks received from exchange SHFE
+[2024.06.07 00:22:48 - info ] 915400 ticks received from exchange INE
+[2024.06.07 00:22:50 - debug] RT tick block of SHFE.pb2408 resized to 12500
+[2024.06.07 00:22:50 - info ] 4082400 ticks received from exchange SHFE
+[2024.06.07 00:22:51 - debug] RT tick block of SHFE.zn2503 resized to 7500
+[2024.06.07 00:22:54 - info ] 4082600 ticks received from exchange SHFE
+[2024.06.07 00:22:57 - info ] 4082800 ticks received from exchange SHFE
+[2024.06.07 00:23:00 - info ] 4083000 ticks received from exchange SHFE
+[2024.06.07 00:23:01 - debug] RT tick block of SHFE.ag2504 resized to 17500
+[2024.06.07 00:23:01 - info ] 915600 ticks received from exchange INE
+[2024.06.07 00:23:03 - info ] 4083200 ticks received from exchange SHFE
+[2024.06.07 00:23:07 - info ] 4083400 ticks received from exchange SHFE
+[2024.06.07 00:23:11 - info ] 4083600 ticks received from exchange SHFE
+[2024.06.07 00:23:14 - info ] 4083800 ticks received from exchange SHFE
+[2024.06.07 00:23:16 - debug] RT tick block of INE.sc2501 resized to 7500
+[2024.06.07 00:23:16 - info ] 915800 ticks received from exchange INE
+[2024.06.07 00:23:18 - info ] 4084000 ticks received from exchange SHFE
+[2024.06.07 00:23:20 - info ] 4084200 ticks received from exchange SHFE
+[2024.06.07 00:23:24 - info ] 4084400 ticks received from exchange SHFE
+[2024.06.07 00:23:25 - info ] 916000 ticks received from exchange INE
+[2024.06.07 00:23:28 - info ] 4084600 ticks received from exchange SHFE
+[2024.06.07 00:23:30 - info ] 4084800 ticks received from exchange SHFE
+[2024.06.07 00:23:33 - info ] 4085000 ticks received from exchange SHFE
+[2024.06.07 00:23:36 - info ] 4085200 ticks received from exchange SHFE
+[2024.06.07 00:23:37 - info ] 916200 ticks received from exchange INE
+[2024.06.07 00:23:39 - info ] 4085400 ticks received from exchange SHFE
+[2024.06.07 00:23:41 - info ] 4085600 ticks received from exchange SHFE
+[2024.06.07 00:23:44 - info ] 4085800 ticks received from exchange SHFE
+[2024.06.07 00:23:47 - info ] 4086000 ticks received from exchange SHFE
+[2024.06.07 00:23:49 - info ] 4086200 ticks received from exchange SHFE
+[2024.06.07 00:23:50 - info ] 916400 ticks received from exchange INE
+[2024.06.07 00:23:52 - info ] 4086400 ticks received from exchange SHFE
+[2024.06.07 00:23:55 - info ] 4086600 ticks received from exchange SHFE
+[2024.06.07 00:23:58 - info ] 4086800 ticks received from exchange SHFE
+[2024.06.07 00:24:00 - info ] 4087000 ticks received from exchange SHFE
+[2024.06.07 00:24:01 - info ] 916600 ticks received from exchange INE
+[2024.06.07 00:24:04 - info ] 4087200 ticks received from exchange SHFE
+[2024.06.07 00:24:07 - info ] 4087400 ticks received from exchange SHFE
+[2024.06.07 00:24:10 - info ] 4087600 ticks received from exchange SHFE
+[2024.06.07 00:24:13 - info ] 4087800 ticks received from exchange SHFE
+[2024.06.07 00:24:13 - info ] 916800 ticks received from exchange INE
+[2024.06.07 00:24:16 - info ] 4088000 ticks received from exchange SHFE
+[2024.06.07 00:24:19 - info ] 4088200 ticks received from exchange SHFE
+[2024.06.07 00:24:22 - info ] 4088400 ticks received from exchange SHFE
+[2024.06.07 00:24:25 - info ] 4088600 ticks received from exchange SHFE
+[2024.06.07 00:24:25 - info ] 917000 ticks received from exchange INE
+[2024.06.07 00:24:29 - info ] 4088800 ticks received from exchange SHFE
+[2024.06.07 00:24:32 - info ] 4089000 ticks received from exchange SHFE
+[2024.06.07 00:24:35 - info ] 4089200 ticks received from exchange SHFE
+[2024.06.07 00:24:38 - info ] 4089400 ticks received from exchange SHFE
+[2024.06.07 00:24:41 - info ] 917200 ticks received from exchange INE
+[2024.06.07 00:24:41 - info ] 4089600 ticks received from exchange SHFE
+[2024.06.07 00:24:45 - info ] 4089800 ticks received from exchange SHFE
+[2024.06.07 00:24:48 - info ] 4090000 ticks received from exchange SHFE
+[2024.06.07 00:24:51 - info ] 4090200 ticks received from exchange SHFE
+[2024.06.07 00:24:52 - debug] RT tick block of SHFE.au2506 resized to 15000
+[2024.06.07 00:24:55 - info ] 4090400 ticks received from exchange SHFE
+[2024.06.07 00:24:56 - info ] 917400 ticks received from exchange INE
+[2024.06.07 00:24:58 - info ] 4090600 ticks received from exchange SHFE
+[2024.06.07 00:25:01 - info ] 4090800 ticks received from exchange SHFE
+[2024.06.07 00:25:04 - info ] 4091000 ticks received from exchange SHFE
+[2024.06.07 00:25:07 - info ] 4091200 ticks received from exchange SHFE
+[2024.06.07 00:25:09 - info ] 917600 ticks received from exchange INE
+[2024.06.07 00:25:10 - info ] 4091400 ticks received from exchange SHFE
+[2024.06.07 00:25:13 - info ] 4091600 ticks received from exchange SHFE
+[2024.06.07 00:25:16 - info ] 4091800 ticks received from exchange SHFE
+[2024.06.07 00:25:19 - info ] 4092000 ticks received from exchange SHFE
+[2024.06.07 00:25:22 - info ] 4092200 ticks received from exchange SHFE
+[2024.06.07 00:25:24 - info ] 917800 ticks received from exchange INE
+[2024.06.07 00:25:25 - info ] 4092400 ticks received from exchange SHFE
+[2024.06.07 00:25:27 - debug] RT tick block of SHFE.ag2501 resized to 17500
+[2024.06.07 00:25:28 - info ] 4092600 ticks received from exchange SHFE
+[2024.06.07 00:25:30 - debug] RT tick block of SHFE.cu2412 resized to 15000
+[2024.06.07 00:25:31 - info ] 4092800 ticks received from exchange SHFE
+[2024.06.07 00:25:35 - info ] 4093000 ticks received from exchange SHFE
+[2024.06.07 00:25:35 - info ] 918000 ticks received from exchange INE
+[2024.06.07 00:25:38 - info ] 4093200 ticks received from exchange SHFE
+[2024.06.07 00:25:41 - info ] 4093400 ticks received from exchange SHFE
+[2024.06.07 00:25:43 - info ] 4093600 ticks received from exchange SHFE
+[2024.06.07 00:25:46 - info ] 4093800 ticks received from exchange SHFE
+[2024.06.07 00:25:48 - debug] RT tick block of SHFE.ag2409 resized to 20000
+[2024.06.07 00:25:49 - info ] 4094000 ticks received from exchange SHFE
+[2024.06.07 00:25:52 - info ] 918200 ticks received from exchange INE
+[2024.06.07 00:25:52 - debug] RT tick block of SHFE.ss2409 resized to 17500
+[2024.06.07 00:25:52 - info ] 4094200 ticks received from exchange SHFE
+[2024.06.07 00:25:55 - info ] 4094400 ticks received from exchange SHFE
+[2024.06.07 00:25:58 - info ] 4094600 ticks received from exchange SHFE
+[2024.06.07 00:26:01 - info ] 4094800 ticks received from exchange SHFE
+[2024.06.07 00:26:05 - info ] 4095000 ticks received from exchange SHFE
+[2024.06.07 00:26:06 - info ] 918400 ticks received from exchange INE
+[2024.06.07 00:26:08 - info ] 4095200 ticks received from exchange SHFE
+[2024.06.07 00:26:10 - debug] RT tick block of SHFE.ni2411 resized to 10000
+[2024.06.07 00:26:11 - info ] 4095400 ticks received from exchange SHFE
+[2024.06.07 00:26:14 - info ] 4095600 ticks received from exchange SHFE
+[2024.06.07 00:26:16 - info ] 4095800 ticks received from exchange SHFE
+[2024.06.07 00:26:19 - info ] 918600 ticks received from exchange INE
+[2024.06.07 00:26:19 - info ] 4096000 ticks received from exchange SHFE
+[2024.06.07 00:26:21 - info ] 4096200 ticks received from exchange SHFE
+[2024.06.07 00:26:24 - info ] 4096400 ticks received from exchange SHFE
+[2024.06.07 00:26:28 - info ] 4096600 ticks received from exchange SHFE
+[2024.06.07 00:26:31 - info ] 4096800 ticks received from exchange SHFE
+[2024.06.07 00:26:33 - info ] 4097000 ticks received from exchange SHFE
+[2024.06.07 00:26:34 - info ] 918800 ticks received from exchange INE
+[2024.06.07 00:26:36 - info ] 4097200 ticks received from exchange SHFE
+[2024.06.07 00:26:39 - info ] 4097400 ticks received from exchange SHFE
+[2024.06.07 00:26:42 - info ] tick cache of INE.bc2406 mapping expired, automatically closed
+[2024.06.07 00:26:42 - info ] min1 cache of INE.bc2406 mapping expired, automatically closed
+[2024.06.07 00:26:42 - info ] min5 cache of INE.bc2406 mapping expired, automatically closed
+[2024.06.07 00:26:42 - info ] 4097600 ticks received from exchange SHFE
+[2024.06.07 00:26:43 - debug] RT tick block of SHFE.au2412 resized to 17500
+[2024.06.07 00:26:45 - info ] 4097800 ticks received from exchange SHFE
+[2024.06.07 00:26:45 - info ] 919000 ticks received from exchange INE
+[2024.06.07 00:26:49 - info ] 4098000 ticks received from exchange SHFE
+[2024.06.07 00:26:52 - info ] 4098200 ticks received from exchange SHFE
+[2024.06.07 00:26:56 - info ] 4098400 ticks received from exchange SHFE
+[2024.06.07 00:26:59 - info ] 4098600 ticks received from exchange SHFE
+[2024.06.07 00:27:01 - info ] 919200 ticks received from exchange INE
+[2024.06.07 00:27:02 - info ] 4098800 ticks received from exchange SHFE
+[2024.06.07 00:27:04 - info ] 4099000 ticks received from exchange SHFE
+[2024.06.07 00:27:08 - info ] 4099200 ticks received from exchange SHFE
+[2024.06.07 00:27:11 - info ] 4099400 ticks received from exchange SHFE
+[2024.06.07 00:27:13 - info ] 4099600 ticks received from exchange SHFE
+[2024.06.07 00:27:14 - info ] 919400 ticks received from exchange INE
+[2024.06.07 00:27:15 - info ] 4099800 ticks received from exchange SHFE
+[2024.06.07 00:27:17 - info ] 4100000 ticks received from exchange SHFE
+[2024.06.07 00:27:19 - info ] 4100200 ticks received from exchange SHFE
+[2024.06.07 00:27:22 - info ] 4100400 ticks received from exchange SHFE
+[2024.06.07 00:27:23 - info ] 4100600 ticks received from exchange SHFE
+[2024.06.07 00:27:24 - debug] RT tick block of SHFE.cu2408 resized to 17500
+[2024.06.07 00:27:25 - info ] 919600 ticks received from exchange INE
+[2024.06.07 00:27:26 - info ] 4100800 ticks received from exchange SHFE
+[2024.06.07 00:27:29 - info ] 4101000 ticks received from exchange SHFE
+[2024.06.07 00:27:32 - info ] 4101200 ticks received from exchange SHFE
+[2024.06.07 00:27:36 - info ] 4101400 ticks received from exchange SHFE
+[2024.06.07 00:27:40 - info ] 4101600 ticks received from exchange SHFE
+[2024.06.07 00:27:41 - info ] 919800 ticks received from exchange INE
+[2024.06.07 00:27:44 - info ] 4101800 ticks received from exchange SHFE
+[2024.06.07 00:27:47 - info ] 4102000 ticks received from exchange SHFE
+[2024.06.07 00:27:49 - info ] 4102200 ticks received from exchange SHFE
+[2024.06.07 00:27:51 - info ] 4102400 ticks received from exchange SHFE
+[2024.06.07 00:27:52 - info ] 920000 ticks received from exchange INE
+[2024.06.07 00:27:54 - info ] 4102600 ticks received from exchange SHFE
+[2024.06.07 00:27:58 - info ] 4102800 ticks received from exchange SHFE
+[2024.06.07 00:28:01 - info ] 4103000 ticks received from exchange SHFE
+[2024.06.07 00:28:04 - info ] 4103200 ticks received from exchange SHFE
+[2024.06.07 00:28:07 - info ] 4103400 ticks received from exchange SHFE
+[2024.06.07 00:28:08 - info ] 920200 ticks received from exchange INE
+[2024.06.07 00:28:11 - info ] 4103600 ticks received from exchange SHFE
+[2024.06.07 00:28:14 - info ] 4103800 ticks received from exchange SHFE
+[2024.06.07 00:28:17 - info ] 4104000 ticks received from exchange SHFE
+[2024.06.07 00:28:21 - info ] 4104200 ticks received from exchange SHFE
+[2024.06.07 00:28:22 - info ] 920400 ticks received from exchange INE
+[2024.06.07 00:28:24 - info ] 4104400 ticks received from exchange SHFE
+[2024.06.07 00:28:27 - info ] 4104600 ticks received from exchange SHFE
+[2024.06.07 00:28:30 - info ] 4104800 ticks received from exchange SHFE
+[2024.06.07 00:28:34 - info ] 4105000 ticks received from exchange SHFE
+[2024.06.07 00:28:37 - info ] 920600 ticks received from exchange INE
+[2024.06.07 00:28:37 - info ] 4105200 ticks received from exchange SHFE
+[2024.06.07 00:28:42 - info ] 4105400 ticks received from exchange SHFE
+[2024.06.07 00:28:46 - info ] 4105600 ticks received from exchange SHFE
+[2024.06.07 00:28:50 - info ] 920800 ticks received from exchange INE
+[2024.06.07 00:28:50 - info ] 4105800 ticks received from exchange SHFE
+[2024.06.07 00:28:53 - info ] 4106000 ticks received from exchange SHFE
+[2024.06.07 00:28:57 - info ] 4106200 ticks received from exchange SHFE
+[2024.06.07 00:29:00 - info ] 4106400 ticks received from exchange SHFE
+[2024.06.07 00:29:02 - info ] 921000 ticks received from exchange INE
+[2024.06.07 00:29:04 - info ] 4106600 ticks received from exchange SHFE
+[2024.06.07 00:29:07 - info ] 4106800 ticks received from exchange SHFE
+[2024.06.07 00:29:10 - info ] 4107000 ticks received from exchange SHFE
+[2024.06.07 00:29:13 - info ] 4107200 ticks received from exchange SHFE
+[2024.06.07 00:29:15 - info ] 921200 ticks received from exchange INE
+[2024.06.07 00:29:16 - info ] 4107400 ticks received from exchange SHFE
+[2024.06.07 00:29:20 - info ] 4107600 ticks received from exchange SHFE
+[2024.06.07 00:29:23 - info ] 4107800 ticks received from exchange SHFE
+[2024.06.07 00:29:27 - info ] 4108000 ticks received from exchange SHFE
+[2024.06.07 00:29:28 - info ] 921400 ticks received from exchange INE
+[2024.06.07 00:29:30 - info ] 4108200 ticks received from exchange SHFE
+[2024.06.07 00:29:33 - info ] 4108400 ticks received from exchange SHFE
+[2024.06.07 00:29:36 - info ] 4108600 ticks received from exchange SHFE
+[2024.06.07 00:29:40 - info ] 4108800 ticks received from exchange SHFE
+[2024.06.07 00:29:44 - info ] 921600 ticks received from exchange INE
+[2024.06.07 00:29:44 - info ] 4109000 ticks received from exchange SHFE
+[2024.06.07 00:29:48 - debug] RT tick block of SHFE.sn2411 resized to 12500
+[2024.06.07 00:29:48 - info ] 4109200 ticks received from exchange SHFE
+[2024.06.07 00:29:52 - info ] 4109400 ticks received from exchange SHFE
+[2024.06.07 00:29:56 - info ] 4109600 ticks received from exchange SHFE
+[2024.06.07 00:29:59 - info ] 921800 ticks received from exchange INE
+[2024.06.07 00:30:00 - info ] 4109800 ticks received from exchange SHFE
+[2024.06.07 00:30:03 - info ] 4110000 ticks received from exchange SHFE
+[2024.06.07 00:30:04 - info ] 4110200 ticks received from exchange SHFE
+[2024.06.07 00:30:07 - info ] 4110400 ticks received from exchange SHFE
+[2024.06.07 00:30:09 - info ] 922000 ticks received from exchange INE
+[2024.06.07 00:30:09 - info ] 4110600 ticks received from exchange SHFE
+[2024.06.07 00:30:12 - info ] 4110800 ticks received from exchange SHFE
+[2024.06.07 00:30:16 - info ] 4111000 ticks received from exchange SHFE
+[2024.06.07 00:30:19 - info ] 4111200 ticks received from exchange SHFE
+[2024.06.07 00:30:21 - debug] RT tick block of SHFE.au2504 resized to 15000
+[2024.06.07 00:30:23 - info ] 4111400 ticks received from exchange SHFE
+[2024.06.07 00:30:26 - info ] 4111600 ticks received from exchange SHFE
+[2024.06.07 00:30:26 - info ] 922200 ticks received from exchange INE
+[2024.06.07 00:30:29 - info ] 4111800 ticks received from exchange SHFE
+[2024.06.07 00:30:33 - info ] 4112000 ticks received from exchange SHFE
+[2024.06.07 00:30:36 - info ] 4112200 ticks received from exchange SHFE
+[2024.06.07 00:30:40 - info ] 4112400 ticks received from exchange SHFE
+[2024.06.07 00:30:40 - info ] 922400 ticks received from exchange INE
+[2024.06.07 00:30:43 - info ] 4112600 ticks received from exchange SHFE
+[2024.06.07 00:30:47 - info ] 4112800 ticks received from exchange SHFE
+[2024.06.07 00:30:50 - info ] 4113000 ticks received from exchange SHFE
+[2024.06.07 00:30:54 - info ] 4113200 ticks received from exchange SHFE
+[2024.06.07 00:30:54 - info ] 922600 ticks received from exchange INE
+[2024.06.07 00:30:58 - info ] 4113400 ticks received from exchange SHFE
+[2024.06.07 00:31:01 - debug] RT tick block of SHFE.al2407 resized to 15000
+[2024.06.07 00:31:01 - info ] 4113600 ticks received from exchange SHFE
+[2024.06.07 00:31:03 - info ] 4113800 ticks received from exchange SHFE
+[2024.06.07 00:31:05 - info ] 4114000 ticks received from exchange SHFE
+[2024.06.07 00:31:06 - info ] 922800 ticks received from exchange INE
+[2024.06.07 00:31:08 - info ] 4114200 ticks received from exchange SHFE
+[2024.06.07 00:31:11 - info ] 4114400 ticks received from exchange SHFE
+[2024.06.07 00:31:13 - info ] 4114600 ticks received from exchange SHFE
+[2024.06.07 00:31:16 - info ] 4114800 ticks received from exchange SHFE
+[2024.06.07 00:31:19 - info ] 4115000 ticks received from exchange SHFE
+[2024.06.07 00:31:20 - info ] 923000 ticks received from exchange INE
+[2024.06.07 00:31:22 - info ] 4115200 ticks received from exchange SHFE
+[2024.06.07 00:31:25 - info ] 4115400 ticks received from exchange SHFE
+[2024.06.07 00:31:28 - info ] 4115600 ticks received from exchange SHFE
+[2024.06.07 00:31:31 - info ] 4115800 ticks received from exchange SHFE
+[2024.06.07 00:31:34 - info ] 4116000 ticks received from exchange SHFE
+[2024.06.07 00:31:35 - info ] 923200 ticks received from exchange INE
+[2024.06.07 00:31:38 - info ] 4116200 ticks received from exchange SHFE
+[2024.06.07 00:31:42 - info ] 4116400 ticks received from exchange SHFE
+[2024.06.07 00:31:43 - debug] RT tick block of SHFE.zn2412 resized to 7500
+[2024.06.07 00:31:45 - info ] 4116600 ticks received from exchange SHFE
+[2024.06.07 00:31:49 - info ] 923400 ticks received from exchange INE
+[2024.06.07 00:31:49 - info ] 4116800 ticks received from exchange SHFE
+[2024.06.07 00:31:52 - info ] 4117000 ticks received from exchange SHFE
+[2024.06.07 00:31:56 - info ] 4117200 ticks received from exchange SHFE
+[2024.06.07 00:31:59 - info ] 4117400 ticks received from exchange SHFE
+[2024.06.07 00:32:03 - info ] 923600 ticks received from exchange INE
+[2024.06.07 00:32:03 - info ] 4117600 ticks received from exchange SHFE
+[2024.06.07 00:32:06 - info ] 4117800 ticks received from exchange SHFE
+[2024.06.07 00:32:10 - info ] 4118000 ticks received from exchange SHFE
+[2024.06.07 00:32:13 - info ] 4118200 ticks received from exchange SHFE
+[2024.06.07 00:32:15 - info ] 923800 ticks received from exchange INE
+[2024.06.07 00:32:16 - info ] 4118400 ticks received from exchange SHFE
+[2024.06.07 00:32:20 - info ] 4118600 ticks received from exchange SHFE
+[2024.06.07 00:32:24 - info ] 4118800 ticks received from exchange SHFE
+[2024.06.07 00:32:27 - info ] 4119000 ticks received from exchange SHFE
+[2024.06.07 00:32:29 - info ] 4119200 ticks received from exchange SHFE
+[2024.06.07 00:32:29 - info ] 924000 ticks received from exchange INE
+[2024.06.07 00:32:32 - info ] 4119400 ticks received from exchange SHFE
+[2024.06.07 00:32:35 - info ] 4119600 ticks received from exchange SHFE
+[2024.06.07 00:32:38 - info ] 4119800 ticks received from exchange SHFE
+[2024.06.07 00:32:40 - info ] 4120000 ticks received from exchange SHFE
+[2024.06.07 00:32:43 - info ] 924200 ticks received from exchange INE
+[2024.06.07 00:32:43 - info ] 4120200 ticks received from exchange SHFE
+[2024.06.07 00:32:45 - info ] 4120400 ticks received from exchange SHFE
+[2024.06.07 00:32:48 - info ] 4120600 ticks received from exchange SHFE
+[2024.06.07 00:32:51 - info ] 4120800 ticks received from exchange SHFE
+[2024.06.07 00:32:54 - info ] 4121000 ticks received from exchange SHFE
+[2024.06.07 00:32:56 - info ] 4121200 ticks received from exchange SHFE
+[2024.06.07 00:32:58 - info ] 4121400 ticks received from exchange SHFE
+[2024.06.07 00:33:00 - info ] 924400 ticks received from exchange INE
+[2024.06.07 00:33:01 - info ] 4121600 ticks received from exchange SHFE
+[2024.06.07 00:33:03 - info ] 4121800 ticks received from exchange SHFE
+[2024.06.07 00:33:06 - info ] 4122000 ticks received from exchange SHFE
+[2024.06.07 00:33:09 - info ] 4122200 ticks received from exchange SHFE
+[2024.06.07 00:33:12 - info ] 4122400 ticks received from exchange SHFE
+[2024.06.07 00:33:16 - info ] 924600 ticks received from exchange INE
+[2024.06.07 00:33:16 - info ] 4122600 ticks received from exchange SHFE
+[2024.06.07 00:33:16 - debug] RT tick block of SHFE.au2502 resized to 15000
+[2024.06.07 00:33:19 - info ] 4122800 ticks received from exchange SHFE
+[2024.06.07 00:33:22 - info ] 4123000 ticks received from exchange SHFE
+[2024.06.07 00:33:25 - info ] 4123200 ticks received from exchange SHFE
+[2024.06.07 00:33:29 - info ] 4123400 ticks received from exchange SHFE
+[2024.06.07 00:33:32 - info ] 924800 ticks received from exchange INE
+[2024.06.07 00:33:32 - info ] 4123600 ticks received from exchange SHFE
+[2024.06.07 00:33:35 - info ] 4123800 ticks received from exchange SHFE
+[2024.06.07 00:33:38 - info ] 4124000 ticks received from exchange SHFE
+[2024.06.07 00:33:41 - info ] 4124200 ticks received from exchange SHFE
+[2024.06.07 00:33:45 - info ] 4124400 ticks received from exchange SHFE
+[2024.06.07 00:33:48 - info ] 4124600 ticks received from exchange SHFE
+[2024.06.07 00:33:49 - info ] 925000 ticks received from exchange INE
+[2024.06.07 00:33:52 - info ] 4124800 ticks received from exchange SHFE
+[2024.06.07 00:33:54 - debug] RT tick block of SHFE.ag2407 resized to 17500
+[2024.06.07 00:33:56 - info ] 4125000 ticks received from exchange SHFE
+[2024.06.07 00:34:01 - info ] 4125200 ticks received from exchange SHFE
+[2024.06.07 00:34:05 - info ] 4125400 ticks received from exchange SHFE
+[2024.06.07 00:34:05 - info ] 925200 ticks received from exchange INE
+[2024.06.07 00:34:08 - info ] 4125600 ticks received from exchange SHFE
+[2024.06.07 00:34:10 - info ] 4125800 ticks received from exchange SHFE
+[2024.06.07 00:34:15 - info ] 4126000 ticks received from exchange SHFE
+[2024.06.07 00:34:18 - info ] 925400 ticks received from exchange INE
+[2024.06.07 00:34:19 - info ] 4126200 ticks received from exchange SHFE
+[2024.06.07 00:34:22 - info ] 4126400 ticks received from exchange SHFE
+[2024.06.07 00:34:24 - debug] RT tick block of SHFE.ss2410 resized to 7500
+[2024.06.07 00:34:25 - info ] 4126600 ticks received from exchange SHFE
+[2024.06.07 00:34:28 - info ] 4126800 ticks received from exchange SHFE
+[2024.06.07 00:34:30 - info ] 925600 ticks received from exchange INE
+[2024.06.07 00:34:31 - info ] 4127000 ticks received from exchange SHFE
+[2024.06.07 00:34:35 - info ] 4127200 ticks received from exchange SHFE
+[2024.06.07 00:34:39 - info ] 4127400 ticks received from exchange SHFE
+[2024.06.07 00:34:44 - info ] 4127600 ticks received from exchange SHFE
+[2024.06.07 00:34:44 - info ] 925800 ticks received from exchange INE
+[2024.06.07 00:34:47 - info ] 4127800 ticks received from exchange SHFE
+[2024.06.07 00:34:50 - info ] 4128000 ticks received from exchange SHFE
+[2024.06.07 00:34:53 - info ] 4128200 ticks received from exchange SHFE
+[2024.06.07 00:34:56 - info ] 4128400 ticks received from exchange SHFE
+[2024.06.07 00:34:58 - info ] 926000 ticks received from exchange INE
+[2024.06.07 00:34:59 - info ] 4128600 ticks received from exchange SHFE
+[2024.06.07 00:35:02 - info ] 4128800 ticks received from exchange SHFE
+[2024.06.07 00:35:04 - info ] 4129000 ticks received from exchange SHFE
+[2024.06.07 00:35:07 - info ] 4129200 ticks received from exchange SHFE
+[2024.06.07 00:35:11 - info ] 4129400 ticks received from exchange SHFE
+[2024.06.07 00:35:14 - info ] 926200 ticks received from exchange INE
+[2024.06.07 00:35:15 - info ] 4129600 ticks received from exchange SHFE
+[2024.06.07 00:35:18 - info ] 4129800 ticks received from exchange SHFE
+[2024.06.07 00:35:21 - info ] 4130000 ticks received from exchange SHFE
+[2024.06.07 00:35:25 - info ] 4130200 ticks received from exchange SHFE
+[2024.06.07 00:35:26 - info ] 926400 ticks received from exchange INE
+[2024.06.07 00:35:28 - info ] 4130400 ticks received from exchange SHFE
+[2024.06.07 00:35:32 - info ] 4130600 ticks received from exchange SHFE
+[2024.06.07 00:35:35 - info ] 4130800 ticks received from exchange SHFE
+[2024.06.07 00:35:37 - info ] 4131000 ticks received from exchange SHFE
+[2024.06.07 00:35:39 - info ] 926600 ticks received from exchange INE
+[2024.06.07 00:35:41 - info ] 4131200 ticks received from exchange SHFE
+[2024.06.07 00:35:45 - info ] 4131400 ticks received from exchange SHFE
+[2024.06.07 00:35:48 - info ] 4131600 ticks received from exchange SHFE
+[2024.06.07 00:35:49 - debug] RT tick block of SHFE.sn2504 resized to 7500
+[2024.06.07 00:35:52 - info ] 4131800 ticks received from exchange SHFE
+[2024.06.07 00:35:52 - debug] RT tick block of INE.sc2407 resized to 20000
+[2024.06.07 00:35:54 - info ] 926800 ticks received from exchange INE
+[2024.06.07 00:35:55 - info ] 4132000 ticks received from exchange SHFE
+[2024.06.07 00:35:58 - info ] 4132200 ticks received from exchange SHFE
+[2024.06.07 00:36:01 - info ] 4132400 ticks received from exchange SHFE
+[2024.06.07 00:36:02 - info ] 927000 ticks received from exchange INE
+[2024.06.07 00:36:04 - info ] 4132600 ticks received from exchange SHFE
+[2024.06.07 00:36:04 - debug] RT tick block of SHFE.ag2408 resized to 22500
+[2024.06.07 00:36:07 - info ] 4132800 ticks received from exchange SHFE
+[2024.06.07 00:36:10 - info ] 4133000 ticks received from exchange SHFE
+[2024.06.07 00:36:14 - info ] 4133200 ticks received from exchange SHFE
+[2024.06.07 00:36:17 - info ] 927200 ticks received from exchange INE
+[2024.06.07 00:36:18 - info ] 4133400 ticks received from exchange SHFE
+[2024.06.07 00:36:21 - info ] 4133600 ticks received from exchange SHFE
+[2024.06.07 00:36:26 - info ] 4133800 ticks received from exchange SHFE
+[2024.06.07 00:36:30 - info ] 4134000 ticks received from exchange SHFE
+[2024.06.07 00:36:30 - info ] 927400 ticks received from exchange INE
+[2024.06.07 00:36:34 - info ] 4134200 ticks received from exchange SHFE
+[2024.06.07 00:36:37 - info ] 4134400 ticks received from exchange SHFE
+[2024.06.07 00:36:41 - info ] 4134600 ticks received from exchange SHFE
+[2024.06.07 00:36:42 - debug] RT tick block of SHFE.au2408 resized to 22500
+[2024.06.07 00:36:44 - debug] RT tick block of SHFE.ag2410 resized to 22500
+[2024.06.07 00:36:44 - info ] 4134800 ticks received from exchange SHFE
+[2024.06.07 00:36:45 - info ] 927600 ticks received from exchange INE
+[2024.06.07 00:36:48 - debug] RT tick block of SHFE.ni2408 resized to 22500
+[2024.06.07 00:36:49 - info ] 4135000 ticks received from exchange SHFE
+[2024.06.07 00:36:53 - info ] 4135200 ticks received from exchange SHFE
+[2024.06.07 00:36:56 - debug] RT tick block of SHFE.au2410 resized to 22500
+[2024.06.07 00:36:56 - info ] 4135400 ticks received from exchange SHFE
+[2024.06.07 00:37:00 - info ] 4135600 ticks received from exchange SHFE
+[2024.06.07 00:37:01 - info ] 927800 ticks received from exchange INE
+[2024.06.07 00:37:03 - info ] 4135800 ticks received from exchange SHFE
+[2024.06.07 00:37:07 - info ] 4136000 ticks received from exchange SHFE
+[2024.06.07 00:37:10 - info ] 4136200 ticks received from exchange SHFE
+[2024.06.07 00:37:13 - debug] RT tick block of SHFE.ag2505 resized to 17500
+[2024.06.07 00:37:14 - debug] RT tick block of SHFE.ni2407 resized to 22500
+[2024.06.07 00:37:14 - info ] 4136400 ticks received from exchange SHFE
+[2024.06.07 00:37:16 - info ] 928000 ticks received from exchange INE
+[2024.06.07 00:37:17 - info ] 4136600 ticks received from exchange SHFE
+[2024.06.07 00:37:21 - info ] 4136800 ticks received from exchange SHFE
+[2024.06.07 00:37:24 - debug] RT tick block of SHFE.al2409 resized to 12500
+[2024.06.07 00:37:25 - info ] 4137000 ticks received from exchange SHFE
+[2024.06.07 00:37:29 - info ] 4137200 ticks received from exchange SHFE
+[2024.06.07 00:37:31 - info ] 928200 ticks received from exchange INE
+[2024.06.07 00:37:31 - debug] RT tick block of SHFE.ni2410 resized to 22500
+[2024.06.07 00:37:32 - info ] 4137400 ticks received from exchange SHFE
+[2024.06.07 00:37:37 - info ] 4137600 ticks received from exchange SHFE
+[2024.06.07 00:37:40 - info ] 4137800 ticks received from exchange SHFE
+[2024.06.07 00:37:43 - debug] RT tick block of INE.sc2411 resized to 7500
+[2024.06.07 00:37:44 - info ] 4138000 ticks received from exchange SHFE
+[2024.06.07 00:37:45 - info ] 928400 ticks received from exchange INE
+[2024.06.07 00:37:47 - info ] 4138200 ticks received from exchange SHFE
+[2024.06.07 00:37:51 - info ] 4138400 ticks received from exchange SHFE
+[2024.06.07 00:37:55 - info ] 4138600 ticks received from exchange SHFE
+[2024.06.07 00:37:59 - info ] 928600 ticks received from exchange INE
+[2024.06.07 00:37:59 - info ] 4138800 ticks received from exchange SHFE
+[2024.06.07 00:38:04 - info ] 4139000 ticks received from exchange SHFE
+[2024.06.07 00:38:08 - info ] 4139200 ticks received from exchange SHFE
+[2024.06.07 00:38:12 - info ] 4139400 ticks received from exchange SHFE
+[2024.06.07 00:38:13 - info ] 928800 ticks received from exchange INE
+[2024.06.07 00:38:16 - info ] 4139600 ticks received from exchange SHFE
+[2024.06.07 00:38:21 - debug] RT tick block of INE.sc2409 resized to 22500
+[2024.06.07 00:38:21 - info ] 4139800 ticks received from exchange SHFE
+[2024.06.07 00:38:25 - info ] 4140000 ticks received from exchange SHFE
+[2024.06.07 00:38:30 - info ] 4140200 ticks received from exchange SHFE
+[2024.06.07 00:38:32 - info ] 929000 ticks received from exchange INE
+[2024.06.07 00:38:33 - info ] 4140400 ticks received from exchange SHFE
+[2024.06.07 00:38:37 - info ] 4140600 ticks received from exchange SHFE
+[2024.06.07 00:38:42 - info ] 4140800 ticks received from exchange SHFE
+[2024.06.07 00:38:45 - info ] 4141000 ticks received from exchange SHFE
+[2024.06.07 00:38:47 - debug] RT tick block of INE.sc2408 resized to 22500
+[2024.06.07 00:38:49 - info ] 929200 ticks received from exchange INE
+[2024.06.07 00:38:50 - info ] 4141200 ticks received from exchange SHFE
+[2024.06.07 00:38:54 - info ] 4141400 ticks received from exchange SHFE
+[2024.06.07 00:38:58 - info ] 4141600 ticks received from exchange SHFE
+[2024.06.07 00:39:02 - info ] 4141800 ticks received from exchange SHFE
+[2024.06.07 00:39:05 - info ] 929400 ticks received from exchange INE
+[2024.06.07 00:39:06 - info ] 4142000 ticks received from exchange SHFE
+[2024.06.07 00:39:10 - info ] 4142200 ticks received from exchange SHFE
+[2024.06.07 00:39:11 - debug] RT tick block of SHFE.sn2408 resized to 22500
+[2024.06.07 00:39:14 - info ] 4142400 ticks received from exchange SHFE
+[2024.06.07 00:39:17 - info ] 4142600 ticks received from exchange SHFE
+[2024.06.07 00:39:18 - info ] 929600 ticks received from exchange INE
+[2024.06.07 00:39:20 - info ] 4142800 ticks received from exchange SHFE
+[2024.06.07 00:39:23 - info ] 4143000 ticks received from exchange SHFE
+[2024.06.07 00:39:28 - info ] 4143200 ticks received from exchange SHFE
+[2024.06.07 00:39:31 - info ] 929800 ticks received from exchange INE
+[2024.06.07 00:39:32 - info ] 4143400 ticks received from exchange SHFE
+[2024.06.07 00:39:35 - info ] 4143600 ticks received from exchange SHFE
+[2024.06.07 00:39:40 - info ] 4143800 ticks received from exchange SHFE
+[2024.06.07 00:39:43 - info ] 930000 ticks received from exchange INE
+[2024.06.07 00:39:44 - info ] 4144000 ticks received from exchange SHFE
+[2024.06.07 00:39:47 - info ] 4144200 ticks received from exchange SHFE
+[2024.06.07 00:39:49 - info ] 4144400 ticks received from exchange SHFE
+[2024.06.07 00:39:49 - debug] RT tick block of INE.sc2410 resized to 22500
+[2024.06.07 00:39:52 - info ] 4144600 ticks received from exchange SHFE
+[2024.06.07 00:39:52 - info ] 930200 ticks received from exchange INE
+[2024.06.07 00:39:55 - info ] 4144800 ticks received from exchange SHFE
+[2024.06.07 00:39:58 - info ] 4145000 ticks received from exchange SHFE
+[2024.06.07 00:40:01 - info ] 4145200 ticks received from exchange SHFE
+[2024.06.07 00:40:04 - info ] 930400 ticks received from exchange INE
+[2024.06.07 00:40:05 - info ] 4145400 ticks received from exchange SHFE
+[2024.06.07 00:40:08 - info ] 4145600 ticks received from exchange SHFE
+[2024.06.07 00:40:10 - debug] RT tick block of SHFE.sn2410 resized to 22500
+[2024.06.07 00:40:11 - info ] 4145800 ticks received from exchange SHFE
+[2024.06.07 00:40:14 - info ] 4146000 ticks received from exchange SHFE
+[2024.06.07 00:40:15 - info ] 930600 ticks received from exchange INE
+[2024.06.07 00:40:16 - info ] 4146200 ticks received from exchange SHFE
+[2024.06.07 00:40:18 - info ] 4146400 ticks received from exchange SHFE
+[2024.06.07 00:40:22 - info ] 4146600 ticks received from exchange SHFE
+[2024.06.07 00:40:26 - info ] 4146800 ticks received from exchange SHFE
+[2024.06.07 00:40:30 - info ] 930800 ticks received from exchange INE
+[2024.06.07 00:40:31 - info ] 4147000 ticks received from exchange SHFE
+[2024.06.07 00:40:35 - info ] 4147200 ticks received from exchange SHFE
+[2024.06.07 00:40:39 - info ] 4147400 ticks received from exchange SHFE
+[2024.06.07 00:40:42 - info ] 4147600 ticks received from exchange SHFE
+[2024.06.07 00:40:45 - info ] 4147800 ticks received from exchange SHFE
+[2024.06.07 00:40:46 - info ] 931000 ticks received from exchange INE
+[2024.06.07 00:40:49 - info ] 4148000 ticks received from exchange SHFE
+[2024.06.07 00:40:52 - info ] 4148200 ticks received from exchange SHFE
+[2024.06.07 00:40:57 - info ] 4148400 ticks received from exchange SHFE
+[2024.06.07 00:41:00 - info ] 931200 ticks received from exchange INE
+[2024.06.07 00:41:01 - info ] 4148600 ticks received from exchange SHFE
+[2024.06.07 00:41:04 - info ] 4148800 ticks received from exchange SHFE
+[2024.06.07 00:41:07 - info ] 4149000 ticks received from exchange SHFE
+[2024.06.07 00:41:10 - info ] 4149200 ticks received from exchange SHFE
+[2024.06.07 00:41:14 - info ] 931400 ticks received from exchange INE
+[2024.06.07 00:41:14 - info ] 4149400 ticks received from exchange SHFE
+[2024.06.07 00:41:16 - info ] 4149600 ticks received from exchange SHFE
+[2024.06.07 00:41:19 - info ] 4149800 ticks received from exchange SHFE
+[2024.06.07 00:41:20 - debug] RT tick block of SHFE.al2408 resized to 15000
+[2024.06.07 00:41:21 - info ] 4150000 ticks received from exchange SHFE
+[2024.06.07 00:41:24 - info ] 931600 ticks received from exchange INE
+[2024.06.07 00:41:24 - info ] 4150200 ticks received from exchange SHFE
+[2024.06.07 00:41:27 - info ] 4150400 ticks received from exchange SHFE
+[2024.06.07 00:41:30 - info ] 4150600 ticks received from exchange SHFE
+[2024.06.07 00:41:33 - info ] 4150800 ticks received from exchange SHFE
+[2024.06.07 00:41:36 - info ] 4151000 ticks received from exchange SHFE
+[2024.06.07 00:41:36 - info ] 931800 ticks received from exchange INE
+[2024.06.07 00:41:39 - info ] 4151200 ticks received from exchange SHFE
+[2024.06.07 00:41:42 - info ] 4151400 ticks received from exchange SHFE
+[2024.06.07 00:41:44 - debug] RT tick block of SHFE.ni2409 resized to 17500
+[2024.06.07 00:41:44 - info ] 932000 ticks received from exchange INE
+[2024.06.07 00:41:45 - info ] 4151600 ticks received from exchange SHFE
+[2024.06.07 00:41:48 - info ] 4151800 ticks received from exchange SHFE
+[2024.06.07 00:41:51 - info ] 4152000 ticks received from exchange SHFE
+[2024.06.07 00:41:54 - info ] 4152200 ticks received from exchange SHFE
+[2024.06.07 00:41:57 - info ] 4152400 ticks received from exchange SHFE
+[2024.06.07 00:41:59 - info ] 932200 ticks received from exchange INE
+[2024.06.07 00:42:00 - info ] 4152600 ticks received from exchange SHFE
+[2024.06.07 00:42:03 - info ] tick cache of INE.bc2406 mapping expired, automatically closed
+[2024.06.07 00:42:03 - info ] min1 cache of INE.bc2406 mapping expired, automatically closed
+[2024.06.07 00:42:03 - info ] min5 cache of INE.bc2406 mapping expired, automatically closed
+[2024.06.07 00:42:03 - info ] 4152800 ticks received from exchange SHFE
+[2024.06.07 00:42:03 - debug] RT tick block of SHFE.ag2412 resized to 22500
+[2024.06.07 00:42:05 - info ] 4153000 ticks received from exchange SHFE
+[2024.06.07 00:42:07 - info ] 4153200 ticks received from exchange SHFE
+[2024.06.07 00:42:10 - info ] 4153400 ticks received from exchange SHFE
+[2024.06.07 00:42:10 - info ] 932400 ticks received from exchange INE
+[2024.06.07 00:42:12 - info ] 4153600 ticks received from exchange SHFE
+[2024.06.07 00:42:14 - info ] 4153800 ticks received from exchange SHFE
+[2024.06.07 00:42:17 - info ] 4154000 ticks received from exchange SHFE
+[2024.06.07 00:42:19 - info ] 4154200 ticks received from exchange SHFE
+[2024.06.07 00:42:22 - info ] 4154400 ticks received from exchange SHFE
+[2024.06.07 00:42:22 - info ] 932600 ticks received from exchange INE
+[2024.06.07 00:42:25 - info ] 4154600 ticks received from exchange SHFE
+[2024.06.07 00:42:25 - debug] RT tick block of SHFE.sn2407 resized to 20000
+[2024.06.07 00:42:27 - info ] 4154800 ticks received from exchange SHFE
+[2024.06.07 00:42:30 - info ] 4155000 ticks received from exchange SHFE
+[2024.06.07 00:42:33 - info ] 4155200 ticks received from exchange SHFE
+[2024.06.07 00:42:35 - info ] 932800 ticks received from exchange INE
+[2024.06.07 00:42:37 - info ] 4155400 ticks received from exchange SHFE
+[2024.06.07 00:42:40 - info ] 4155600 ticks received from exchange SHFE
+[2024.06.07 00:42:41 - debug] RT tick block of SHFE.ag2406 resized to 12500
+[2024.06.07 00:42:43 - info ] 4155800 ticks received from exchange SHFE
+[2024.06.07 00:42:47 - info ] 4156000 ticks received from exchange SHFE
+[2024.06.07 00:42:50 - info ] 4156200 ticks received from exchange SHFE
+[2024.06.07 00:42:50 - info ] 933000 ticks received from exchange INE
+[2024.06.07 00:42:54 - info ] 4156400 ticks received from exchange SHFE
+[2024.06.07 00:42:57 - info ] 4156600 ticks received from exchange SHFE
+[2024.06.07 00:42:59 - info ] 4156800 ticks received from exchange SHFE
+[2024.06.07 00:43:02 - info ] 4157000 ticks received from exchange SHFE
+[2024.06.07 00:43:02 - info ] 933200 ticks received from exchange INE
+[2024.06.07 00:43:05 - info ] 4157200 ticks received from exchange SHFE
+[2024.06.07 00:43:07 - info ] 4157400 ticks received from exchange SHFE
+[2024.06.07 00:43:09 - info ] 4157600 ticks received from exchange SHFE
+[2024.06.07 00:43:11 - info ] 4157800 ticks received from exchange SHFE
+[2024.06.07 00:43:11 - info ] 933400 ticks received from exchange INE
+[2024.06.07 00:43:13 - info ] 4158000 ticks received from exchange SHFE
+[2024.06.07 00:43:15 - info ] 4158200 ticks received from exchange SHFE
+[2024.06.07 00:43:17 - info ] 4158400 ticks received from exchange SHFE
+[2024.06.07 00:43:19 - info ] 933600 ticks received from exchange INE
+[2024.06.07 00:43:20 - info ] 4158600 ticks received from exchange SHFE
+[2024.06.07 00:43:23 - info ] 4158800 ticks received from exchange SHFE
+[2024.06.07 00:43:26 - info ] 4159000 ticks received from exchange SHFE
+[2024.06.07 00:43:29 - info ] 4159200 ticks received from exchange SHFE
+[2024.06.07 00:43:31 - info ] 933800 ticks received from exchange INE
+[2024.06.07 00:43:32 - info ] 4159400 ticks received from exchange SHFE
+[2024.06.07 00:43:35 - info ] 4159600 ticks received from exchange SHFE
+[2024.06.07 00:43:38 - info ] 4159800 ticks received from exchange SHFE
+[2024.06.07 00:43:42 - info ] 4160000 ticks received from exchange SHFE
+[2024.06.07 00:43:45 - info ] 4160200 ticks received from exchange SHFE
+[2024.06.07 00:43:47 - info ] 934000 ticks received from exchange INE
+[2024.06.07 00:43:48 - info ] 4160400 ticks received from exchange SHFE
+[2024.06.07 00:43:51 - info ] 4160600 ticks received from exchange SHFE
+[2024.06.07 00:43:54 - info ] 4160800 ticks received from exchange SHFE
+[2024.06.07 00:43:57 - info ] 4161000 ticks received from exchange SHFE
+[2024.06.07 00:44:00 - info ] 934200 ticks received from exchange INE
+[2024.06.07 00:44:01 - info ] 4161200 ticks received from exchange SHFE
+[2024.06.07 00:44:03 - info ] 4161400 ticks received from exchange SHFE
+[2024.06.07 00:44:03 - debug] RT tick block of SHFE.pb2411 resized to 7500
+[2024.06.07 00:44:07 - info ] 4161600 ticks received from exchange SHFE
+[2024.06.07 00:44:10 - info ] 4161800 ticks received from exchange SHFE
+[2024.06.07 00:44:13 - info ] 4162000 ticks received from exchange SHFE
+[2024.06.07 00:44:15 - info ] 934400 ticks received from exchange INE
+[2024.06.07 00:44:15 - info ] 4162200 ticks received from exchange SHFE
+[2024.06.07 00:44:18 - info ] 4162400 ticks received from exchange SHFE
+[2024.06.07 00:44:21 - info ] 4162600 ticks received from exchange SHFE
+[2024.06.07 00:44:23 - info ] 4162800 ticks received from exchange SHFE
+[2024.06.07 00:44:25 - info ] 4163000 ticks received from exchange SHFE
+[2024.06.07 00:44:28 - info ] 4163200 ticks received from exchange SHFE
+[2024.06.07 00:44:29 - info ] 934600 ticks received from exchange INE
+[2024.06.07 00:44:29 - debug] RT tick block of INE.bc2409 resized to 15000
+[2024.06.07 00:44:30 - info ] 4163400 ticks received from exchange SHFE
+[2024.06.07 00:44:32 - info ] 4163600 ticks received from exchange SHFE
+[2024.06.07 00:44:35 - info ] 4163800 ticks received from exchange SHFE
+[2024.06.07 00:44:39 - info ] 4164000 ticks received from exchange SHFE
+[2024.06.07 00:44:42 - info ] 4164200 ticks received from exchange SHFE
+[2024.06.07 00:44:43 - info ] 934800 ticks received from exchange INE
+[2024.06.07 00:44:45 - info ] 4164400 ticks received from exchange SHFE
+[2024.06.07 00:44:47 - info ] 4164600 ticks received from exchange SHFE
+[2024.06.07 00:44:51 - info ] 4164800 ticks received from exchange SHFE
+[2024.06.07 00:44:54 - info ] 4165000 ticks received from exchange SHFE
+[2024.06.07 00:44:55 - info ] 935000 ticks received from exchange INE
+[2024.06.07 00:44:58 - info ] 4165200 ticks received from exchange SHFE
+[2024.06.07 00:45:01 - info ] 4165400 ticks received from exchange SHFE
+[2024.06.07 00:45:03 - info ] 4165600 ticks received from exchange SHFE
+[2024.06.07 00:45:06 - info ] 4165800 ticks received from exchange SHFE
+[2024.06.07 00:45:07 - info ] 935200 ticks received from exchange INE
+[2024.06.07 00:45:08 - info ] 4166000 ticks received from exchange SHFE
+[2024.06.07 00:45:12 - info ] 4166200 ticks received from exchange SHFE
+[2024.06.07 00:45:15 - info ] 4166400 ticks received from exchange SHFE
+[2024.06.07 00:45:17 - info ] 4166600 ticks received from exchange SHFE
+[2024.06.07 00:45:21 - info ] 4166800 ticks received from exchange SHFE
+[2024.06.07 00:45:22 - info ] 935400 ticks received from exchange INE
+[2024.06.07 00:45:25 - info ] 4167000 ticks received from exchange SHFE
+[2024.06.07 00:45:29 - info ] 4167200 ticks received from exchange SHFE
+[2024.06.07 00:45:32 - info ] 4167400 ticks received from exchange SHFE
+[2024.06.07 00:45:34 - info ] 935600 ticks received from exchange INE
+[2024.06.07 00:45:35 - info ] 4167600 ticks received from exchange SHFE
+[2024.06.07 00:45:38 - info ] 4167800 ticks received from exchange SHFE
+[2024.06.07 00:45:41 - info ] 4168000 ticks received from exchange SHFE
+[2024.06.07 00:45:46 - info ] 4168200 ticks received from exchange SHFE
+[2024.06.07 00:45:49 - info ] 935800 ticks received from exchange INE
+[2024.06.07 00:45:50 - info ] 4168400 ticks received from exchange SHFE
+[2024.06.07 00:45:54 - info ] 4168600 ticks received from exchange SHFE
+[2024.06.07 00:45:58 - info ] 4168800 ticks received from exchange SHFE
+[2024.06.07 00:46:01 - info ] 4169000 ticks received from exchange SHFE
+[2024.06.07 00:46:02 - info ] 936000 ticks received from exchange INE
+[2024.06.07 00:46:04 - info ] 4169200 ticks received from exchange SHFE
+[2024.06.07 00:46:07 - info ] 4169400 ticks received from exchange SHFE
+[2024.06.07 00:46:10 - info ] 4169600 ticks received from exchange SHFE
+[2024.06.07 00:46:13 - info ] 4169800 ticks received from exchange SHFE
+[2024.06.07 00:46:17 - info ] 4170000 ticks received from exchange SHFE
+[2024.06.07 00:46:17 - info ] 936200 ticks received from exchange INE
+[2024.06.07 00:46:20 - info ] 4170200 ticks received from exchange SHFE
+[2024.06.07 00:46:23 - info ] 4170400 ticks received from exchange SHFE
+[2024.06.07 00:46:27 - info ] 4170600 ticks received from exchange SHFE
+[2024.06.07 00:46:31 - info ] 4170800 ticks received from exchange SHFE
+[2024.06.07 00:46:32 - info ] 936400 ticks received from exchange INE
+[2024.06.07 00:46:35 - info ] 4171000 ticks received from exchange SHFE
+[2024.06.07 00:46:38 - debug] RT tick block of SHFE.cu2410 resized to 17500
+[2024.06.07 00:46:39 - info ] 4171200 ticks received from exchange SHFE
+[2024.06.07 00:46:42 - info ] 4171400 ticks received from exchange SHFE
+[2024.06.07 00:46:46 - info ] 4171600 ticks received from exchange SHFE
+[2024.06.07 00:46:48 - info ] 936600 ticks received from exchange INE
+[2024.06.07 00:46:50 - info ] 4171800 ticks received from exchange SHFE
+[2024.06.07 00:46:54 - info ] 4172000 ticks received from exchange SHFE
+[2024.06.07 00:46:57 - info ] 4172200 ticks received from exchange SHFE
+[2024.06.07 00:47:00 - info ] 4172400 ticks received from exchange SHFE
+[2024.06.07 00:47:03 - info ] 4172600 ticks received from exchange SHFE
+[2024.06.07 00:47:04 - info ] 936800 ticks received from exchange INE
+[2024.06.07 00:47:08 - info ] 4172800 ticks received from exchange SHFE
+[2024.06.07 00:47:11 - info ] 4173000 ticks received from exchange SHFE
+[2024.06.07 00:47:16 - info ] 4173200 ticks received from exchange SHFE
+[2024.06.07 00:47:20 - info ] 4173400 ticks received from exchange SHFE
+[2024.06.07 00:47:20 - info ] 937000 ticks received from exchange INE
+[2024.06.07 00:47:23 - info ] 4173600 ticks received from exchange SHFE
+[2024.06.07 00:47:26 - info ] 4173800 ticks received from exchange SHFE
+[2024.06.07 00:47:28 - info ] 4174000 ticks received from exchange SHFE
+[2024.06.07 00:47:30 - info ] 4174200 ticks received from exchange SHFE
+[2024.06.07 00:47:31 - info ] 937200 ticks received from exchange INE
+[2024.06.07 00:47:33 - info ] 4174400 ticks received from exchange SHFE
+[2024.06.07 00:47:34 - debug] RT tick block of SHFE.cu2407 resized to 20000
+[2024.06.07 00:47:36 - info ] 4174600 ticks received from exchange SHFE
+[2024.06.07 00:47:39 - info ] 4174800 ticks received from exchange SHFE
+[2024.06.07 00:47:42 - info ] 4175000 ticks received from exchange SHFE
+[2024.06.07 00:47:43 - info ] 937400 ticks received from exchange INE
+[2024.06.07 00:47:45 - info ] 4175200 ticks received from exchange SHFE
+[2024.06.07 00:47:49 - info ] 4175400 ticks received from exchange SHFE
+[2024.06.07 00:47:52 - info ] 4175600 ticks received from exchange SHFE
+[2024.06.07 00:47:57 - info ] 4175800 ticks received from exchange SHFE
+[2024.06.07 00:47:59 - info ] 937600 ticks received from exchange INE
+[2024.06.07 00:48:01 - info ] 4176000 ticks received from exchange SHFE
+[2024.06.07 00:48:06 - info ] 4176200 ticks received from exchange SHFE
+[2024.06.07 00:48:09 - info ] 4176400 ticks received from exchange SHFE
+[2024.06.07 00:48:13 - info ] 4176600 ticks received from exchange SHFE
+[2024.06.07 00:48:13 - info ] 937800 ticks received from exchange INE
+[2024.06.07 00:48:16 - info ] 4176800 ticks received from exchange SHFE
+[2024.06.07 00:48:19 - info ] 4177000 ticks received from exchange SHFE
+[2024.06.07 00:48:21 - debug] RT tick block of SHFE.al2503 resized to 7500
+[2024.06.07 00:48:22 - info ] 4177200 ticks received from exchange SHFE
+[2024.06.07 00:48:25 - info ] 4177400 ticks received from exchange SHFE
+[2024.06.07 00:48:26 - info ] 938000 ticks received from exchange INE
+[2024.06.07 00:48:28 - info ] 4177600 ticks received from exchange SHFE
+[2024.06.07 00:48:31 - info ] 4177800 ticks received from exchange SHFE
+[2024.06.07 00:48:33 - info ] 4178000 ticks received from exchange SHFE
+[2024.06.07 00:48:36 - info ] 4178200 ticks received from exchange SHFE
+[2024.06.07 00:48:39 - info ] 4178400 ticks received from exchange SHFE
+[2024.06.07 00:48:41 - info ] 938200 ticks received from exchange INE
+[2024.06.07 00:48:43 - info ] 4178600 ticks received from exchange SHFE
+[2024.06.07 00:48:46 - info ] 4178800 ticks received from exchange SHFE
+[2024.06.07 00:48:48 - info ] 4179000 ticks received from exchange SHFE
+[2024.06.07 00:48:51 - info ] 4179200 ticks received from exchange SHFE
+[2024.06.07 00:48:53 - info ] 4179400 ticks received from exchange SHFE
+[2024.06.07 00:48:55 - info ] 938400 ticks received from exchange INE
+[2024.06.07 00:48:56 - info ] 4179600 ticks received from exchange SHFE
+[2024.06.07 00:49:00 - info ] 4179800 ticks received from exchange SHFE
+[2024.06.07 00:49:03 - info ] 4180000 ticks received from exchange SHFE
+[2024.06.07 00:49:07 - info ] 4180200 ticks received from exchange SHFE
+[2024.06.07 00:49:10 - info ] 4180400 ticks received from exchange SHFE
+[2024.06.07 00:49:11 - info ] 938600 ticks received from exchange INE
+[2024.06.07 00:49:12 - info ] 4180600 ticks received from exchange SHFE
+[2024.06.07 00:49:14 - info ] 4180800 ticks received from exchange SHFE
+[2024.06.07 00:49:16 - info ] 4181000 ticks received from exchange SHFE
+[2024.06.07 00:49:18 - debug] RT tick block of SHFE.sn2503 resized to 7500
+[2024.06.07 00:49:19 - info ] 4181200 ticks received from exchange SHFE
+[2024.06.07 00:49:23 - info ] 4181400 ticks received from exchange SHFE
+[2024.06.07 00:49:25 - info ] 938800 ticks received from exchange INE
+[2024.06.07 00:49:27 - info ] 4181600 ticks received from exchange SHFE
+[2024.06.07 00:49:30 - info ] 4181800 ticks received from exchange SHFE
+[2024.06.07 00:49:33 - info ] 4182000 ticks received from exchange SHFE
+[2024.06.07 00:49:37 - info ] 4182200 ticks received from exchange SHFE
+[2024.06.07 00:49:39 - debug] RT tick block of SHFE.ag2502 resized to 20000
+[2024.06.07 00:49:39 - info ] 939000 ticks received from exchange INE
+[2024.06.07 00:49:41 - info ] 4182400 ticks received from exchange SHFE
+[2024.06.07 00:49:45 - info ] 4182600 ticks received from exchange SHFE
+[2024.06.07 00:49:49 - info ] 4182800 ticks received from exchange SHFE
+[2024.06.07 00:49:53 - info ] 4183000 ticks received from exchange SHFE
+[2024.06.07 00:49:53 - info ] 939200 ticks received from exchange INE
+[2024.06.07 00:49:57 - info ] 4183200 ticks received from exchange SHFE
+[2024.06.07 00:50:01 - info ] 4183400 ticks received from exchange SHFE
+[2024.06.07 00:50:04 - info ] 4183600 ticks received from exchange SHFE
+[2024.06.07 00:50:08 - info ] 4183800 ticks received from exchange SHFE
+[2024.06.07 00:50:09 - info ] 939400 ticks received from exchange INE
+[2024.06.07 00:50:12 - info ] 4184000 ticks received from exchange SHFE
+[2024.06.07 00:50:16 - info ] 4184200 ticks received from exchange SHFE
+[2024.06.07 00:50:18 - info ] 4184400 ticks received from exchange SHFE
+[2024.06.07 00:50:21 - info ] 939600 ticks received from exchange INE
+[2024.06.07 00:50:22 - info ] 4184600 ticks received from exchange SHFE
+[2024.06.07 00:50:26 - info ] 4184800 ticks received from exchange SHFE
+[2024.06.07 00:50:30 - info ] 4185000 ticks received from exchange SHFE
+[2024.06.07 00:50:31 - info ] 4185200 ticks received from exchange SHFE
+[2024.06.07 00:50:34 - info ] 939800 ticks received from exchange INE
+[2024.06.07 00:50:34 - info ] 4185400 ticks received from exchange SHFE
+[2024.06.07 00:50:38 - info ] 4185600 ticks received from exchange SHFE
+[2024.06.07 00:50:41 - info ] 4185800 ticks received from exchange SHFE
+[2024.06.07 00:50:43 - info ] 4186000 ticks received from exchange SHFE
+[2024.06.07 00:50:45 - info ] 4186200 ticks received from exchange SHFE
+[2024.06.07 00:50:45 - info ] 940000 ticks received from exchange INE
+[2024.06.07 00:50:47 - info ] 4186400 ticks received from exchange SHFE
+[2024.06.07 00:50:50 - info ] 4186600 ticks received from exchange SHFE
+[2024.06.07 00:50:53 - info ] 4186800 ticks received from exchange SHFE
+[2024.06.07 00:50:56 - info ] 940200 ticks received from exchange INE
+[2024.06.07 00:50:56 - info ] 4187000 ticks received from exchange SHFE
+[2024.06.07 00:51:00 - info ] 4187200 ticks received from exchange SHFE
+[2024.06.07 00:51:03 - info ] 4187400 ticks received from exchange SHFE
+[2024.06.07 00:51:05 - info ] 4187600 ticks received from exchange SHFE
+[2024.06.07 00:51:08 - info ] 4187800 ticks received from exchange SHFE
+[2024.06.07 00:51:09 - info ] 940400 ticks received from exchange INE
+[2024.06.07 00:51:11 - info ] 4188000 ticks received from exchange SHFE
+[2024.06.07 00:51:14 - info ] 4188200 ticks received from exchange SHFE
+[2024.06.07 00:51:17 - info ] 4188400 ticks received from exchange SHFE
+[2024.06.07 00:51:20 - info ] 940600 ticks received from exchange INE
+[2024.06.07 00:51:21 - info ] 4188600 ticks received from exchange SHFE
+[2024.06.07 00:51:25 - info ] 4188800 ticks received from exchange SHFE
+[2024.06.07 00:51:28 - info ] 4189000 ticks received from exchange SHFE
+[2024.06.07 00:51:32 - info ] 4189200 ticks received from exchange SHFE
+[2024.06.07 00:51:34 - info ] 940800 ticks received from exchange INE
+[2024.06.07 00:51:35 - info ] 4189400 ticks received from exchange SHFE
+[2024.06.07 00:51:39 - info ] 4189600 ticks received from exchange SHFE
+[2024.06.07 00:51:41 - info ] 4189800 ticks received from exchange SHFE
+[2024.06.07 00:51:44 - info ] 4190000 ticks received from exchange SHFE
+[2024.06.07 00:51:47 - info ] 4190200 ticks received from exchange SHFE
+[2024.06.07 00:51:49 - info ] 941000 ticks received from exchange INE
+[2024.06.07 00:51:49 - info ] 4190400 ticks received from exchange SHFE
+[2024.06.07 00:51:53 - info ] 4190600 ticks received from exchange SHFE
+[2024.06.07 00:51:56 - info ] 4190800 ticks received from exchange SHFE
+[2024.06.07 00:51:59 - info ] 4191000 ticks received from exchange SHFE
+[2024.06.07 00:51:59 - debug] RT tick block of SHFE.cu2409 resized to 17500
+[2024.06.07 00:52:02 - info ] 4191200 ticks received from exchange SHFE
+[2024.06.07 00:52:03 - info ] 941200 ticks received from exchange INE
+[2024.06.07 00:52:05 - info ] 4191400 ticks received from exchange SHFE
+[2024.06.07 00:52:08 - info ] 4191600 ticks received from exchange SHFE
+[2024.06.07 00:52:12 - info ] 4191800 ticks received from exchange SHFE
+[2024.06.07 00:52:15 - info ] 4192000 ticks received from exchange SHFE
+[2024.06.07 00:52:18 - info ] 4192200 ticks received from exchange SHFE
+[2024.06.07 00:52:19 - info ] 941400 ticks received from exchange INE
+[2024.06.07 00:52:21 - info ] 4192400 ticks received from exchange SHFE
+[2024.06.07 00:52:21 - debug] RT tick block of SHFE.zn2502 resized to 7500
+[2024.06.07 00:52:24 - info ] 4192600 ticks received from exchange SHFE
+[2024.06.07 00:52:27 - info ] 4192800 ticks received from exchange SHFE
+[2024.06.07 00:52:30 - info ] 4193000 ticks received from exchange SHFE
+[2024.06.07 00:52:32 - info ] 941600 ticks received from exchange INE
+[2024.06.07 00:52:33 - info ] 4193200 ticks received from exchange SHFE
+[2024.06.07 00:52:37 - info ] 4193400 ticks received from exchange SHFE
+[2024.06.07 00:52:40 - info ] 4193600 ticks received from exchange SHFE
+[2024.06.07 00:52:43 - info ] 4193800 ticks received from exchange SHFE
+[2024.06.07 00:52:44 - info ] 941800 ticks received from exchange INE
+[2024.06.07 00:52:46 - info ] 4194000 ticks received from exchange SHFE
+[2024.06.07 00:52:49 - info ] 4194200 ticks received from exchange SHFE
+[2024.06.07 00:52:53 - info ] 4194400 ticks received from exchange SHFE
+[2024.06.07 00:52:57 - info ] 4194600 ticks received from exchange SHFE
+[2024.06.07 00:52:59 - info ] 942000 ticks received from exchange INE
+[2024.06.07 00:53:01 - info ] 4194800 ticks received from exchange SHFE
+[2024.06.07 00:53:05 - info ] 4195000 ticks received from exchange SHFE
+[2024.06.07 00:53:09 - info ] 4195200 ticks received from exchange SHFE
+[2024.06.07 00:53:11 - info ] 942200 ticks received from exchange INE
+[2024.06.07 00:53:13 - info ] 4195400 ticks received from exchange SHFE
+[2024.06.07 00:53:17 - info ] 4195600 ticks received from exchange SHFE
+[2024.06.07 00:53:21 - info ] 4195800 ticks received from exchange SHFE
+[2024.06.07 00:53:25 - info ] 942400 ticks received from exchange INE
+[2024.06.07 00:53:26 - info ] 4196000 ticks received from exchange SHFE
+[2024.06.07 00:53:31 - info ] 4196200 ticks received from exchange SHFE
+[2024.06.07 00:53:35 - info ] 4196400 ticks received from exchange SHFE
+[2024.06.07 00:53:37 - debug] RT tick block of SHFE.zn2410 resized to 10000
+[2024.06.07 00:53:38 - info ] 4196600 ticks received from exchange SHFE
+[2024.06.07 00:53:40 - info ] 942600 ticks received from exchange INE
+[2024.06.07 00:53:42 - info ] 4196800 ticks received from exchange SHFE
+[2024.06.07 00:53:46 - info ] 4197000 ticks received from exchange SHFE
+[2024.06.07 00:53:50 - info ] 4197200 ticks received from exchange SHFE
+[2024.06.07 00:53:54 - info ] 4197400 ticks received from exchange SHFE
+[2024.06.07 00:53:57 - info ] 4197600 ticks received from exchange SHFE
+[2024.06.07 00:53:58 - info ] 942800 ticks received from exchange INE
+[2024.06.07 00:54:01 - info ] 4197800 ticks received from exchange SHFE
+[2024.06.07 00:54:04 - info ] 4198000 ticks received from exchange SHFE
+[2024.06.07 00:54:07 - info ] 4198200 ticks received from exchange SHFE
+[2024.06.07 00:54:10 - info ] 4198400 ticks received from exchange SHFE
+[2024.06.07 00:54:13 - info ] 943000 ticks received from exchange INE
+[2024.06.07 00:54:14 - info ] 4198600 ticks received from exchange SHFE
+[2024.06.07 00:54:17 - info ] 4198800 ticks received from exchange SHFE
+[2024.06.07 00:54:20 - info ] 4199000 ticks received from exchange SHFE
+[2024.06.07 00:54:25 - info ] 4199200 ticks received from exchange SHFE
+[2024.06.07 00:54:25 - debug] RT tick block of SHFE.cu2406 resized to 10000
+[2024.06.07 00:54:26 - info ] 943200 ticks received from exchange INE
+[2024.06.07 00:54:28 - info ] 4199400 ticks received from exchange SHFE
+[2024.06.07 00:54:32 - info ] 4199600 ticks received from exchange SHFE
+[2024.06.07 00:54:35 - info ] 4199800 ticks received from exchange SHFE
+[2024.06.07 00:54:39 - info ] 4200000 ticks received from exchange SHFE
+[2024.06.07 00:54:41 - info ] 943400 ticks received from exchange INE
+[2024.06.07 00:54:43 - info ] 4200200 ticks received from exchange SHFE
+[2024.06.07 00:54:47 - info ] 4200400 ticks received from exchange SHFE
+[2024.06.07 00:54:50 - info ] 4200600 ticks received from exchange SHFE
+[2024.06.07 00:54:54 - info ] 4200800 ticks received from exchange SHFE
+[2024.06.07 00:54:56 - info ] 943600 ticks received from exchange INE
+[2024.06.07 00:54:59 - info ] 4201000 ticks received from exchange SHFE
+[2024.06.07 00:55:02 - info ] 4201200 ticks received from exchange SHFE
+[2024.06.07 00:55:04 - info ] 4201400 ticks received from exchange SHFE
+[2024.06.07 00:55:06 - info ] 4201600 ticks received from exchange SHFE
+[2024.06.07 00:55:08 - info ] 4201800 ticks received from exchange SHFE
+[2024.06.07 00:55:09 - info ] 943800 ticks received from exchange INE
+[2024.06.07 00:55:11 - info ] 4202000 ticks received from exchange SHFE
+[2024.06.07 00:55:14 - info ] 4202200 ticks received from exchange SHFE
+[2024.06.07 00:55:17 - info ] 4202400 ticks received from exchange SHFE
+[2024.06.07 00:55:19 - info ] 4202600 ticks received from exchange SHFE
+[2024.06.07 00:55:21 - info ] 944000 ticks received from exchange INE
+[2024.06.07 00:55:21 - info ] 4202800 ticks received from exchange SHFE
+[2024.06.07 00:55:24 - info ] 4203000 ticks received from exchange SHFE
+[2024.06.07 00:55:26 - info ] 4203200 ticks received from exchange SHFE
+[2024.06.07 00:55:29 - info ] 4203400 ticks received from exchange SHFE
+[2024.06.07 00:55:32 - info ] 4203600 ticks received from exchange SHFE
+[2024.06.07 00:55:35 - info ] 944200 ticks received from exchange INE
+[2024.06.07 00:55:36 - info ] 4203800 ticks received from exchange SHFE
+[2024.06.07 00:55:39 - info ] 4204000 ticks received from exchange SHFE
+[2024.06.07 00:55:42 - info ] 4204200 ticks received from exchange SHFE
+[2024.06.07 00:55:46 - info ] 4204400 ticks received from exchange SHFE
+[2024.06.07 00:55:49 - debug] RT tick block of SHFE.ag2409 resized to 22500
+[2024.06.07 00:55:49 - info ] 4204600 ticks received from exchange SHFE
+[2024.06.07 00:55:50 - info ] 944400 ticks received from exchange INE
+[2024.06.07 00:55:52 - info ] 4204800 ticks received from exchange SHFE
+[2024.06.07 00:55:55 - info ] 4205000 ticks received from exchange SHFE
+[2024.06.07 00:55:57 - info ] 4205200 ticks received from exchange SHFE
+[2024.06.07 00:56:00 - info ] 4205400 ticks received from exchange SHFE
+[2024.06.07 00:56:03 - info ] 4205600 ticks received from exchange SHFE
+[2024.06.07 00:56:03 - info ] 944600 ticks received from exchange INE
+[2024.06.07 00:56:05 - info ] 4205800 ticks received from exchange SHFE
+[2024.06.07 00:56:06 - debug] RT tick block of SHFE.au2406 resized to 10000
+[2024.06.07 00:56:07 - info ] 4206000 ticks received from exchange SHFE
+[2024.06.07 00:56:09 - debug] RT tick block of SHFE.ag2411 resized to 20000
+[2024.06.07 00:56:11 - info ] 4206200 ticks received from exchange SHFE
+[2024.06.07 00:56:14 - info ] 4206400 ticks received from exchange SHFE
+[2024.06.07 00:56:17 - info ] 4206600 ticks received from exchange SHFE
+[2024.06.07 00:56:20 - info ] 4206800 ticks received from exchange SHFE
+[2024.06.07 00:56:21 - info ] 944800 ticks received from exchange INE
+[2024.06.07 00:56:22 - info ] 4207000 ticks received from exchange SHFE
+[2024.06.07 00:56:23 - debug] RT tick block of SHFE.zn2504 resized to 7500
+[2024.06.07 00:56:24 - info ] 4207200 ticks received from exchange SHFE
+[2024.06.07 00:56:27 - info ] 4207400 ticks received from exchange SHFE
+[2024.06.07 00:56:31 - info ] 4207600 ticks received from exchange SHFE
+[2024.06.07 00:56:34 - info ] 4207800 ticks received from exchange SHFE
+[2024.06.07 00:56:37 - info ] 4208000 ticks received from exchange SHFE
+[2024.06.07 00:56:39 - info ] 945000 ticks received from exchange INE
+[2024.06.07 00:56:40 - info ] 4208200 ticks received from exchange SHFE
+[2024.06.07 00:56:44 - info ] 4208400 ticks received from exchange SHFE
+[2024.06.07 00:56:47 - debug] RT tick block of SHFE.ag2503 resized to 20000
+[2024.06.07 00:56:48 - info ] 4208600 ticks received from exchange SHFE
+[2024.06.07 00:56:50 - info ] 4208800 ticks received from exchange SHFE
+[2024.06.07 00:56:53 - info ] 4209000 ticks received from exchange SHFE
+[2024.06.07 00:56:54 - debug] RT tick block of SHFE.ag2408 resized to 25000
+[2024.06.07 00:56:54 - info ] 945200 ticks received from exchange INE
+[2024.06.07 00:56:56 - info ] 4209200 ticks received from exchange SHFE
+[2024.06.07 00:57:00 - info ] 4209400 ticks received from exchange SHFE
+[2024.06.07 00:57:03 - info ] 4209600 ticks received from exchange SHFE
+[2024.06.07 00:57:06 - info ] 4209800 ticks received from exchange SHFE
+[2024.06.07 00:57:08 - info ] 945400 ticks received from exchange INE
+[2024.06.07 00:57:09 - info ] 4210000 ticks received from exchange SHFE
+[2024.06.07 00:57:12 - info ] 4210200 ticks received from exchange SHFE
+[2024.06.07 00:57:15 - info ] 4210400 ticks received from exchange SHFE
+[2024.06.07 00:57:17 - info ] 4210600 ticks received from exchange SHFE
+[2024.06.07 00:57:20 - info ] 4210800 ticks received from exchange SHFE
+[2024.06.07 00:57:20 - info ] 945600 ticks received from exchange INE
+[2024.06.07 00:57:22 - info ] 4211000 ticks received from exchange SHFE
+[2024.06.07 00:57:24 - info ] 4211200 ticks received from exchange SHFE
+[2024.06.07 00:57:27 - info ] 4211400 ticks received from exchange SHFE
+[2024.06.07 00:57:30 - info ] 4211600 ticks received from exchange SHFE
+[2024.06.07 00:57:33 - info ] 4211800 ticks received from exchange SHFE
+[2024.06.07 00:57:34 - info ] 945800 ticks received from exchange INE
+[2024.06.07 00:57:34 - debug] RT tick block of SHFE.au2408 resized to 25000
+[2024.06.07 00:57:37 - info ] 4212000 ticks received from exchange SHFE
+[2024.06.07 00:57:37 - debug] RT tick block of SHFE.ni2408 resized to 25000
+[2024.06.07 00:57:40 - info ] 4212200 ticks received from exchange SHFE
+[2024.06.07 00:57:43 - info ] 4212400 ticks received from exchange SHFE
+[2024.06.07 00:57:46 - info ] 4212600 ticks received from exchange SHFE
+[2024.06.07 00:57:47 - info ] 946000 ticks received from exchange INE
+[2024.06.07 00:57:47 - debug] RT tick block of SHFE.au2410 resized to 25000
+[2024.06.07 00:57:48 - info ] 4212800 ticks received from exchange SHFE
+[2024.06.07 00:57:51 - info ] 4213000 ticks received from exchange SHFE
+[2024.06.07 00:57:54 - debug] RT tick block of SHFE.ag2410 resized to 25000
+[2024.06.07 00:57:54 - info ] 4213200 ticks received from exchange SHFE
+[2024.06.07 00:57:58 - info ] 4213400 ticks received from exchange SHFE
+[2024.06.07 00:57:58 - debug] RT tick block of SHFE.sn2409 resized to 17500
+[2024.06.07 00:58:00 - info ] 946200 ticks received from exchange INE
+[2024.06.07 00:58:00 - info ] 4213600 ticks received from exchange SHFE
+[2024.06.07 00:58:03 - info ] 4213800 ticks received from exchange SHFE
+[2024.06.07 00:58:04 - debug] RT tick block of SHFE.ni2407 resized to 25000
+[2024.06.07 00:58:05 - info ] 4214000 ticks received from exchange SHFE
+[2024.06.07 00:58:08 - info ] 4214200 ticks received from exchange SHFE
+[2024.06.07 00:58:11 - info ] 4214400 ticks received from exchange SHFE
+[2024.06.07 00:58:14 - info ] 946400 ticks received from exchange INE
+[2024.06.07 00:58:14 - info ] 4214600 ticks received from exchange SHFE
+[2024.06.07 00:58:16 - info ] 4214800 ticks received from exchange SHFE
+[2024.06.07 00:58:19 - info ] 4215000 ticks received from exchange SHFE
+[2024.06.07 00:58:21 - debug] RT tick block of SHFE.ni2410 resized to 25000
+[2024.06.07 00:58:22 - info ] 4215200 ticks received from exchange SHFE
+[2024.06.07 00:58:25 - info ] 4215400 ticks received from exchange SHFE
+[2024.06.07 00:58:28 - info ] 4215600 ticks received from exchange SHFE
+[2024.06.07 00:58:28 - info ] 946600 ticks received from exchange INE
+[2024.06.07 00:58:31 - info ] 4215800 ticks received from exchange SHFE
+[2024.06.07 00:58:33 - info ] 4216000 ticks received from exchange SHFE
+[2024.06.07 00:58:35 - info ] 4216200 ticks received from exchange SHFE
+[2024.06.07 00:58:38 - info ] 4216400 ticks received from exchange SHFE
+[2024.06.07 00:58:40 - debug] RT tick block of SHFE.zn2407 resized to 17500
+[2024.06.07 00:58:41 - info ] 4216600 ticks received from exchange SHFE
+[2024.06.07 00:58:42 - info ] 946800 ticks received from exchange INE
+[2024.06.07 00:58:43 - info ] 4216800 ticks received from exchange SHFE
+[2024.06.07 00:58:45 - info ] 4217000 ticks received from exchange SHFE
+[2024.06.07 00:58:47 - info ] 4217200 ticks received from exchange SHFE
+[2024.06.07 00:58:50 - info ] 4217400 ticks received from exchange SHFE
+[2024.06.07 00:58:52 - info ] 4217600 ticks received from exchange SHFE
+[2024.06.07 00:58:55 - info ] 4217800 ticks received from exchange SHFE
+[2024.06.07 00:58:57 - info ] 4218000 ticks received from exchange SHFE
+[2024.06.07 00:58:58 - info ] 947000 ticks received from exchange INE
+[2024.06.07 00:59:00 - info ] 4218200 ticks received from exchange SHFE
+[2024.06.07 00:59:01 - info ] 4218400 ticks received from exchange SHFE
+[2024.06.07 00:59:03 - info ] 4218600 ticks received from exchange SHFE
+[2024.06.07 00:59:05 - info ] 4218800 ticks received from exchange SHFE
+[2024.06.07 00:59:08 - info ] 4219000 ticks received from exchange SHFE
+[2024.06.07 00:59:10 - info ] 4219200 ticks received from exchange SHFE
+[2024.06.07 00:59:11 - debug] RT tick block of INE.sc2409 resized to 25000
+[2024.06.07 00:59:12 - info ] 4219400 ticks received from exchange SHFE
+[2024.06.07 00:59:14 - info ] 4219600 ticks received from exchange SHFE
+[2024.06.07 00:59:15 - info ] 947200 ticks received from exchange INE
+[2024.06.07 00:59:16 - info ] 4219800 ticks received from exchange SHFE
+[2024.06.07 00:59:18 - info ] 4220000 ticks received from exchange SHFE
+[2024.06.07 00:59:19 - debug] RT tick block of SHFE.cu2411 resized to 17500
+[2024.06.07 00:59:21 - info ] 4220200 ticks received from exchange SHFE
+[2024.06.07 00:59:22 - info ] 4220400 ticks received from exchange SHFE
+[2024.06.07 00:59:24 - info ] 4220600 ticks received from exchange SHFE
+[2024.06.07 00:59:26 - info ] 4220800 ticks received from exchange SHFE
+[2024.06.07 00:59:27 - info ] 4221000 ticks received from exchange SHFE
+[2024.06.07 00:59:28 - info ] 947400 ticks received from exchange INE
+[2024.06.07 00:59:29 - info ] 4221200 ticks received from exchange SHFE
+[2024.06.07 00:59:30 - info ] 4221400 ticks received from exchange SHFE
+[2024.06.07 00:59:31 - debug] RT tick block of SHFE.al2412 resized to 7500
+[2024.06.07 00:59:32 - info ] 4221600 ticks received from exchange SHFE
+[2024.06.07 00:59:33 - info ] 4221800 ticks received from exchange SHFE
+[2024.06.07 00:59:35 - info ] 4222000 ticks received from exchange SHFE
+[2024.06.07 00:59:37 - info ] 4222200 ticks received from exchange SHFE
+[2024.06.07 00:59:37 - debug] RT tick block of INE.sc2408 resized to 25000
+[2024.06.07 00:59:39 - info ] 4222400 ticks received from exchange SHFE
+[2024.06.07 00:59:41 - info ] 4222600 ticks received from exchange SHFE
+[2024.06.07 00:59:42 - info ] 947600 ticks received from exchange INE
+[2024.06.07 00:59:44 - info ] 4222800 ticks received from exchange SHFE
+[2024.06.07 00:59:46 - info ] 4223000 ticks received from exchange SHFE
+[2024.06.07 00:59:47 - info ] 4223200 ticks received from exchange SHFE
+[2024.06.07 00:59:50 - info ] 4223400 ticks received from exchange SHFE
+[2024.06.07 00:59:51 - info ] 4223600 ticks received from exchange SHFE
+[2024.06.07 00:59:53 - info ] 4223800 ticks received from exchange SHFE
+[2024.06.07 00:59:54 - info ] 4224000 ticks received from exchange SHFE
+[2024.06.07 00:59:55 - info ] 4224200 ticks received from exchange SHFE
+[2024.06.07 00:59:56 - info ] 947800 ticks received from exchange INE
+[2024.06.07 00:59:57 - info ] 4224400 ticks received from exchange SHFE
+[2024.06.07 00:59:58 - debug] RT tick block of INE.bc2407 resized to 12500
+[2024.06.07 00:59:59 - info ] 4224600 ticks received from exchange SHFE
+[2024.06.07 00:59:59 - debug] RT tick block of INE.bc2410 resized to 17500
+[2024.06.07 01:00:01 - info ] 4224800 ticks received from exchange SHFE
+[2024.06.07 01:00:03 - debug] RT tick block of SHFE.au2407 resized to 12500
+[2024.06.07 01:00:04 - info ] 4225000 ticks received from exchange SHFE
+[2024.06.07 01:00:12 - info ] 4225200 ticks received from exchange SHFE
+[2024.06.07 01:00:13 - info ] 948000 ticks received from exchange INE
+[2024.06.07 01:00:21 - info ] 4225400 ticks received from exchange SHFE
+[2024.06.07 01:00:30 - info ] 4225600 ticks received from exchange SHFE
+[2024.06.07 01:00:38 - info ] 948200 ticks received from exchange INE
+[2024.06.07 01:00:39 - debug] RT tick block of INE.sc2410 resized to 25000
+[2024.06.07 01:00:40 - info ] 4225800 ticks received from exchange SHFE
+[2024.06.07 01:00:46 - debug] RT tick block of SHFE.ag2504 resized to 20000
+[2024.06.07 01:00:49 - info ] 4226000 ticks received from exchange SHFE
+[2024.06.07 01:00:57 - info ] 4226200 ticks received from exchange SHFE
+[2024.06.07 01:01:00 - info ] Trading session ??????0100[FN0100] paused receiving data
+[2024.06.07 01:01:01 - info ] 948400 ticks received from exchange INE
+[2024.06.07 01:01:05 - info ] 4226400 ticks received from exchange SHFE
+[2024.06.07 01:01:15 - info ] 4226600 ticks received from exchange SHFE
+[2024.06.07 01:01:26 - info ] 948600 ticks received from exchange INE
+[2024.06.07 01:01:26 - info ] 4226800 ticks received from exchange SHFE
+[2024.06.07 01:01:38 - info ] 4227000 ticks received from exchange SHFE
+[2024.06.07 01:01:50 - info ] 4227200 ticks received from exchange SHFE
+[2024.06.07 01:01:50 - info ] 948800 ticks received from exchange INE
+[2024.06.07 01:01:58 - info ] 4227400 ticks received from exchange SHFE
+[2024.06.07 01:02:06 - info ] 4227600 ticks received from exchange SHFE
+[2024.06.07 01:02:14 - info ] 4227800 ticks received from exchange SHFE
+[2024.06.07 01:02:14 - info ] 949000 ticks received from exchange INE
+[2024.06.07 01:02:22 - info ] 4228000 ticks received from exchange SHFE
+[2024.06.07 01:02:31 - info ] 4228200 ticks received from exchange SHFE
+[2024.06.07 01:02:39 - info ] 4228400 ticks received from exchange SHFE
+[2024.06.07 01:02:39 - info ] 949200 ticks received from exchange INE
+[2024.06.07 01:02:49 - info ] 4228600 ticks received from exchange SHFE
+[2024.06.07 01:02:58 - info ] 4228800 ticks received from exchange SHFE
+[2024.06.07 01:03:03 - info ] 949400 ticks received from exchange INE
+[2024.06.07 01:03:06 - info ] 4229000 ticks received from exchange SHFE
+[2024.06.07 01:03:13 - info ] 4229200 ticks received from exchange SHFE
+[2024.06.07 01:03:20 - info ] 4229400 ticks received from exchange SHFE
+[2024.06.07 01:03:25 - info ] 949600 ticks received from exchange INE
+[2024.06.07 01:03:28 - info ] 4229600 ticks received from exchange SHFE
+[2024.06.07 01:03:36 - info ] 4229800 ticks received from exchange SHFE
+[2024.06.07 01:03:45 - info ] 4230000 ticks received from exchange SHFE
+[2024.06.07 01:03:48 - info ] 949800 ticks received from exchange INE
+[2024.06.07 01:03:53 - info ] 4230200 ticks received from exchange SHFE
+[2024.06.07 01:04:05 - info ] 4230400 ticks received from exchange SHFE
+[2024.06.07 01:04:13 - info ] 950000 ticks received from exchange INE
+[2024.06.07 01:04:15 - info ] 4230600 ticks received from exchange SHFE
+[2024.06.07 01:04:25 - info ] 4230800 ticks received from exchange SHFE
+[2024.06.07 01:04:35 - info ] 4231000 ticks received from exchange SHFE
+[2024.06.07 01:04:39 - info ] 950200 ticks received from exchange INE
+[2024.06.07 01:04:43 - info ] 4231200 ticks received from exchange SHFE
+[2024.06.07 01:04:54 - info ] 4231400 ticks received from exchange SHFE
+[2024.06.07 01:04:54 - debug] RT tick block of INE.sc2407 resized to 22500
+[2024.06.07 01:05:02 - info ] 4231600 ticks received from exchange SHFE
+[2024.06.07 01:05:03 - info ] 950400 ticks received from exchange INE
+[2024.06.07 01:05:13 - info ] 4231800 ticks received from exchange SHFE
+[2024.06.07 01:05:21 - info ] 4232000 ticks received from exchange SHFE
+[2024.06.07 01:05:28 - info ] 950600 ticks received from exchange INE
+[2024.06.07 01:05:30 - info ] 4232200 ticks received from exchange SHFE
+[2024.06.07 01:05:36 - info ] 4232400 ticks received from exchange SHFE
+[2024.06.07 01:05:44 - info ] 4232600 ticks received from exchange SHFE
+[2024.06.07 01:05:51 - info ] 4232800 ticks received from exchange SHFE
+[2024.06.07 01:05:53 - info ] 950800 ticks received from exchange INE
+[2024.06.07 01:05:59 - info ] 4233000 ticks received from exchange SHFE
+[2024.06.07 01:06:05 - info ] 4233200 ticks received from exchange SHFE
+[2024.06.07 01:06:12 - info ] 4233400 ticks received from exchange SHFE
+[2024.06.07 01:06:16 - info ] 951000 ticks received from exchange INE
+[2024.06.07 01:06:18 - info ] 4233600 ticks received from exchange SHFE
+[2024.06.07 01:06:30 - info ] 4233800 ticks received from exchange SHFE
+[2024.06.07 01:06:41 - info ] 4234000 ticks received from exchange SHFE
+[2024.06.07 01:06:41 - info ] 951200 ticks received from exchange INE
+[2024.06.07 01:06:51 - info ] 4234200 ticks received from exchange SHFE
+[2024.06.07 01:06:56 - debug] RT tick block of SHFE.ag2412 resized to 25000
+[2024.06.07 01:06:57 - info ] 4234400 ticks received from exchange SHFE
+[2024.06.07 01:07:03 - debug] RT tick block of INE.sc2412 resized to 7500
+[2024.06.07 01:07:05 - info ] 951400 ticks received from exchange INE
+[2024.06.07 01:07:05 - info ] 4234600 ticks received from exchange SHFE
+[2024.06.07 01:07:13 - info ] 4234800 ticks received from exchange SHFE
+[2024.06.07 01:07:23 - info ] 4235000 ticks received from exchange SHFE
+[2024.06.07 01:07:28 - info ] 951600 ticks received from exchange INE
+[2024.06.07 01:07:34 - info ] 4235200 ticks received from exchange SHFE
+[2024.06.07 01:07:47 - info ] 4235400 ticks received from exchange SHFE
+[2024.06.07 01:07:52 - info ] 951800 ticks received from exchange INE
+[2024.06.07 01:08:01 - info ] 4235600 ticks received from exchange SHFE
+[2024.06.07 01:08:10 - debug] RT tick block of SHFE.ag2501 resized to 20000
+[2024.06.07 01:08:13 - info ] 952000 ticks received from exchange INE
+[2024.06.07 01:08:14 - info ] 4235800 ticks received from exchange SHFE
+[2024.06.07 01:08:28 - info ] 4236000 ticks received from exchange SHFE
+[2024.06.07 01:08:37 - info ] 4236200 ticks received from exchange SHFE
+[2024.06.07 01:08:37 - info ] 952200 ticks received from exchange INE
+[2024.06.07 01:08:46 - info ] 4236400 ticks received from exchange SHFE
+[2024.06.07 01:08:56 - info ] 4236600 ticks received from exchange SHFE
+[2024.06.07 01:09:03 - info ] 952400 ticks received from exchange INE
+[2024.06.07 01:09:07 - info ] 4236800 ticks received from exchange SHFE
+[2024.06.07 01:09:18 - info ] 4237000 ticks received from exchange SHFE
+[2024.06.07 01:09:28 - info ] 952600 ticks received from exchange INE
+[2024.06.07 01:09:29 - info ] 4237200 ticks received from exchange SHFE
+[2024.06.07 01:09:42 - info ] 4237400 ticks received from exchange SHFE
+[2024.06.07 01:09:47 - info ] 952800 ticks received from exchange INE
+[2024.06.07 01:09:54 - info ] 4237600 ticks received from exchange SHFE
+[2024.06.07 01:10:04 - info ] 4237800 ticks received from exchange SHFE
+[2024.06.07 01:10:04 - info ] tick cache of INE.bc2410 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] tick cache of INE.bc2504 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] tick cache of SHFE.cu2502 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] tick cache of SHFE.ni2502 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] tick cache of SHFE.zn2502 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] tick cache of SHFE.al2502 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] tick cache of SHFE.sn2502 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] tick cache of SHFE.pb2502 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] tick cache of SHFE.ss2502 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] tick cache of SHFE.cu2501 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] tick cache of SHFE.cu2503 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] tick cache of SHFE.cu2504 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] tick cache of SHFE.ni2501 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] tick cache of SHFE.ni2503 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] tick cache of SHFE.ni2504 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] tick cache of SHFE.zn2501 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] tick cache of SHFE.zn2503 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] tick cache of SHFE.zn2504 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] tick cache of SHFE.al2501 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] tick cache of SHFE.al2504 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] tick cache of SHFE.sn2501 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] tick cache of SHFE.sn2504 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] tick cache of SHFE.pb2501 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] tick cache of SHFE.pb2503 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] tick cache of SHFE.pb2504 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] tick cache of SHFE.ss2501 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] tick cache of SHFE.ss2504 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] tick cache of SHFE.al2505 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] tick cache of SHFE.cu2505 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] tick cache of SHFE.ni2505 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] tick cache of SHFE.pb2505 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] tick cache of SHFE.sn2505 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] tick cache of SHFE.ss2505 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] tick cache of SHFE.zn2505 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] tick cache of SHFE.al2503 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] tick cache of SHFE.sn2503 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] tick cache of SHFE.ss2503 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] tick cache of INE.bc2411 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] tick cache of INE.bc2505 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] tick cache of INE.bc2412 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] tick cache of INE.bc2406 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] tick cache of INE.bc2407 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] tick cache of INE.bc2408 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] tick cache of SHFE.al2408 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] tick cache of SHFE.sn2408 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] tick cache of SHFE.sn2409 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] tick cache of SHFE.ni2406 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] tick cache of SHFE.sn2406 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] tick cache of SHFE.ss2409 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] tick cache of SHFE.cu2406 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] tick cache of SHFE.ss2406 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] tick cache of SHFE.cu2409 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] tick cache of SHFE.ni2409 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] tick cache of SHFE.zn2406 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] tick cache of SHFE.zn2409 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] tick cache of SHFE.al2409 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] tick cache of SHFE.pb2406 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] tick cache of SHFE.pb2409 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] tick cache of SHFE.al2407 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] tick cache of SHFE.al2406 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] tick cache of SHFE.cu2407 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] tick cache of SHFE.pb2407 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] tick cache of SHFE.zn2407 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] tick cache of SHFE.ni2407 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] tick cache of SHFE.pb2408 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] tick cache of SHFE.ss2407 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] tick cache of SHFE.ss2408 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] tick cache of SHFE.sn2407 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] tick cache of SHFE.cu2408 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] tick cache of SHFE.ni2408 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] tick cache of SHFE.zn2408 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] tick cache of INE.bc2501 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] tick cache of INE.bc2409 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] tick cache of SHFE.cu2412 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] tick cache of SHFE.ni2412 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] tick cache of SHFE.sn2412 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] tick cache of SHFE.pb2412 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] tick cache of SHFE.ss2412 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] tick cache of SHFE.zn2412 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] tick cache of SHFE.al2410 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] tick cache of SHFE.al2412 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] tick cache of SHFE.ss2410 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] tick cache of SHFE.cu2410 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] tick cache of SHFE.ni2410 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] tick cache of SHFE.zn2410 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] tick cache of SHFE.sn2410 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] tick cache of SHFE.pb2410 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] tick cache of SHFE.cu2411 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] tick cache of SHFE.ni2411 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] tick cache of SHFE.zn2411 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] tick cache of SHFE.al2411 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] tick cache of SHFE.sn2411 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] tick cache of SHFE.pb2411 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] tick cache of SHFE.ss2411 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] tick cache of INE.bc2502 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] tick cache of INE.bc2503 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min1 cache of INE.bc2410 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min1 cache of INE.bc2504 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min1 cache of SHFE.cu2502 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min1 cache of SHFE.ni2502 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min1 cache of SHFE.zn2502 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min1 cache of SHFE.al2502 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min1 cache of SHFE.sn2502 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min1 cache of SHFE.pb2502 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min1 cache of SHFE.ss2502 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min1 cache of SHFE.cu2501 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min1 cache of SHFE.cu2503 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min1 cache of SHFE.cu2504 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min1 cache of SHFE.ni2501 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min1 cache of SHFE.ni2503 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min1 cache of SHFE.ni2504 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min1 cache of SHFE.zn2501 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min1 cache of SHFE.zn2503 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min1 cache of SHFE.zn2504 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min1 cache of SHFE.al2501 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min1 cache of SHFE.al2504 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min1 cache of SHFE.sn2501 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min1 cache of SHFE.sn2504 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min1 cache of SHFE.pb2501 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min1 cache of SHFE.pb2503 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min1 cache of SHFE.pb2504 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min1 cache of SHFE.ss2501 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min1 cache of SHFE.ss2504 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min1 cache of SHFE.al2505 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min1 cache of SHFE.cu2505 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min1 cache of SHFE.ni2505 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min1 cache of SHFE.pb2505 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min1 cache of SHFE.sn2505 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min1 cache of SHFE.ss2505 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min1 cache of SHFE.zn2505 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min1 cache of SHFE.al2503 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min1 cache of SHFE.sn2503 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min1 cache of SHFE.ss2503 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min1 cache of INE.bc2411 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min1 cache of INE.bc2505 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min1 cache of INE.bc2412 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min1 cache of INE.bc2406 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min1 cache of INE.bc2407 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min1 cache of INE.bc2408 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min1 cache of SHFE.al2408 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min1 cache of SHFE.sn2408 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min1 cache of SHFE.sn2409 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min1 cache of SHFE.ni2406 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min1 cache of SHFE.sn2406 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min1 cache of SHFE.ss2409 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min1 cache of SHFE.cu2406 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min1 cache of SHFE.ss2406 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min1 cache of SHFE.cu2409 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min1 cache of SHFE.ni2409 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min1 cache of SHFE.zn2406 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min1 cache of SHFE.zn2409 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min1 cache of SHFE.al2409 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min1 cache of SHFE.pb2406 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min1 cache of SHFE.pb2409 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min1 cache of SHFE.al2407 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min1 cache of SHFE.al2406 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min1 cache of SHFE.cu2407 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min1 cache of SHFE.pb2407 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min1 cache of SHFE.zn2407 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min1 cache of SHFE.ni2407 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min1 cache of SHFE.pb2408 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min1 cache of SHFE.ss2407 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min1 cache of SHFE.ss2408 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min1 cache of SHFE.sn2407 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min1 cache of SHFE.cu2408 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min1 cache of SHFE.ni2408 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min1 cache of SHFE.zn2408 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min1 cache of INE.bc2501 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min1 cache of INE.bc2409 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min1 cache of SHFE.cu2412 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min1 cache of SHFE.ni2412 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min1 cache of SHFE.sn2412 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min1 cache of SHFE.pb2412 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min1 cache of SHFE.ss2412 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min1 cache of SHFE.zn2412 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min1 cache of SHFE.al2410 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min1 cache of SHFE.al2412 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min1 cache of SHFE.ss2410 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min1 cache of SHFE.cu2410 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min1 cache of SHFE.ni2410 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min1 cache of SHFE.zn2410 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min1 cache of SHFE.sn2410 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min1 cache of SHFE.pb2410 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min1 cache of SHFE.cu2411 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min1 cache of SHFE.ni2411 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min1 cache of SHFE.zn2411 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min1 cache of SHFE.al2411 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min1 cache of SHFE.sn2411 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min1 cache of SHFE.pb2411 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min1 cache of SHFE.ss2411 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min1 cache of INE.bc2502 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min1 cache of INE.bc2503 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min5 cache of INE.bc2410 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min5 cache of INE.bc2504 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min5 cache of SHFE.cu2502 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min5 cache of SHFE.ni2502 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min5 cache of SHFE.zn2502 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min5 cache of SHFE.al2502 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min5 cache of SHFE.sn2502 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min5 cache of SHFE.pb2502 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min5 cache of SHFE.ss2502 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min5 cache of SHFE.cu2501 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min5 cache of SHFE.cu2503 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min5 cache of SHFE.cu2504 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min5 cache of SHFE.ni2501 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min5 cache of SHFE.ni2503 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min5 cache of SHFE.ni2504 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min5 cache of SHFE.zn2501 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min5 cache of SHFE.zn2503 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min5 cache of SHFE.zn2504 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min5 cache of SHFE.al2501 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min5 cache of SHFE.al2504 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min5 cache of SHFE.sn2501 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min5 cache of SHFE.sn2504 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min5 cache of SHFE.pb2501 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min5 cache of SHFE.pb2503 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min5 cache of SHFE.pb2504 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min5 cache of SHFE.ss2501 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min5 cache of SHFE.ss2504 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min5 cache of SHFE.al2505 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min5 cache of SHFE.cu2505 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min5 cache of SHFE.ni2505 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min5 cache of SHFE.pb2505 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min5 cache of SHFE.sn2505 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min5 cache of SHFE.ss2505 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min5 cache of SHFE.zn2505 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min5 cache of SHFE.al2503 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min5 cache of SHFE.sn2503 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min5 cache of SHFE.ss2503 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min5 cache of INE.bc2411 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min5 cache of INE.bc2505 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min5 cache of INE.bc2412 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min5 cache of INE.bc2406 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min5 cache of INE.bc2407 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min5 cache of INE.bc2408 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min5 cache of SHFE.al2408 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min5 cache of SHFE.sn2408 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min5 cache of SHFE.sn2409 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min5 cache of SHFE.ni2406 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min5 cache of SHFE.sn2406 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min5 cache of SHFE.ss2409 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min5 cache of SHFE.cu2406 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min5 cache of SHFE.ss2406 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min5 cache of SHFE.cu2409 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min5 cache of SHFE.ni2409 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min5 cache of SHFE.zn2406 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min5 cache of SHFE.zn2409 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min5 cache of SHFE.al2409 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min5 cache of SHFE.pb2406 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min5 cache of SHFE.pb2409 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min5 cache of SHFE.al2407 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min5 cache of SHFE.al2406 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min5 cache of SHFE.cu2407 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min5 cache of SHFE.pb2407 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min5 cache of SHFE.zn2407 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min5 cache of SHFE.ni2407 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min5 cache of SHFE.pb2408 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min5 cache of SHFE.ss2407 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min5 cache of SHFE.ss2408 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min5 cache of SHFE.sn2407 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min5 cache of SHFE.cu2408 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min5 cache of SHFE.ni2408 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min5 cache of SHFE.zn2408 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min5 cache of INE.bc2501 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min5 cache of INE.bc2409 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min5 cache of SHFE.cu2412 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min5 cache of SHFE.ni2412 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min5 cache of SHFE.sn2412 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min5 cache of SHFE.pb2412 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min5 cache of SHFE.ss2412 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min5 cache of SHFE.zn2412 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min5 cache of SHFE.al2410 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min5 cache of SHFE.al2412 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min5 cache of SHFE.ss2410 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min5 cache of SHFE.cu2410 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min5 cache of SHFE.ni2410 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min5 cache of SHFE.zn2410 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min5 cache of SHFE.sn2410 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min5 cache of SHFE.pb2410 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min5 cache of SHFE.cu2411 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min5 cache of SHFE.ni2411 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min5 cache of SHFE.zn2411 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min5 cache of SHFE.al2411 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min5 cache of SHFE.sn2411 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min5 cache of SHFE.pb2411 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min5 cache of SHFE.ss2411 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min5 cache of INE.bc2502 mapping expired, automatically closed
+[2024.06.07 01:10:04 - info ] min5 cache of INE.bc2503 mapping expired, automatically closed
+[2024.06.07 01:10:06 - info ] 953000 ticks received from exchange INE
+[2024.06.07 01:10:13 - info ] 4238000 ticks received from exchange SHFE
+[2024.06.07 01:10:21 - info ] 4238200 ticks received from exchange SHFE
+[2024.06.07 01:10:28 - info ] 4238400 ticks received from exchange SHFE
+[2024.06.07 01:10:29 - info ] 953200 ticks received from exchange INE
+[2024.06.07 01:10:37 - info ] 4238600 ticks received from exchange SHFE
+[2024.06.07 01:10:48 - info ] 4238800 ticks received from exchange SHFE
+[2024.06.07 01:10:55 - info ] 953400 ticks received from exchange INE
+[2024.06.07 01:11:02 - info ] 4239000 ticks received from exchange SHFE
+[2024.06.07 01:11:13 - info ] 4239200 ticks received from exchange SHFE
+[2024.06.07 01:11:19 - info ] 953600 ticks received from exchange INE
+[2024.06.07 01:11:20 - info ] 4239400 ticks received from exchange SHFE
+[2024.06.07 01:11:29 - info ] 4239600 ticks received from exchange SHFE
+[2024.06.07 01:11:38 - info ] 4239800 ticks received from exchange SHFE
+[2024.06.07 01:11:46 - info ] 953800 ticks received from exchange INE
+[2024.06.07 01:11:51 - info ] 4240000 ticks received from exchange SHFE
+[2024.06.07 01:11:54 - debug] RT tick block of SHFE.ag2407 resized to 20000
+[2024.06.07 01:12:01 - info ] 4240200 ticks received from exchange SHFE
+[2024.06.07 01:12:11 - info ] 954000 ticks received from exchange INE
+[2024.06.07 01:12:13 - info ] 4240400 ticks received from exchange SHFE
+[2024.06.07 01:12:19 - info ] 4240600 ticks received from exchange SHFE
+[2024.06.07 01:12:26 - info ] 4240800 ticks received from exchange SHFE
+[2024.06.07 01:12:34 - info ] 4241000 ticks received from exchange SHFE
+[2024.06.07 01:12:34 - info ] 954200 ticks received from exchange INE
+[2024.06.07 01:12:47 - info ] 4241200 ticks received from exchange SHFE
+[2024.06.07 01:12:59 - info ] 4241400 ticks received from exchange SHFE
+[2024.06.07 01:13:03 - info ] 954400 ticks received from exchange INE
+[2024.06.07 01:13:10 - info ] 4241600 ticks received from exchange SHFE
+[2024.06.07 01:13:22 - info ] 4241800 ticks received from exchange SHFE
+[2024.06.07 01:13:29 - info ] 954600 ticks received from exchange INE
+[2024.06.07 01:13:32 - info ] 4242000 ticks received from exchange SHFE
+[2024.06.07 01:13:45 - info ] 4242200 ticks received from exchange SHFE
+[2024.06.07 01:13:54 - info ] 954800 ticks received from exchange INE
+[2024.06.07 01:13:58 - info ] 4242400 ticks received from exchange SHFE
+[2024.06.07 01:14:05 - info ] 4242600 ticks received from exchange SHFE
+[2024.06.07 01:14:15 - info ] 4242800 ticks received from exchange SHFE
+[2024.06.07 01:14:19 - info ] 955000 ticks received from exchange INE
+[2024.06.07 01:14:23 - info ] 4243000 ticks received from exchange SHFE
+[2024.06.07 01:14:30 - info ] 4243200 ticks received from exchange SHFE
+[2024.06.07 01:14:41 - info ] 4243400 ticks received from exchange SHFE
+[2024.06.07 01:14:45 - info ] 955200 ticks received from exchange INE
+[2024.06.07 01:14:54 - info ] 4243600 ticks received from exchange SHFE
+[2024.06.07 01:15:02 - info ] 4243800 ticks received from exchange SHFE
+[2024.06.07 01:15:09 - info ] 955400 ticks received from exchange INE
+[2024.06.07 01:15:13 - info ] 4244000 ticks received from exchange SHFE
+[2024.06.07 01:15:22 - info ] 4244200 ticks received from exchange SHFE
+[2024.06.07 01:15:31 - info ] 4244400 ticks received from exchange SHFE
+[2024.06.07 01:15:33 - debug] RT tick block of SHFE.au2412 resized to 20000
+[2024.06.07 01:15:33 - info ] 955600 ticks received from exchange INE
+[2024.06.07 01:15:41 - info ] 4244600 ticks received from exchange SHFE
+[2024.06.07 01:15:52 - info ] 4244800 ticks received from exchange SHFE
+[2024.06.07 01:15:57 - info ] 955800 ticks received from exchange INE
+[2024.06.07 01:16:02 - info ] 4245000 ticks received from exchange SHFE
+[2024.06.07 01:16:10 - info ] 4245200 ticks received from exchange SHFE
+[2024.06.07 01:16:19 - info ] 4245400 ticks received from exchange SHFE
+[2024.06.07 01:16:21 - info ] 956000 ticks received from exchange INE
+[2024.06.07 01:16:27 - info ] 4245600 ticks received from exchange SHFE
+[2024.06.07 01:16:37 - info ] 4245800 ticks received from exchange SHFE
+[2024.06.07 01:16:45 - info ] 956200 ticks received from exchange INE
+[2024.06.07 01:16:51 - info ] 4246000 ticks received from exchange SHFE
+[2024.06.07 01:17:03 - info ] 4246200 ticks received from exchange SHFE
+[2024.06.07 01:17:09 - info ] 956400 ticks received from exchange INE
+[2024.06.07 01:17:12 - info ] 4246400 ticks received from exchange SHFE
+[2024.06.07 01:17:20 - info ] 4246600 ticks received from exchange SHFE
+[2024.06.07 01:17:26 - info ] 4246800 ticks received from exchange SHFE
+[2024.06.07 01:17:35 - info ] 956600 ticks received from exchange INE
+[2024.06.07 01:17:37 - info ] 4247000 ticks received from exchange SHFE
+[2024.06.07 01:17:44 - debug] RT tick block of SHFE.ag2408 resized to 27500
+[2024.06.07 01:17:49 - info ] 4247200 ticks received from exchange SHFE
+[2024.06.07 01:17:59 - info ] 4247400 ticks received from exchange SHFE
+[2024.06.07 01:18:01 - info ] 956800 ticks received from exchange INE
+[2024.06.07 01:18:10 - info ] 4247600 ticks received from exchange SHFE
+[2024.06.07 01:18:17 - info ] 4247800 ticks received from exchange SHFE
+[2024.06.07 01:18:24 - debug] RT tick block of SHFE.au2408 resized to 27500
+[2024.06.07 01:18:25 - info ] 4248000 ticks received from exchange SHFE
+[2024.06.07 01:18:27 - info ] 957000 ticks received from exchange INE
+[2024.06.07 01:18:35 - info ] 4248200 ticks received from exchange SHFE
+[2024.06.07 01:18:37 - debug] RT tick block of SHFE.au2410 resized to 27500
+[2024.06.07 01:18:46 - info ] 4248400 ticks received from exchange SHFE
+[2024.06.07 01:18:52 - info ] 957200 ticks received from exchange INE
+[2024.06.07 01:18:56 - info ] 4248600 ticks received from exchange SHFE
+[2024.06.07 01:19:02 - debug] RT tick block of SHFE.ag2410 resized to 27500
+[2024.06.07 01:19:07 - info ] 4248800 ticks received from exchange SHFE
+[2024.06.07 01:19:14 - info ] 957400 ticks received from exchange INE
+[2024.06.07 01:19:18 - info ] 4249000 ticks received from exchange SHFE
+[2024.06.07 01:19:33 - info ] 4249200 ticks received from exchange SHFE
+[2024.06.07 01:19:36 - info ] 957600 ticks received from exchange INE
+[2024.06.07 01:19:42 - info ] 4249400 ticks received from exchange SHFE
+[2024.06.07 01:19:50 - info ] 4249600 ticks received from exchange SHFE
+[2024.06.07 01:20:00 - info ] 4249800 ticks received from exchange SHFE
+[2024.06.07 01:20:01 - info ] 957800 ticks received from exchange INE
+[2024.06.07 01:20:09 - info ] 4250000 ticks received from exchange SHFE
+[2024.06.07 01:20:18 - info ] 4250200 ticks received from exchange SHFE
+[2024.06.07 01:20:19 - debug] RT tick block of INE.sc2409 resized to 27500
+[2024.06.07 01:20:25 - info ] 958000 ticks received from exchange INE
+[2024.06.07 01:20:31 - info ] 4250400 ticks received from exchange SHFE
+[2024.06.07 01:20:39 - info ] 4250600 ticks received from exchange SHFE
+[2024.06.07 01:20:42 - debug] RT tick block of INE.sc2408 resized to 27500
+[2024.06.07 01:20:48 - info ] 4250800 ticks received from exchange SHFE
+[2024.06.07 01:20:50 - info ] 958200 ticks received from exchange INE
+[2024.06.07 01:20:59 - info ] 4251000 ticks received from exchange SHFE
+[2024.06.07 01:21:08 - info ] 4251200 ticks received from exchange SHFE
+[2024.06.07 01:21:10 - debug] RT tick block of SHFE.ag2505 resized to 20000
+[2024.06.07 01:21:14 - info ] 958400 ticks received from exchange INE
+[2024.06.07 01:21:18 - info ] 4251400 ticks received from exchange SHFE
+[2024.06.07 01:21:28 - info ] 4251600 ticks received from exchange SHFE
+[2024.06.07 01:21:29 - debug] RT tick block of INE.sc2410 resized to 27500
+[2024.06.07 01:21:39 - info ] 4251800 ticks received from exchange SHFE
+[2024.06.07 01:21:39 - info ] 958600 ticks received from exchange INE
+[2024.06.07 01:21:49 - info ] 4252000 ticks received from exchange SHFE
+[2024.06.07 01:22:03 - info ] 4252200 ticks received from exchange SHFE
+[2024.06.07 01:22:04 - info ] 958800 ticks received from exchange INE
+[2024.06.07 01:22:16 - info ] 4252400 ticks received from exchange SHFE
+[2024.06.07 01:22:23 - debug] RT tick block of SHFE.au2506 resized to 17500
+[2024.06.07 01:22:25 - info ] 4252600 ticks received from exchange SHFE
+[2024.06.07 01:22:28 - info ] 959000 ticks received from exchange INE
+[2024.06.07 01:22:33 - info ] 4252800 ticks received from exchange SHFE
+[2024.06.07 01:22:43 - info ] 4253000 ticks received from exchange SHFE
+[2024.06.07 01:22:53 - info ] 959200 ticks received from exchange INE
+[2024.06.07 01:22:54 - info ] 4253200 ticks received from exchange SHFE
+[2024.06.07 01:23:02 - info ] 4253400 ticks received from exchange SHFE
+[2024.06.07 01:23:12 - info ] 4253600 ticks received from exchange SHFE
+[2024.06.07 01:23:15 - info ] 959400 ticks received from exchange INE
+[2024.06.07 01:23:20 - info ] 4253800 ticks received from exchange SHFE
+[2024.06.07 01:23:30 - info ] 4254000 ticks received from exchange SHFE
+[2024.06.07 01:23:36 - info ] 959600 ticks received from exchange INE
+[2024.06.07 01:23:39 - info ] 4254200 ticks received from exchange SHFE
+[2024.06.07 01:23:49 - info ] 4254400 ticks received from exchange SHFE
+[2024.06.07 01:23:59 - info ] 4254600 ticks received from exchange SHFE
+[2024.06.07 01:24:02 - info ] 959800 ticks received from exchange INE
+[2024.06.07 01:24:08 - info ] 4254800 ticks received from exchange SHFE
+[2024.06.07 01:24:20 - info ] 4255000 ticks received from exchange SHFE
+[2024.06.07 01:24:25 - info ] 960000 ticks received from exchange INE
+[2024.06.07 01:24:31 - info ] 4255200 ticks received from exchange SHFE
+[2024.06.07 01:24:46 - info ] 4255400 ticks received from exchange SHFE
+[2024.06.07 01:24:50 - info ] 960200 ticks received from exchange INE
+[2024.06.07 01:24:58 - info ] 4255600 ticks received from exchange SHFE
+[2024.06.07 01:25:12 - info ] 4255800 ticks received from exchange SHFE
+[2024.06.07 01:25:16 - info ] 960400 ticks received from exchange INE
+[2024.06.07 01:25:23 - info ] 4256000 ticks received from exchange SHFE
+[2024.06.07 01:25:37 - info ] 4256200 ticks received from exchange SHFE
+[2024.06.07 01:25:38 - info ] 960600 ticks received from exchange INE
+[2024.06.07 01:25:49 - info ] 4256400 ticks received from exchange SHFE
+[2024.06.07 01:26:02 - info ] 960800 ticks received from exchange INE
+[2024.06.07 01:26:03 - info ] 4256600 ticks received from exchange SHFE
+[2024.06.07 01:26:17 - info ] 4256800 ticks received from exchange SHFE
+[2024.06.07 01:26:29 - info ] 4257000 ticks received from exchange SHFE
+[2024.06.07 01:26:29 - info ] 961000 ticks received from exchange INE
+[2024.06.07 01:26:37 - info ] 4257200 ticks received from exchange SHFE
+[2024.06.07 01:26:47 - info ] 4257400 ticks received from exchange SHFE
+[2024.06.07 01:26:54 - info ] 961200 ticks received from exchange INE
+[2024.06.07 01:26:58 - info ] 4257600 ticks received from exchange SHFE
+[2024.06.07 01:27:08 - info ] 4257800 ticks received from exchange SHFE
+[2024.06.07 01:27:18 - info ] 4258000 ticks received from exchange SHFE
+[2024.06.07 01:27:20 - info ] 961400 ticks received from exchange INE
+[2024.06.07 01:27:29 - info ] 4258200 ticks received from exchange SHFE
+[2024.06.07 01:27:44 - info ] 4258400 ticks received from exchange SHFE
+[2024.06.07 01:27:45 - info ] 961600 ticks received from exchange INE
+[2024.06.07 01:27:51 - info ] 4258600 ticks received from exchange SHFE
+[2024.06.07 01:27:59 - info ] 4258800 ticks received from exchange SHFE
+[2024.06.07 01:28:05 - info ] 4259000 ticks received from exchange SHFE
+[2024.06.07 01:28:12 - info ] 4259200 ticks received from exchange SHFE
+[2024.06.07 01:28:14 - info ] 961800 ticks received from exchange INE
+[2024.06.07 01:28:22 - info ] 4259400 ticks received from exchange SHFE
+[2024.06.07 01:28:31 - info ] 4259600 ticks received from exchange SHFE
+[2024.06.07 01:28:41 - info ] 4259800 ticks received from exchange SHFE
+[2024.06.07 01:28:42 - info ] 962000 ticks received from exchange INE
+[2024.06.07 01:28:51 - info ] 4260000 ticks received from exchange SHFE
+[2024.06.07 01:29:00 - info ] 4260200 ticks received from exchange SHFE
+[2024.06.07 01:29:04 - info ] 962200 ticks received from exchange INE
+[2024.06.07 01:29:09 - info ] 4260400 ticks received from exchange SHFE
+[2024.06.07 01:29:17 - info ] 4260600 ticks received from exchange SHFE
+[2024.06.07 01:29:28 - info ] 4260800 ticks received from exchange SHFE
+[2024.06.07 01:29:29 - info ] 962400 ticks received from exchange INE
+[2024.06.07 01:29:43 - info ] 4261000 ticks received from exchange SHFE
+[2024.06.07 01:29:54 - info ] 4261200 ticks received from exchange SHFE
+[2024.06.07 01:29:55 - info ] 962600 ticks received from exchange INE
+[2024.06.07 01:30:02 - info ] 4261400 ticks received from exchange SHFE
+[2024.06.07 01:30:09 - info ] 4261600 ticks received from exchange SHFE
+[2024.06.07 01:30:19 - info ] 4261800 ticks received from exchange SHFE
+[2024.06.07 01:30:20 - info ] 962800 ticks received from exchange INE
+[2024.06.07 01:30:29 - info ] 4262000 ticks received from exchange SHFE
+[2024.06.07 01:30:43 - info ] 4262200 ticks received from exchange SHFE
+[2024.06.07 01:30:50 - info ] 963000 ticks received from exchange INE
+[2024.06.07 01:30:54 - info ] 4262400 ticks received from exchange SHFE
+[2024.06.07 01:31:03 - info ] 4262600 ticks received from exchange SHFE
+[2024.06.07 01:31:10 - info ] 4262800 ticks received from exchange SHFE
+[2024.06.07 01:31:15 - info ] 963200 ticks received from exchange INE
+[2024.06.07 01:31:19 - info ] 4263000 ticks received from exchange SHFE
+[2024.06.07 01:31:28 - info ] 4263200 ticks received from exchange SHFE
+[2024.06.07 01:31:36 - info ] 4263400 ticks received from exchange SHFE
+[2024.06.07 01:31:42 - info ] 963400 ticks received from exchange INE
+[2024.06.07 01:31:46 - info ] 4263600 ticks received from exchange SHFE
+[2024.06.07 01:31:58 - info ] 4263800 ticks received from exchange SHFE
+[2024.06.07 01:32:05 - info ] 4264000 ticks received from exchange SHFE
+[2024.06.07 01:32:11 - info ] 963600 ticks received from exchange INE
+[2024.06.07 01:32:14 - info ] 4264200 ticks received from exchange SHFE
+[2024.06.07 01:32:24 - info ] 4264400 ticks received from exchange SHFE
+[2024.06.07 01:32:37 - info ] 4264600 ticks received from exchange SHFE
+[2024.06.07 01:32:40 - info ] 963800 ticks received from exchange INE
+[2024.06.07 01:32:51 - info ] 4264800 ticks received from exchange SHFE
+[2024.06.07 01:33:02 - info ] 4265000 ticks received from exchange SHFE
+[2024.06.07 01:33:09 - info ] 964000 ticks received from exchange INE
+[2024.06.07 01:33:16 - debug] RT tick block of SHFE.au2502 resized to 17500
+[2024.06.07 01:33:17 - info ] 4265200 ticks received from exchange SHFE
+[2024.06.07 01:33:31 - info ] 4265400 ticks received from exchange SHFE
+[2024.06.07 01:33:38 - info ] 964200 ticks received from exchange INE
+[2024.06.07 01:33:45 - info ] 4265600 ticks received from exchange SHFE
+[2024.06.07 01:33:58 - info ] 4265800 ticks received from exchange SHFE
+[2024.06.07 01:34:10 - info ] 964400 ticks received from exchange INE
+[2024.06.07 01:34:11 - info ] 4266000 ticks received from exchange SHFE
+[2024.06.07 01:34:25 - info ] 4266200 ticks received from exchange SHFE
+[2024.06.07 01:34:37 - info ] 4266400 ticks received from exchange SHFE
+[2024.06.07 01:34:38 - info ] 964600 ticks received from exchange INE
+[2024.06.07 01:34:50 - info ] 4266600 ticks received from exchange SHFE
+[2024.06.07 01:35:04 - info ] 964800 ticks received from exchange INE
+[2024.06.07 01:35:06 - info ] 4266800 ticks received from exchange SHFE
+[2024.06.07 01:35:21 - info ] 4267000 ticks received from exchange SHFE
+[2024.06.07 01:35:26 - info ] 965000 ticks received from exchange INE
+[2024.06.07 01:35:35 - info ] 4267200 ticks received from exchange SHFE
+[2024.06.07 01:35:47 - info ] 965200 ticks received from exchange INE
+[2024.06.07 01:35:52 - info ] 4267400 ticks received from exchange SHFE
+[2024.06.07 01:36:04 - info ] 4267600 ticks received from exchange SHFE
+[2024.06.07 01:36:12 - info ] 965400 ticks received from exchange INE
+[2024.06.07 01:36:17 - info ] 4267800 ticks received from exchange SHFE
+[2024.06.07 01:36:32 - info ] 4268000 ticks received from exchange SHFE
+[2024.06.07 01:36:38 - info ] 965600 ticks received from exchange INE
+[2024.06.07 01:36:46 - info ] 4268200 ticks received from exchange SHFE
+[2024.06.07 01:36:59 - info ] 4268400 ticks received from exchange SHFE
+[2024.06.07 01:37:04 - info ] 965800 ticks received from exchange INE
+[2024.06.07 01:37:07 - info ] 4268600 ticks received from exchange SHFE
+[2024.06.07 01:37:14 - info ] 4268800 ticks received from exchange SHFE
+[2024.06.07 01:37:22 - info ] 4269000 ticks received from exchange SHFE
+[2024.06.07 01:37:29 - info ] 4269200 ticks received from exchange SHFE
+[2024.06.07 01:37:32 - info ] 966000 ticks received from exchange INE
+[2024.06.07 01:37:38 - info ] 4269400 ticks received from exchange SHFE
+[2024.06.07 01:37:47 - info ] 4269600 ticks received from exchange SHFE
+[2024.06.07 01:37:59 - info ] 4269800 ticks received from exchange SHFE
+[2024.06.07 01:38:00 - info ] 966200 ticks received from exchange INE
+[2024.06.07 01:38:00 - debug] RT tick block of SHFE.ag2409 resized to 25000
+[2024.06.07 01:38:10 - info ] 4270000 ticks received from exchange SHFE
+[2024.06.07 01:38:22 - info ] 4270200 ticks received from exchange SHFE
+[2024.06.07 01:38:30 - debug] RT tick block of SHFE.ag2502 resized to 22500
+[2024.06.07 01:38:30 - info ] 966400 ticks received from exchange INE
+[2024.06.07 01:38:34 - debug] RT tick block of SHFE.ag2408 resized to 30000
+[2024.06.07 01:38:36 - info ] 4270400 ticks received from exchange SHFE
+[2024.06.07 01:38:48 - info ] 4270600 ticks received from exchange SHFE
+[2024.06.07 01:38:59 - info ] 966600 ticks received from exchange INE
+[2024.06.07 01:39:00 - info ] 4270800 ticks received from exchange SHFE
+[2024.06.07 01:39:09 - info ] 4271000 ticks received from exchange SHFE
+[2024.06.07 01:39:16 - debug] RT tick block of SHFE.au2408 resized to 30000
+[2024.06.07 01:39:21 - info ] 4271200 ticks received from exchange SHFE
+[2024.06.07 01:39:24 - debug] RT tick block of SHFE.ag2412 resized to 27500
+[2024.06.07 01:39:27 - info ] 966800 ticks received from exchange INE
+[2024.06.07 01:39:27 - debug] RT tick block of SHFE.au2410 resized to 30000
+[2024.06.07 01:39:35 - info ] 4271400 ticks received from exchange SHFE
+[2024.06.07 01:39:46 - info ] 4271600 ticks received from exchange SHFE
+[2024.06.07 01:39:58 - info ] 967000 ticks received from exchange INE
+[2024.06.07 01:39:58 - info ] 4271800 ticks received from exchange SHFE
+[2024.06.07 01:40:09 - info ] 4272000 ticks received from exchange SHFE
+[2024.06.07 01:40:20 - info ] 4272200 ticks received from exchange SHFE
+[2024.06.07 01:40:22 - debug] RT tick block of SHFE.ag2410 resized to 30000
+[2024.06.07 01:40:24 - info ] 967200 ticks received from exchange INE
+[2024.06.07 01:40:34 - info ] 4272400 ticks received from exchange SHFE
+[2024.06.07 01:40:48 - info ] 4272600 ticks received from exchange SHFE
+[2024.06.07 01:40:50 - info ] 967400 ticks received from exchange INE
+[2024.06.07 01:40:59 - info ] 4272800 ticks received from exchange SHFE
+[2024.06.07 01:41:14 - info ] 4273000 ticks received from exchange SHFE
+[2024.06.07 01:41:17 - info ] 967600 ticks received from exchange INE
+[2024.06.07 01:41:23 - debug] RT tick block of INE.sc2407 resized to 25000
+[2024.06.07 01:41:28 - info ] 4273200 ticks received from exchange SHFE
+[2024.06.07 01:41:39 - debug] RT tick block of INE.sc2409 resized to 30000
+[2024.06.07 01:41:41 - info ] 4273400 ticks received from exchange SHFE
+[2024.06.07 01:41:45 - info ] 967800 ticks received from exchange INE
+[2024.06.07 01:41:53 - debug] RT tick block of INE.sc2408 resized to 30000
+[2024.06.07 01:41:54 - info ] 4273600 ticks received from exchange SHFE
+[2024.06.07 01:42:06 - info ] 4273800 ticks received from exchange SHFE
+[2024.06.07 01:42:10 - info ] 968000 ticks received from exchange INE
+[2024.06.07 01:42:19 - info ] 4274000 ticks received from exchange SHFE
+[2024.06.07 01:42:19 - debug] RT tick block of INE.sc2410 resized to 30000
+[2024.06.07 01:42:35 - info ] 968200 ticks received from exchange INE
+[2024.06.07 01:42:36 - info ] 4274200 ticks received from exchange SHFE
+[2024.06.07 01:42:48 - info ] 4274400 ticks received from exchange SHFE
+[2024.06.07 01:42:58 - info ] 4274600 ticks received from exchange SHFE
+[2024.06.07 01:43:02 - info ] 968400 ticks received from exchange INE
+[2024.06.07 01:43:07 - info ] 4274800 ticks received from exchange SHFE
+[2024.06.07 01:43:18 - info ] 4275000 ticks received from exchange SHFE
+[2024.06.07 01:43:29 - info ] 4275200 ticks received from exchange SHFE
+[2024.06.07 01:43:29 - info ] 968600 ticks received from exchange INE
+[2024.06.07 01:43:38 - info ] 4275400 ticks received from exchange SHFE
+[2024.06.07 01:43:48 - info ] 4275600 ticks received from exchange SHFE
+[2024.06.07 01:43:53 - debug] RT tick block of SHFE.au2504 resized to 17500
+[2024.06.07 01:43:54 - info ] 968800 ticks received from exchange INE
+[2024.06.07 01:43:57 - info ] 4275800 ticks received from exchange SHFE
+[2024.06.07 01:44:06 - info ] 4276000 ticks received from exchange SHFE
+[2024.06.07 01:44:19 - info ] 4276200 ticks received from exchange SHFE
+[2024.06.07 01:44:20 - info ] 969000 ticks received from exchange INE
+[2024.06.07 01:44:31 - info ] 4276400 ticks received from exchange SHFE
+[2024.06.07 01:44:42 - info ] 4276600 ticks received from exchange SHFE
+[2024.06.07 01:44:46 - info ] 969200 ticks received from exchange INE
+[2024.06.07 01:44:53 - info ] 4276800 ticks received from exchange SHFE
+[2024.06.07 01:45:05 - info ] 4277000 ticks received from exchange SHFE
+[2024.06.07 01:45:11 - info ] 4277200 ticks received from exchange SHFE
+[2024.06.07 01:45:13 - info ] 969400 ticks received from exchange INE
+[2024.06.07 01:45:18 - info ] 4277400 ticks received from exchange SHFE
+[2024.06.07 01:45:26 - info ] 4277600 ticks received from exchange SHFE
+[2024.06.07 01:45:37 - info ] 4277800 ticks received from exchange SHFE
+[2024.06.07 01:45:40 - info ] 969600 ticks received from exchange INE
+[2024.06.07 01:45:48 - info ] 4278000 ticks received from exchange SHFE
+[2024.06.07 01:45:57 - info ] 4278200 ticks received from exchange SHFE
+[2024.06.07 01:46:05 - info ] 969800 ticks received from exchange INE
+[2024.06.07 01:46:06 - info ] 4278400 ticks received from exchange SHFE
+[2024.06.07 01:46:13 - info ] 4278600 ticks received from exchange SHFE
+[2024.06.07 01:46:20 - info ] 4278800 ticks received from exchange SHFE
+[2024.06.07 01:46:28 - info ] 4279000 ticks received from exchange SHFE
+[2024.06.07 01:46:31 - info ] 970000 ticks received from exchange INE
+[2024.06.07 01:46:36 - info ] 4279200 ticks received from exchange SHFE
+[2024.06.07 01:46:43 - info ] 4279400 ticks received from exchange SHFE
+[2024.06.07 01:46:51 - info ] 4279600 ticks received from exchange SHFE
+[2024.06.07 01:46:58 - info ] 970200 ticks received from exchange INE
+[2024.06.07 01:46:59 - info ] 4279800 ticks received from exchange SHFE
+[2024.06.07 01:47:08 - info ] 4280000 ticks received from exchange SHFE
+[2024.06.07 01:47:17 - info ] 4280200 ticks received from exchange SHFE
+[2024.06.07 01:47:24 - info ] 970400 ticks received from exchange INE
+[2024.06.07 01:47:27 - info ] 4280400 ticks received from exchange SHFE
+[2024.06.07 01:47:35 - info ] 4280600 ticks received from exchange SHFE
+[2024.06.07 01:47:47 - info ] 4280800 ticks received from exchange SHFE
+[2024.06.07 01:47:52 - info ] 970600 ticks received from exchange INE
+[2024.06.07 01:47:58 - info ] 4281000 ticks received from exchange SHFE
+[2024.06.07 01:48:06 - info ] 4281200 ticks received from exchange SHFE
+[2024.06.07 01:48:16 - info ] 4281400 ticks received from exchange SHFE
+[2024.06.07 01:48:23 - info ] 970800 ticks received from exchange INE
+[2024.06.07 01:48:26 - info ] 4281600 ticks received from exchange SHFE
+[2024.06.07 01:48:41 - info ] 4281800 ticks received from exchange SHFE
+[2024.06.07 01:48:50 - info ] 971000 ticks received from exchange INE
+[2024.06.07 01:48:54 - info ] 4282000 ticks received from exchange SHFE
+[2024.06.07 01:49:08 - info ] 4282200 ticks received from exchange SHFE
+[2024.06.07 01:49:17 - info ] 4282400 ticks received from exchange SHFE
+[2024.06.07 01:49:19 - info ] 971200 ticks received from exchange INE
+[2024.06.07 01:49:24 - info ] 4282600 ticks received from exchange SHFE
+[2024.06.07 01:49:32 - info ] 4282800 ticks received from exchange SHFE
+[2024.06.07 01:49:43 - info ] 4283000 ticks received from exchange SHFE
+[2024.06.07 01:49:45 - info ] 971400 ticks received from exchange INE
+[2024.06.07 01:49:55 - info ] 4283200 ticks received from exchange SHFE
+[2024.06.07 01:50:08 - info ] 4283400 ticks received from exchange SHFE
+[2024.06.07 01:50:14 - info ] 971600 ticks received from exchange INE
+[2024.06.07 01:50:20 - info ] 4283600 ticks received from exchange SHFE
+[2024.06.07 01:50:21 - debug] RT tick block of SHFE.ag2503 resized to 22500
+[2024.06.07 01:50:32 - info ] 4283800 ticks received from exchange SHFE
+[2024.06.07 01:50:40 - info ] 971800 ticks received from exchange INE
+[2024.06.07 01:50:43 - info ] 4284000 ticks received from exchange SHFE
+[2024.06.07 01:50:50 - debug] RT tick block of SHFE.ag2407 resized to 22500
+[2024.06.07 01:50:55 - info ] 4284200 ticks received from exchange SHFE
+[2024.06.07 01:51:04 - info ] 972000 ticks received from exchange INE
+[2024.06.07 01:51:07 - info ] 4284400 ticks received from exchange SHFE
+[2024.06.07 01:51:22 - info ] 4284600 ticks received from exchange SHFE
+[2024.06.07 01:51:29 - info ] 972200 ticks received from exchange INE
+[2024.06.07 01:51:35 - info ] 4284800 ticks received from exchange SHFE
+[2024.06.07 01:51:46 - info ] 4285000 ticks received from exchange SHFE
+[2024.06.07 01:51:56 - info ] 4285200 ticks received from exchange SHFE
+[2024.06.07 01:51:57 - info ] 972400 ticks received from exchange INE
+[2024.06.07 01:52:07 - info ] 4285400 ticks received from exchange SHFE
+[2024.06.07 01:52:17 - info ] 4285600 ticks received from exchange SHFE
+[2024.06.07 01:52:24 - info ] 972600 ticks received from exchange INE
+[2024.06.07 01:52:25 - info ] 4285800 ticks received from exchange SHFE
+[2024.06.07 01:52:31 - info ] 4286000 ticks received from exchange SHFE
+[2024.06.07 01:52:39 - info ] 4286200 ticks received from exchange SHFE
+[2024.06.07 01:52:48 - info ] 4286400 ticks received from exchange SHFE
+[2024.06.07 01:52:51 - info ] 972800 ticks received from exchange INE
+[2024.06.07 01:52:55 - info ] 4286600 ticks received from exchange SHFE
+[2024.06.07 01:53:01 - info ] 4286800 ticks received from exchange SHFE
+[2024.06.07 01:53:07 - info ] 4287000 ticks received from exchange SHFE
+[2024.06.07 01:53:14 - info ] 4287200 ticks received from exchange SHFE
+[2024.06.07 01:53:20 - info ] 973000 ticks received from exchange INE
+[2024.06.07 01:53:22 - info ] 4287400 ticks received from exchange SHFE
+[2024.06.07 01:53:29 - info ] 4287600 ticks received from exchange SHFE
+[2024.06.07 01:53:36 - info ] 4287800 ticks received from exchange SHFE
+[2024.06.07 01:53:42 - info ] 4288000 ticks received from exchange SHFE
+[2024.06.07 01:53:46 - info ] 973200 ticks received from exchange INE
+[2024.06.07 01:53:49 - info ] 4288200 ticks received from exchange SHFE
+[2024.06.07 01:53:58 - info ] 4288400 ticks received from exchange SHFE
+[2024.06.07 01:54:07 - info ] 4288600 ticks received from exchange SHFE
+[2024.06.07 01:54:10 - debug] RT tick block of SHFE.ag2504 resized to 22500
+[2024.06.07 01:54:14 - info ] 4288800 ticks received from exchange SHFE
+[2024.06.07 01:54:14 - info ] 973400 ticks received from exchange INE
+[2024.06.07 01:54:21 - info ] 4289000 ticks received from exchange SHFE
+[2024.06.07 01:54:28 - debug] RT tick block of SHFE.ag2411 resized to 22500
+[2024.06.07 01:54:28 - info ] 4289200 ticks received from exchange SHFE
+[2024.06.07 01:54:37 - info ] 4289400 ticks received from exchange SHFE
+[2024.06.07 01:54:43 - info ] 973600 ticks received from exchange INE
+[2024.06.07 01:54:47 - info ] 4289600 ticks received from exchange SHFE
+[2024.06.07 01:54:57 - info ] 4289800 ticks received from exchange SHFE
+[2024.06.07 01:55:08 - info ] 4290000 ticks received from exchange SHFE
+[2024.06.07 01:55:13 - info ] 973800 ticks received from exchange INE
+[2024.06.07 01:55:21 - info ] 4290200 ticks received from exchange SHFE
+[2024.06.07 01:55:28 - info ] 4290400 ticks received from exchange SHFE
+[2024.06.07 01:55:34 - info ] 4290600 ticks received from exchange SHFE
+[2024.06.07 01:55:39 - info ] 974000 ticks received from exchange INE
+[2024.06.07 01:55:42 - info ] 4290800 ticks received from exchange SHFE
+[2024.06.07 01:55:50 - info ] 4291000 ticks received from exchange SHFE
+[2024.06.07 01:55:59 - info ] 4291200 ticks received from exchange SHFE
+[2024.06.07 01:56:04 - info ] 974200 ticks received from exchange INE
+[2024.06.07 01:56:07 - info ] 4291400 ticks received from exchange SHFE
+[2024.06.07 01:56:16 - info ] 4291600 ticks received from exchange SHFE
+[2024.06.07 01:56:28 - info ] 4291800 ticks received from exchange SHFE
+[2024.06.07 01:56:29 - info ] 974400 ticks received from exchange INE
+[2024.06.07 01:56:39 - info ] 4292000 ticks received from exchange SHFE
+[2024.06.07 01:56:47 - info ] 4292200 ticks received from exchange SHFE
+[2024.06.07 01:56:55 - info ] 974600 ticks received from exchange INE
+[2024.06.07 01:56:58 - info ] 4292400 ticks received from exchange SHFE
+[2024.06.07 01:57:10 - info ] 4292600 ticks received from exchange SHFE
+[2024.06.07 01:57:19 - info ] 974800 ticks received from exchange INE
+[2024.06.07 01:57:19 - info ] 4292800 ticks received from exchange SHFE
+[2024.06.07 01:57:28 - info ] 4293000 ticks received from exchange SHFE
+[2024.06.07 01:57:42 - info ] 4293200 ticks received from exchange SHFE
+[2024.06.07 01:57:46 - info ] 975000 ticks received from exchange INE
+[2024.06.07 01:57:52 - info ] 4293400 ticks received from exchange SHFE
+[2024.06.07 01:58:04 - info ] 4293600 ticks received from exchange SHFE
+[2024.06.07 01:58:14 - info ] 975200 ticks received from exchange INE
+[2024.06.07 01:58:18 - info ] 4293800 ticks received from exchange SHFE
+[2024.06.07 01:58:30 - info ] 4294000 ticks received from exchange SHFE
+[2024.06.07 01:58:39 - info ] 975400 ticks received from exchange INE
+[2024.06.07 01:58:41 - info ] 4294200 ticks received from exchange SHFE
+[2024.06.07 01:58:52 - info ] 4294400 ticks received from exchange SHFE
+[2024.06.07 01:59:03 - info ] 4294600 ticks received from exchange SHFE
+[2024.06.07 01:59:05 - info ] 975600 ticks received from exchange INE
+[2024.06.07 01:59:13 - info ] 4294800 ticks received from exchange SHFE
+[2024.06.07 01:59:24 - debug] RT tick block of SHFE.ag2408 resized to 32500
+[2024.06.07 01:59:24 - info ] 4295000 ticks received from exchange SHFE
+[2024.06.07 01:59:26 - info ] 975800 ticks received from exchange INE
+[2024.06.07 01:59:34 - info ] 4295200 ticks received from exchange SHFE
+[2024.06.07 01:59:47 - info ] 4295400 ticks received from exchange SHFE
+[2024.06.07 01:59:50 - info ] 976000 ticks received from exchange INE
+[2024.06.07 01:59:58 - info ] 4295600 ticks received from exchange SHFE
+[2024.06.07 02:00:06 - debug] RT tick block of SHFE.au2408 resized to 32500
+[2024.06.07 02:00:07 - info ] 976200 ticks received from exchange INE
+[2024.06.07 02:00:07 - info ] 4295800 ticks received from exchange SHFE
+[2024.06.07 02:00:16 - info ] 4296000 ticks received from exchange SHFE
+[2024.06.07 02:00:17 - debug] RT tick block of SHFE.au2410 resized to 32500
+[2024.06.07 02:00:25 - info ] 976400 ticks received from exchange INE
+[2024.06.07 02:00:29 - info ] 4296200 ticks received from exchange SHFE
+[2024.06.07 02:00:39 - info ] 4296400 ticks received from exchange SHFE
+[2024.06.07 02:00:49 - info ] 4296600 ticks received from exchange SHFE
+[2024.06.07 02:00:51 - info ] 976600 ticks received from exchange INE
+[2024.06.07 02:00:58 - info ] 4296800 ticks received from exchange SHFE
+[2024.06.07 02:01:04 - info ] 4297000 ticks received from exchange SHFE
+[2024.06.07 02:01:12 - info ] 4297200 ticks received from exchange SHFE
+[2024.06.07 02:01:15 - info ] 976800 ticks received from exchange INE
+[2024.06.07 02:01:21 - info ] 4297400 ticks received from exchange SHFE
+[2024.06.07 02:01:30 - info ] 4297600 ticks received from exchange SHFE
+[2024.06.07 02:01:35 - debug] RT tick block of SHFE.ag2410 resized to 32500
+[2024.06.07 02:01:39 - info ] 4297800 ticks received from exchange SHFE
+[2024.06.07 02:01:40 - info ] 977000 ticks received from exchange INE
+[2024.06.07 02:01:52 - info ] 4298000 ticks received from exchange SHFE
+[2024.06.07 02:02:02 - info ] 4298200 ticks received from exchange SHFE
+[2024.06.07 02:02:07 - info ] 977200 ticks received from exchange INE
+[2024.06.07 02:02:11 - info ] 4298400 ticks received from exchange SHFE
+[2024.06.07 02:02:18 - info ] 4298600 ticks received from exchange SHFE
+[2024.06.07 02:02:25 - info ] 4298800 ticks received from exchange SHFE
+[2024.06.07 02:02:34 - info ] 4299000 ticks received from exchange SHFE
+[2024.06.07 02:02:34 - info ] 977400 ticks received from exchange INE
+[2024.06.07 02:02:43 - info ] 4299200 ticks received from exchange SHFE
+[2024.06.07 02:02:51 - info ] 4299400 ticks received from exchange SHFE
+[2024.06.07 02:02:56 - info ] 4299600 ticks received from exchange SHFE
+[2024.06.07 02:02:56 - debug] RT tick block of INE.sc2409 resized to 32500
+[2024.06.07 02:02:59 - debug] RT tick block of SHFE.ag2501 resized to 22500
+[2024.06.07 02:02:59 - debug] RT tick block of INE.sc2408 resized to 32500
+[2024.06.07 02:03:02 - info ] 977600 ticks received from exchange INE
+[2024.06.07 02:03:03 - info ] 4299800 ticks received from exchange SHFE
+[2024.06.07 02:03:10 - info ] 4300000 ticks received from exchange SHFE
+[2024.06.07 02:03:18 - info ] 4300200 ticks received from exchange SHFE
+[2024.06.07 02:03:27 - info ] 4300400 ticks received from exchange SHFE
+[2024.06.07 02:03:32 - info ] 977800 ticks received from exchange INE
+[2024.06.07 02:03:36 - info ] 4300600 ticks received from exchange SHFE
+[2024.06.07 02:03:44 - info ] 4300800 ticks received from exchange SHFE
+[2024.06.07 02:03:56 - info ] 4301000 ticks received from exchange SHFE
+[2024.06.07 02:04:03 - info ] 978000 ticks received from exchange INE
+[2024.06.07 02:04:06 - info ] 4301200 ticks received from exchange SHFE
+[2024.06.07 02:04:12 - debug] RT tick block of INE.sc2410 resized to 32500
+[2024.06.07 02:04:15 - info ] 4301400 ticks received from exchange SHFE
+[2024.06.07 02:04:27 - info ] 4301600 ticks received from exchange SHFE
+[2024.06.07 02:04:34 - info ] 978200 ticks received from exchange INE
+[2024.06.07 02:04:36 - info ] 4301800 ticks received from exchange SHFE
+[2024.06.07 02:04:44 - info ] 4302000 ticks received from exchange SHFE
+[2024.06.07 02:04:51 - info ] 4302200 ticks received from exchange SHFE
+[2024.06.07 02:05:01 - info ] 4302400 ticks received from exchange SHFE
+[2024.06.07 02:05:02 - info ] 978400 ticks received from exchange INE
+[2024.06.07 02:05:06 - info ] 4302600 ticks received from exchange SHFE
+[2024.06.07 02:05:11 - info ] 4302800 ticks received from exchange SHFE
+[2024.06.07 02:05:16 - info ] 4303000 ticks received from exchange SHFE
+[2024.06.07 02:05:22 - info ] 4303200 ticks received from exchange SHFE
+[2024.06.07 02:05:28 - info ] 4303400 ticks received from exchange SHFE
+[2024.06.07 02:05:28 - info ] 978600 ticks received from exchange INE
+[2024.06.07 02:05:36 - info ] 4303600 ticks received from exchange SHFE
+[2024.06.07 02:05:42 - info ] 4303800 ticks received from exchange SHFE
+[2024.06.07 02:05:47 - debug] RT tick block of SHFE.ag2412 resized to 30000
+[2024.06.07 02:05:48 - info ] 4304000 ticks received from exchange SHFE
+[2024.06.07 02:05:54 - info ] 978800 ticks received from exchange INE
+[2024.06.07 02:05:56 - info ] 4304200 ticks received from exchange SHFE
+[2024.06.07 02:06:04 - info ] 4304400 ticks received from exchange SHFE
+[2024.06.07 02:06:10 - info ] 4304600 ticks received from exchange SHFE
+[2024.06.07 02:06:20 - info ] 4304800 ticks received from exchange SHFE
+[2024.06.07 02:06:21 - info ] 979000 ticks received from exchange INE
+[2024.06.07 02:06:31 - info ] 4305000 ticks received from exchange SHFE
+[2024.06.07 02:06:39 - info ] 4305200 ticks received from exchange SHFE
+[2024.06.07 02:06:49 - info ] 4305400 ticks received from exchange SHFE
+[2024.06.07 02:06:51 - info ] 979200 ticks received from exchange INE
+[2024.06.07 02:06:57 - info ] 4305600 ticks received from exchange SHFE
+[2024.06.07 02:07:04 - info ] 4305800 ticks received from exchange SHFE
+[2024.06.07 02:07:11 - info ] 4306000 ticks received from exchange SHFE
+[2024.06.07 02:07:17 - info ] 979400 ticks received from exchange INE
+[2024.06.07 02:07:20 - info ] 4306200 ticks received from exchange SHFE
+[2024.06.07 02:07:29 - info ] 4306400 ticks received from exchange SHFE
+[2024.06.07 02:07:42 - info ] 4306600 ticks received from exchange SHFE
+[2024.06.07 02:07:44 - info ] 979600 ticks received from exchange INE
+[2024.06.07 02:07:53 - info ] 4306800 ticks received from exchange SHFE
+[2024.06.07 02:08:04 - info ] 4307000 ticks received from exchange SHFE
+[2024.06.07 02:08:11 - info ] 979800 ticks received from exchange INE
+[2024.06.07 02:08:12 - info ] 4307200 ticks received from exchange SHFE
+[2024.06.07 02:08:21 - info ] 4307400 ticks received from exchange SHFE
+[2024.06.07 02:08:29 - info ] 4307600 ticks received from exchange SHFE
+[2024.06.07 02:08:35 - info ] 980000 ticks received from exchange INE
+[2024.06.07 02:08:41 - info ] 4307800 ticks received from exchange SHFE
+[2024.06.07 02:08:51 - info ] 4308000 ticks received from exchange SHFE
+[2024.06.07 02:08:59 - info ] 980200 ticks received from exchange INE
+[2024.06.07 02:09:03 - info ] 4308200 ticks received from exchange SHFE
+[2024.06.07 02:09:12 - info ] 4308400 ticks received from exchange SHFE
+[2024.06.07 02:09:18 - info ] 4308600 ticks received from exchange SHFE
+[2024.06.07 02:09:25 - info ] 4308800 ticks received from exchange SHFE
+[2024.06.07 02:09:31 - info ] 980400 ticks received from exchange INE
+[2024.06.07 02:09:34 - info ] 4309000 ticks received from exchange SHFE
+[2024.06.07 02:09:44 - info ] 4309200 ticks received from exchange SHFE
+[2024.06.07 02:09:51 - info ] 4309400 ticks received from exchange SHFE
+[2024.06.07 02:09:58 - info ] 980600 ticks received from exchange INE
+[2024.06.07 02:10:02 - info ] 4309600 ticks received from exchange SHFE
+[2024.06.07 02:10:10 - info ] 4309800 ticks received from exchange SHFE
+[2024.06.07 02:10:16 - info ] 4310000 ticks received from exchange SHFE
+[2024.06.07 02:10:24 - info ] 4310200 ticks received from exchange SHFE
+[2024.06.07 02:10:24 - info ] 980800 ticks received from exchange INE
+[2024.06.07 02:10:30 - info ] 4310400 ticks received from exchange SHFE
+[2024.06.07 02:10:38 - info ] 4310600 ticks received from exchange SHFE
+[2024.06.07 02:10:46 - info ] 4310800 ticks received from exchange SHFE
+[2024.06.07 02:10:48 - info ] 981000 ticks received from exchange INE
+[2024.06.07 02:10:55 - info ] 4311000 ticks received from exchange SHFE
+[2024.06.07 02:11:06 - info ] 4311200 ticks received from exchange SHFE
+[2024.06.07 02:11:12 - info ] 4311400 ticks received from exchange SHFE
+[2024.06.07 02:11:17 - info ] 981200 ticks received from exchange INE
+[2024.06.07 02:11:19 - info ] 4311600 ticks received from exchange SHFE
+[2024.06.07 02:11:26 - info ] 4311800 ticks received from exchange SHFE
+[2024.06.07 02:11:34 - debug] RT tick block of SHFE.ag2409 resized to 27500
+[2024.06.07 02:11:35 - info ] 4312000 ticks received from exchange SHFE
+[2024.06.07 02:11:46 - info ] 4312200 ticks received from exchange SHFE
+[2024.06.07 02:11:46 - info ] 981400 ticks received from exchange INE
+[2024.06.07 02:11:57 - info ] 4312400 ticks received from exchange SHFE
+[2024.06.07 02:12:03 - info ] 4312600 ticks received from exchange SHFE
+[2024.06.07 02:12:11 - info ] 4312800 ticks received from exchange SHFE
+[2024.06.07 02:12:13 - info ] 981600 ticks received from exchange INE
+[2024.06.07 02:12:20 - info ] 4313000 ticks received from exchange SHFE
+[2024.06.07 02:12:33 - info ] 4313200 ticks received from exchange SHFE
+[2024.06.07 02:12:39 - info ] 981800 ticks received from exchange INE
+[2024.06.07 02:12:44 - info ] 4313400 ticks received from exchange SHFE
+[2024.06.07 02:12:56 - info ] 4313600 ticks received from exchange SHFE
+[2024.06.07 02:13:03 - info ] 982000 ticks received from exchange INE
