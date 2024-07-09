@@ -10,17 +10,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="24fc4485-eb6a-48ac-baab-4c5a35115b2d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/003_add_dual_thrust_cta_strategy_in_wt/WtCtaStraDualThrustFact.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/003_original_cta_strategy_in_wt/BtLogs/Strategy_cta.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/003_如何添加新的策略.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/004_cta_arbitrategy_strategy/BtLogs/Runner.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/004_cta_arbitrategy_strategy/WtBtRunner.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/004_cta_arbitrategy_strategy/WtCtaStraArbitrageStrategyFact.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/004_cta_arbitrategy_strategy/common/commodities.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/004_cta_arbitrategy_strategy/common/contracts.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/004_cta_arbitrategy_strategy/common/fees.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/004_cta_arbitrategy_strategy/common/fees_stk.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/004_cta_arbitrategy_strategy/common/holidays.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/004_cta_arbitrategy_strategy/common/hots_1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/004_cta_arbitrategy_strategy/common/sessions.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/004_cta_arbitrategy_strategy/common/stk_comms.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/004_cta_arbitrategy_strategy/common/stocks.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/004_cta_arbitrategy_strategy/configbt.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/004_cta_arbitrategy_strategy/logcfgbt.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/004_cta_arbitrategy_strategy/storage/bin/ticks/CFFEX.IF.HOT_tick_20210104.dsb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/004_cta_arbitrategy_strategy/storage/bin/ticks/CFFEX.IF.HOT_tick_20210105.dsb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/004_cta_arbitrategy_strategy/storage/bin/ticks/CFFEX.IF.HOT_tick_20210106.dsb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/004_cta_arbitrategy_strategy/storage/csv/DCE.i.HOT_m5.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/004_cta_arbitrategy_strategy/storage/csv/SHFE.rb.HOT_m5.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/001_run_bt_dual_truast_strategy_1/BtLogs/Runner.log" beforeDir="false" afterPath="$PROJECT_DIR$/001_run_bt_dual_truast_strategy_1/BtLogs/Runner.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/001_run_bt_dual_truast_strategy_1/BtLogs/Strategy_dt_if.log" beforeDir="false" afterPath="$PROJECT_DIR$/001_run_bt_dual_truast_strategy_1/BtLogs/Strategy_dt_if.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/001_run_bt_dual_truast_strategy_1/configbt.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/001_run_bt_dual_truast_strategy_1/configbt.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/001_run_bt_dual_truast_strategy_1/outputs_bt/dt_if/closes.csv" beforeDir="false" afterPath="$PROJECT_DIR$/001_run_bt_dual_truast_strategy_1/outputs_bt/dt_if/closes.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/001_run_bt_dual_truast_strategy_1/outputs_bt/dt_if/funds.csv" beforeDir="false" afterPath="$PROJECT_DIR$/001_run_bt_dual_truast_strategy_1/outputs_bt/dt_if/funds.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/001_run_bt_dual_truast_strategy_1/outputs_bt/dt_if/signals.csv" beforeDir="false" afterPath="$PROJECT_DIR$/001_run_bt_dual_truast_strategy_1/outputs_bt/dt_if/signals.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/001_run_bt_dual_truast_strategy_1/outputs_bt/dt_if/trades.csv" beforeDir="false" afterPath="$PROJECT_DIR$/001_run_bt_dual_truast_strategy_1/outputs_bt/dt_if/trades.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +92,9 @@
       <workItem from="1719828703350" duration="25000" />
       <workItem from="1720070274772" duration="1326000" />
       <workItem from="1720072960905" duration="597000" />
-      <workItem from="1720094302165" duration="692000" />
+      <workItem from="1720094302165" duration="1198000" />
+      <workItem from="1720266185869" duration="2346000" />
+      <workItem from="1720438208413" duration="677000" />
     </task>
     <servers />
   </component>
