@@ -1,0 +1,87 @@
+[2024.12.16 11:05:07 - info ] Trading sessions loaded
+[2024.12.16 11:05:07 - info ] Commodities configuration file ../common/commodities.json loaded
+[2024.12.16 11:05:07 - info ] Contracts configuration file ../common/contracts.json loaded, 5 exchanges
+[2024.12.16 11:05:07 - info ] Holidays loaded
+[2024.12.16 11:05:07 - info ] Data storage module /home/yun/Documents/wondertrader_demos/QuateFactory_ubuntu/libWtDataStorage.so loaded
+[2024.12.16 11:05:07 - info ] Reading parser config from mdparsers.yaml...
+[2024.12.16 11:05:07 - error] [parser] Parser module /home/yun/Documents/wondertrader_demos/QuateFactory_ubuntu/parsers/liblibParserCTP.so loading failed
+[2024.12.16 11:05:07 - info ] 1 market data parsers loaded in total
+[2024.12.16 11:05:07 - info ] 1 parsers started
+[2024.12.16 11:05:07 - info ] Trading session 期货夜盘0230[FN0230] started receiving data
+[2024.12.16 11:05:07 - info ] No corresponding instrument of trading session 期货白盘0915[FD0915], changed into holiday state
+[2024.12.16 11:05:07 - info ] All instruments of trading session 期货白盘0915[FD0915] are in holiday, changed into holiday state
+[2024.12.16 11:05:07 - info ] Trading session 期货夜盘2300[FN2300] started receiving data
+[2024.12.16 11:05:07 - info ] Trading session 期货夜盘0100[FN0100] started receiving data
+[2024.12.16 11:05:07 - info ] Trading session 期货白盘0900[FD0900] started receiving data
+[2024.12.16 11:05:07 - info ] No corresponding instrument of trading session 期货夜盘2330[FN2330], changed into holiday state
+[2024.12.16 11:05:07 - info ] All instruments of trading session 期货夜盘2330[FN2330] are in holiday, changed into holiday state
+[2024.12.16 11:05:07 - info ] Trading session 股票白盘0930[SD0930] started receiving data
+[2024.12.16 11:05:36 - error] app interrupted
+[2024.12.16 11:05:38 - error] app interrupted
+[2024.12.16 11:05:39 - error] app interrupted
+[2024.12.16 11:05:39 - error] app interrupted
+[2024.12.16 11:05:39 - error] app interrupted
+[2024.12.16 11:05:40 - error] app interrupted
+[2024.12.16 11:05:40 - error] app interrupted
+[2024.12.16 11:05:40 - error] app interrupted
+[2024.12.16 11:05:43 - error] app terminated by signal 1
+[2024.12.16 11:05:43 - error] /lib/x86_64-linux-gnu/libc.so.6(pthread_cond_wait+0x20d) [0x74418589b7dd]
+[2024.12.16 11:05:43 - error] ./QuoteFactory(+0x6221c) [0x5f7d3ac5521c]
+[2024.12.16 11:05:43 - error] ./QuoteFactory(main+0x114) [0x5f7d3ac52904]
+[2024.12.16 11:05:43 - error] /lib/x86_64-linux-gnu/libc.so.6(+0x2a1ca) [0x74418582a1ca]
+[2024.12.16 11:05:43 - error] /lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0x8b) [0x74418582a28b]
+[2024.12.16 11:05:43 - error] ./QuoteFactory(_start+0x25) [0x5f7d3ac54235]
+[2024.12.16 11:05:50 - info ] Trading sessions loaded
+[2024.12.16 11:05:50 - info ] Commodities configuration file ../common/commodities.json loaded
+[2024.12.16 11:05:50 - info ] Contracts configuration file ../common/contracts.json loaded, 5 exchanges
+[2024.12.16 11:05:50 - info ] Holidays loaded
+[2024.12.16 11:05:50 - info ] Data storage module /home/yun/Documents/wondertrader_demos/QuateFactory_ubuntu/libWtDataStorage.so loaded
+[2024.12.16 11:05:50 - info ] Reading parser config from mdparsers.yaml...
+[2024.12.16 11:05:50 - info ] [parser] Parser module /home/yun/Documents/wondertrader_demos/QuateFactory_ubuntu/parsers/libParserCTP.so loaded
+[2024.12.16 11:05:50 - error] segmentation violation
+[2024.12.16 11:06:22 - info ] Trading sessions loaded
+[2024.12.16 11:06:22 - info ] Commodities configuration file ../common/commodities.json loaded
+[2024.12.16 11:06:22 - info ] Contracts configuration file ../common/contracts.json loaded, 5 exchanges
+[2024.12.16 11:06:22 - info ] Holidays loaded
+[2024.12.16 11:06:22 - info ] Data storage module /home/yun/Documents/wondertrader_demos/QuateFactory_ubuntu/libWtDataStorage.so loaded
+[2024.12.16 11:06:22 - info ] Reading parser config from mdparsers.yaml...
+[2024.12.16 11:06:22 - info ] [parser] Parser module /home/yun/Documents/wondertrader_demos/QuateFactory_ubuntu/parsers/libParserCTP.so loaded
+[2024.12.16 11:06:22 - error] segmentation violation
+[2024.12.16 11:07:40 - info ] Trading sessions loaded
+[2024.12.16 11:07:40 - info ] Commodities configuration file ../common/commodities.json loaded
+[2024.12.16 11:07:40 - info ] Contracts configuration file ../common/contracts.json loaded, 5 exchanges
+[2024.12.16 11:07:40 - info ] Holidays loaded
+[2024.12.16 11:07:40 - info ] Data storage module /home/yun/Documents/wondertrader_demos/QuateFactory_ubuntu/libWtDataStorage.so loaded
+[2024.12.16 11:07:40 - info ] Reading parser config from mdparsers.yaml...
+[2024.12.16 11:07:40 - info ] [parser] Parser module /home/yun/Documents/wondertrader_demos/QuateFactory_ubuntu/parsers/libParserCTP.so loaded
+[2024.12.16 11:07:40 - info ] 1 market data parsers loaded in total
+[2024.12.16 11:07:40 - info ] 1 parsers started
+[2024.12.16 11:07:40 - info ] Trading session 期货夜盘0230[FN0230] started receiving data
+[2024.12.16 11:07:40 - info ] No corresponding instrument of trading session 期货白盘0915[FD0915], changed into holiday state
+[2024.12.16 11:07:40 - info ] All instruments of trading session 期货白盘0915[FD0915] are in holiday, changed into holiday state
+[2024.12.16 11:07:40 - info ] Trading session 期货夜盘2300[FN2300] started receiving data
+[2024.12.16 11:07:40 - info ] Trading session 期货夜盘0100[FN0100] started receiving data
+[2024.12.16 11:07:40 - info ] Trading session 期货白盘0900[FD0900] started receiving data
+[2024.12.16 11:07:40 - info ] No corresponding instrument of trading session 期货夜盘2330[FN2330], changed into holiday state
+[2024.12.16 11:07:40 - info ] All instruments of trading session 期货夜盘2330[FN2330] are in holiday, changed into holiday state
+[2024.12.16 11:07:40 - info ] Trading session 股票白盘0930[SD0930] started receiving data
+[2024.12.16 11:07:40 - info ] [ParserCTP] Market data server connected
+[2024.12.16 11:07:40 - info ] [ParserCTP] Market data of 685 contracts subscribed totally
+[2024.12.16 11:09:41 - error] [ParserCTP] Market data server disconnected: 8193
+[2024.12.16 11:09:41 - info ] [ParserCTP] Market data server connected
+[2024.12.16 11:09:41 - info ] [ParserCTP] Market data of 685 contracts subscribed totally
+[2024.12.16 11:11:42 - error] [ParserCTP] Market data server disconnected: 8193
+[2024.12.16 11:11:42 - info ] [ParserCTP] Market data server connected
+[2024.12.16 11:11:42 - info ] [ParserCTP] Market data of 685 contracts subscribed totally
+[2024.12.16 11:11:46 - error] app interrupted
+[2024.12.16 11:11:46 - error] app interrupted
+[2024.12.16 11:11:47 - error] app interrupted
+[2024.12.16 11:11:47 - error] app interrupted
+[2024.12.16 11:11:48 - error] app interrupted
+[2024.12.16 11:11:51 - error] app terminated by signal 1
+[2024.12.16 11:11:51 - error] /lib/x86_64-linux-gnu/libc.so.6(pthread_cond_wait+0x20d) [0x7c50c089b7dd]
+[2024.12.16 11:11:51 - error] ./QuoteFactory(+0x6221c) [0x6413fbafe21c]
+[2024.12.16 11:11:51 - error] ./QuoteFactory(main+0x114) [0x6413fbafb904]
+[2024.12.16 11:11:51 - error] /lib/x86_64-linux-gnu/libc.so.6(+0x2a1ca) [0x7c50c082a1ca]
+[2024.12.16 11:11:51 - error] /lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0x8b) [0x7c50c082a28b]
+[2024.12.16 11:11:51 - error] ./QuoteFactory(_start+0x25) [0x6413fbafd235]
