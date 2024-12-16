@@ -29,7 +29,7 @@ def rebuild_hot_rules():
 
     sDate = datetime.datetime.strptime("2024-06-01", '%Y-%m-%d')
     eDate = datetime.datetime.strptime("2024-12-16", '%Y-%m-%d') # 可以设置为None，None则自动设置为当前日期
-    hotRules,secRules = picker.execute_rebuild(sDate, eDate, wait=True)
+    hotRules, secRules = picker.execute_rebuild(sDate, eDate, wait=True)
     print(hotRules)
     print(secRules)
 
